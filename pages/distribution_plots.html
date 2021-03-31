@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<head>
+<meta charset="utf-8"/>
+<script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+<h1>Data visualisation for Elveovervåkingsprogrammet</h1>
+<h3>Labware results were last updated 31.03.2021</h3>
+<p>These visualisations will take a few moments to load - please be patient.</p>
+<p>Choose your parameter of interest from the drop-down list at the bottom of the screen and begin exploring the data.</p>
+<ul>
+<li>Use the <b>scroll wheel</b> on your mouse to <b>zoom in and out</b> on the plots</li>
+<li><b>Click-and-drag</b> to <b>pan</b> from side to side</li>
+<li><b>Double-click</b> to return to the <b>full extent</b> of the data (it is a good idea to do this when you change the parameter)</li>
+<li><b>Hover</b> the mouse pointer over data points on the strip plot and Q-Q plot to see additional details ("<b>tooltips</b>")</li>
+</ul>
+<div id="vis"></div>
+<script>
+    const spec = "distribution_plots.json";
+  	vegaEmbed("#vis", spec)
+    	// result.view provides access to the Vega View API
+      .then(result => console.log(result))
+      .catch(console.warn);
+  </script>
+</body>

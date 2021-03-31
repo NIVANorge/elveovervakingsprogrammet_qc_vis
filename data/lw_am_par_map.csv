@@ -1,0 +1,3201 @@
+"lw_meth";"lw_unit";"am_par";"am_unit";"lw2am_fac"
+"Acenaften";"UG_P_L";"Acenaften";"ng/L";1000
+"Acenaften";"µg/l";"Acenaften";"ng/L";1000
+"Acenaften";"UG_P_L";"Acenaften";"ng/L";1000
+"Acenaften";"NG_P_L";"Acenaften";"ng/L";1
+"Acenaften";"ng/l";"Acenaften";"ng/L";1
+"Acenaften";"UG_P_L";"Acenaften";"ng/L";1000
+"Acenaften";"ng/L";"Acenaften";"ng/L";1
+"Acenaftylen";"ng/L";"Acenaftylen";"ng/L";1
+"Acenaftylen";"NG_P_L";"Acenaftylen";"ng/L";1
+"Acenaftylen";"UG_P_L";"Acenaftylen";"ng/L";1000
+"Acenaftylen";"µg/l";"Acenaftylen";"ng/L";1000
+"Acenaftylen";"ng/l";"Acenaftylen";"ng/L";1
+"Acenaftylen";"UG_P_L";"Acenaftylen";"ng/L";1000
+"Acenaftylen";"UG_P_L";"Acenaftylen";"ng/L";1000
+"Acenaphthene";"ng/L";"Acenaften";"ng/L";1
+"Acenaphthylene";"ng/L";"Acenaftylen";"ng/L";1
+"ACNE";"ng/L";"Acenaften";"ng/L";1
+"ACNLE";"ng/L";"Acenaftylen";"ng/L";1
+"ACNLE-V";"ng/l";"Acenaftylen";"ng/L";1
+"Ag";"µg/L";"Ag";"µg/L";1
+"Ag";"ng/ml";"Ag";"µg/L";1
+"Ag";"µg/L";"Ag";"µg/L";1
+"Ag";"µg/l";"Ag";"µg/L";1
+"Ag/HR-ICPM";"µg/l";"Ag";"µg/L";1
+"AG-ICP";"µg/l";"Ag";"µg/L";1
+"Ag/MS";"µg/l";"Ag";"µg/L";1
+"a-HBCD";"ng/L";"a-HBCD";"ng/L";1
+"a-HCH";"ng/L";"HCHA";"ng/l";1
+"Akk.dødelighet";"";"AkkMort";"";1
+"AL";"µg/l";"Al";"µg/l";1
+"AL";"µg/l";"Al";"µg/l";1
+"AL";"µg/l Al";"Al";"µg/l";1
+"Al";"mg/l";"Al";"µg/l";1000
+"Al";"mg/l";"Al";"µg/l";1000
+"Al";"µg/l";"Al";"µg/l";1
+"Al";"µg/l";"Al";"µg/l";1
+"Al";"µg/l";"Al";"µg/l";1
+"Al";"mg/l";"Al";"µg/l";1000
+"Al";"µg/l";"Al";"µg/l";1
+"Al/A";"µg/l";"Al";"µg/l";1
+"alfa-HBCD";"NG_P_L";"a-HBCD";"ng/L";1
+"Al-filt";"µg/l";"Al-filt";"µg/l";1
+"ALGVOL";"mm3/m3";"ALGVOL";"mm3/m3";1
+"Al/HR-ICPM";"µg/l";"Al";"µg/l";1
+"Al-i";"µg/L";"Al/IL";"µg/l";1
+"Al/ICP";"mg/l";"Al";"µg/l";1000
+"ALIL";"µg/l";"Al/IL";"µg/l";1
+"Al/Il";"µg/l";"Al/IL";"µg/l";1
+"ALK";"mmol/l";"Alk";"mmol/l";1
+"ALK";"mmol/l";"Alk_4.5";"mmol/l";1
+"ALK";"mmol/l";"Alk";"mmol/l";1
+"ALK";"mmol/l";"Alk";"mmol/l";1
+"ALK";"mmol/l";"Alk";"mmol/l";1
+"ALK#";"mmol/l";"Alk";"mmol/l";1
+"Alk";"mmol/l";"Alk";"mmol/l";1
+"Alk";"mmol/l";"Alk";"mmol/l";1
+"Alk";"mmol/l";"Alk";"mmol/l";1
+"Alk";"mmol/l";"Alk";"mmol/l";1
+"Alkalinity";"mmol/l";"Alkalinity";"mmol/l";1
+"Alkalitet";"mmol/l";"Alk-filt";"mmol/l";1
+"Alkalitet";"mmol/l";"Alk";"mmol/l";1
+"Alkalitet";"MMOLE_P_L";"Alk";"mmol/l";1
+"Alkalitet";"MMOLE_P_L";"Alk";"mmol/l";1
+"Alkalitet";"MMOLE_P_L";"Alk_4.5";"mmol/l";1
+"Alkalitet";"mmol/l";"Alk";"mmol/l";1
+"Alkalitet";"MMOLE_P_L";"Alk_4.5";"mmol/l";1
+"Alkalitet";"mmol/l";"Alk";"mmol/l";1
+"Alkalitet";"mmol/l";"Alk";"mmol/l";1
+"Alkalitet";"MMOLE_P_L";"Alk";"mmol/l";1
+"Alkalitet";"mmol/l";"Alk";"mmol/l";1
+"Alkalitet";"mmol/l";"Alk";"mmol/l";1
+"Alkalitet";"mmol/l";"Alk";"mmol/l";1
+"Alkalitet";"mmol/l";"Alk";"mmol/l";1
+"Alkalitet";"MMOLE_P_L";"Alk_4.5";"mmol/l";1
+"Alkalitet";"mmol/l";"Alk";"mmol/l";1
+"Alkalitet";"mmol/l";"Alk";"mmol/l";1
+"Alkalitet";"mmol/l";"Alk";"mmol/l";1
+"Alkalitet";"MMOLE_P_L";"Alk_4.5";"mmol/l";1
+"ALK40";"mmol/l";"Alk_4.0";"mmol/l";1
+"ALK42";"mmol/l";"Alk_4.2";"mmol/l";1
+"ALK45";"mmol/l";"Alk_4.5";"mmol/l";1
+"ALK45";"mmol/l";"Alk_4.5";"mmol/l";1
+"ALK45";"mmol/l";"Alk_4.5";"mmol/l";1
+"Al/L";"µg/l";"Al/L";"µg/l";1
+"Al/MS";"µg/l";"Al";"µg/l";1
+"ALP";"µg/l";"Al-p";"µg/l";1
+"alphaTBCO";"pg/L";"alphaTBCO";"pg/L";1
+"alphaTBECH";"pg/L";"alphaTBECH";"pg/L";1
+"AL-r";"µg/L";"Al/R";"µg/l";1
+"ALR";"µg/l";"Al/R";"µg/l";1
+"Al/R";"µg/l";"Al/R";"µg/l";1
+"Aluminium";"UG_P_L";"Al";"µg/l";1
+"Aluminium";"µg Al/l";"Al";"µg/l";1
+"Aluminium";"MG_P_L";"Al";"µg/l";1000
+"Aluminium";"UG_P_L";"Al";"µg/l";1
+"Aluminium";"UG_P_L";"Al";"µg/l";1
+"Aluminium";"UG_P_L";"Al";"µg/l";1
+"Aluminium";"UG_P_L";"Al";"µg/l";1
+"Aluminium";"UG_P_L";"Al";"µg/l";1
+"Aluminium";"MG_P_L";"Al";"µg/l";1000
+"Aluminium";"UG_P_L";"Al";"µg/l";1
+"Aluminium, ikke labil";"UG_P_L";"Al/IL";"µg/l";1
+"Aluminium, ikke labil";"UG_P_L";"Al/IL";"µg/l";1
+"Aluminium, ikke labil";"UG_P_L";"Al/IL";"µg/l";1
+"Aluminium, ikke labil";"UG_P_L";"Al/IL";"µg/l";1
+"Aluminium, ikke labil";"UG_P_L";"Al/IL";"µg/l";1
+"Aluminium, ikke labil";"UG_P_L";"Al/IL";"µg/l";1
+"Aluminium, ikke labilt";"UG_P_L";"Al/IL";"µg/l";1
+"Aluminium, reaktivt";"UG_P_L";"Al/R";"µg/l";1
+"Aluminium, reaktivt";"UG_P_L";"Al/R";"µg/l";1
+"Aluminium, reaktivt";"UG_P_L";"Al/R";"µg/l";1
+"Aluminium, reaktivt";"UG_P_L";"Al/R";"µg/l";1
+"Aluminium, reaktivt";"UG_P_L";"Al/R";"µg/l";1
+"Aluminium, reaktivt";"UG_P_L";"Al/R";"µg/l";1
+"Aluminium-F";"UG_P_L";"Al-filt";"µg/l";1
+"Aluminium-F";"UG_P_L";"Al-filt";"µg/l";1
+"Ammonium";"UG_N_L";"NH4-N";"µg/l";1
+"Ammonium";"UG_P_L";"NH4-N";"µg/l";1
+"Ammonium";"UG_P_L";"NH4-N";"µg/l";1
+"Ammonium";"UG_N_L";"NH4-N";"µg/l";1
+"Ammonium";"UG_N_L";"NH4-N";"µg/l";1
+"Ammonium";"UG_P_L";"NH4-N";"µg/l";1
+"Ammonium";"UG_P_L";"NH4-N";"µg/l";1
+"Ammonium";"UG_P_L";"NH4-N";"µg/l";1
+"Ammonium";"UG_N_L";"NH4-N";"µg/l";1
+"Ammonium";"UG_P_L";"NH4-N";"µg/l";1
+"Ammonium";"UG_N_L";"NH4-N";"µg/l";1
+"Ammonium";"UG_P_L";"NH4-N";"µg/l";1
+"Ammonium";"UG_N_L";"NH4-N";"µg/l";1
+"Ammonium";"UG_N_L";"NH4-N";"µg/l";1
+"Ammonium";"UG_P_L";"NH4-N";"µg/l";1
+"Ammonium";"UG_N_L";"NH4-N";"µg/l";1
+"Ammonium (NH4)";"µ mol/l";"NH4-N";"µg/l";14,0067
+"Ammonium (NH4)";"mg/l";"NH4";"µg/l";1000
+"Ammonium-F";"UG_N_L";"NH4 filt.";"µg/l";1
+"Anatoksiner";"µg/l";"Anatoksiner";"µg/l";1
+"ANC";"µekv/l";"ANC";"µEkv/L";1
+"ANT";"ng/L";"Antracen";"µg/l";0,001
+"Anthracene";"ng/L";"Antracen";"µg/l";0,001
+"antiDP";"pg/L";"antiDP";"pg/L";1
+"Antimon";"UG_P_L";"Sb";"µg/l";1
+"Antimon";"µg Sb/l";"Sb";"µg/l";1
+"Antimon";"UG_P_L";"Sb";"µg/l";1
+"Antimon";"µg Sb/l";"Sb-filt";"µg/l";1
+"Antimon";"UG_P_L";"Sb";"µg/l";1
+"Antimon";"UG_P_L";"Sb";"µg/l";1
+"Antimon-F";"UG_P_L";"Sb-filt";"µg/l";1
+"Antimon-F";"UG_P_L";"Sb-filt";"µg/l";1
+"Antimon-F";"UG_P_L";"Sb-filt";"µg/l";1
+"Antracen";"UG_P_L";"Antracen";"µg/l";1
+"Antracen";"ng/L";"Antracen";"µg/l";0,001
+"Antracen";"UG_P_L";"Antracen";"µg/l";1
+"Antracen";"UG_P_L";"Antracen";"µg/l";1
+"Antracen";"ng/l";"Antracen";"µg/l";0,001
+"Antracen";"µg/l";"Antracen";"µg/l";1
+"Antracen";"NG_P_L";"Antracen";"µg/l";0,001
+"ANT-V";"ng/l";"Antracen";"µg/l";0,001
+"AOX";"mg/l";"AOX";"ug/l";1000
+"AOX";"mg/l";"AOX";"ug/l";1000
+"AOX";"ug/l";"AOX";"ug/l";1
+"AOX";"µg/l";"AOX";"ug/l";1
+"AOX";"ug/l";"AOX";"ug/l";1
+"ARSEN";"µg/l";"As";"µg/l";1
+"Arsen";"µg/l";"As";"µg/l";1
+"Arsen";"µg As/l";"As";"µg/l";1
+"Arsen";"MG_P_KG";"As";"µg/l";1
+"Arsen";"UG_P_L";"As";"µg/l";1
+"Arsen";"UG_P_L";"As";"µg/l";1
+"Arsen";"UG_P_L";"As";"µg/l";1
+"Arsen";"UG_P_L";"As";"µg/l";1
+"Arsen";"UG_P_L";"As";"µg/l";1
+"Arsen";"UG_P_L";"As";"µg/l";1
+"Arsen-F";"UG_P_L";"As-filt";"µg/l";1
+"Arsen-F";"UG_P_L";"As-filt";"µg/l";1
+"Arsen-F";"UG_P_L";"As-filt";"µg/l";1
+"Arsen-F";"UG_P_L";"As-filt";"µg/l";1
+"Arsenic";"µg/l";"As";"µg/l";1
+"Arsenic";"µg/l";"Arsenic";"µg/l";1
+"Arsenic (filtered)";"µg/l";"As-filt";"µg/l";1
+"Arsenik";"µg/l";"As";"µg/l";1
+"As";"µg/l";"As";"µg/l";1
+"As";"mg/l";"As";"µg/l";1000
+"As";"mg/l";"As";"µg/l";1000
+"As";"mg/l";"As";"µg/l";1000
+"As";"µg/l";"As";"µg/l";1
+"As";"ug/l";"As";"µg/l";1
+"As";"µg/L";"As";"µg/l";1
+"As";"ng/ml";"As";"µg/l";1
+"As";"ug/l";"As";"µg/l";1
+"As";"µg/l";"As";"µg/l";1
+"As";"µg/l";"As";"µg/l";1
+"As";"µg/L";"As";"µg/l";1
+"As";"µg/L";"As";"µg/l";1
+"As-filt";"µg/l";"As-filt";"µg/l";1
+"As/HR-ICPM";"µg/l";"As";"µg/l";1
+"AS-ICP";"µg/l";"As";"µg/l";1
+"AS-ICP";"µg/l";"As";"µg/l";1
+"As/ICP";"mg/l";"As";"µg/l";1000
+"As/ICP-Sj";"mg/l";"As";"µg/l";1000
+"Asiditet";"mmol/l";"Asiditet";"mmol/l";1
+"Asiditet";"ml/l";"Asiditet";"ml/l";1
+"As/MS";"µg/l";"As";"µg/l";1
+"as_total";"mg/l";"Total As";"mg/l";1
+"AsX";"µg/l";"As";"µg/l";1
+"Au/HR-ICPM";"µg/l";"Au";"µg/l";1
+"AY380";"1/m";"AY380";"1/m";1
+"AY380";"1/m";"AY380";"1/m";1
+"B";"µg/l";"B";"µg/l";1
+"Ba";"mg/l";"Ba";"µg/l";1000
+"BAA";"ng/L";"Benso(a)antracen";"µg/l";0,001
+"BAA-V";"ng/l";"Benso(a)antracen";"µg/l";0,001
+"Backscattering870nm";"(m-1sr-1)   [1/(meter*steradianer)]";"Backscattering 870nm";"1/m*steradianer";1
+"Ba/HR-ICPM";"µg/l";"Ba";"µg/l";1
+"BA-ICP";"µg/l";"Ba";"µg/l";1
+"Ba/MS";"µg/l";"Ba";"µg/l";1
+"BAP";"ng/L";"Benso(a)pyren";"µg/l";0,001
+"BAP-V";"ng/l";"Benso(a)pyren";"µg/l";0,001
+"Barium";"µg/l";"Ba";"µg/l";1
+"Barium";"µg/l";"Ba";"µg/l";1
+"Barium";"UG_P_L";"Ba";"µg/l";1
+"Barium";"UG_P_L";"Ba";"µg/l";1
+"Barium";"UG_P_L";"Ba";"µg/l";1
+"Barium-F";"UG_P_L";"Ba-filt";"µg/l";1
+"BBJF";"ng/L";"Benzo(b+j)fluoranten";"ng/l";1
+"BBJF-V";"ng/l";"Benzo(b+j)fluoranten";"ng/l";1
+"BBP-V";"µg/l";"Butyl benzyl ftalat";"ng/l";1
+"BDE-100";"pg/L";"2 2' 4 4' 6-pentabromodiphenyl ether (BD(E)100)";"pg/L";1
+"BDE-100";"ng/L";"2 2' 4 4' 6-pentabromodiphenyl ether (BD(E)100)";"pg/L";1000
+"BDE-100";"pg/L";"BDE-100";"pg/L";1
+"BDE-100";"ng/L";"2 2' 4 4' 6-pentabromodiphenyl ether (BD(E)100)";"pg/L";1000
+"BDE100";"NG_P_L";"BDE-100";"pg/L";1000
+"bde-100";"ng/L";"BDE-100";"pg/L";1000
+"BDE-119";"ng/L";"2 3' 4 4' 6-pentabromodiphenyl ether (BD(E)119)";"pg/L";1000
+"BDE-119";"ng/L";"2 3' 4 4' 6-pentabromodiphenyl ether (BD(E)119)";"pg/L";1000
+"BDE-119";"pg/L";"2 3' 4 4' 6-pentabromodiphenyl ether (BD(E)119)";"pg/L";1
+"BDE-126";"ng/L";"3 3' 4 4' 5-pentabromodiphenyl ether (BD(E)126)";"pg/L";1000
+"BDE-126";"pg/L";"3 3' 4 4' 5-pentabromodiphenyl ether (BD(E)126)";"pg/L";1
+"BDE-138";"ng/L";"2 2' 3 4 4' 5'-hexabromodiphenyl ether (BD(E)138)";"pg/L";1000
+"BDE-138";"ng/L";"3 3' 4 4' 5-pentabromodiphenyl ether (BD(E)126)";"pg/L";1000
+"BDE-138";"pg/L";"2 2' 3 4 4' 5'-hexabromodiphenyl ether (BD(E)138)";"pg/L";1
+"BDE-153";"pg/L";"BDE-153";"pg/L";1
+"BDE-153";"pg/L";"2 2' 4 4' 5 5'-hexabromodiphenyl ether (BD(E)153)";"pg/L";1
+"BDE-153";"ng/L";"2 2' 4 4' 5 5'-hexabromodiphenyl ether (BD(E)153)";"pg/L";1000
+"BDE153";"NG_P_L";"BDE-153";"pg/L";1000
+"bde-153";"ng/L";"BDE-153";"pg/L";1000
+"BDE-154";"pg/L";"BDE-154";"pg/L";1
+"BDE-154";"pg/L";"2 2' 4 4' 5 6'-hexabromodiphenyl ether (BD(E)154)";"pg/L";1
+"BDE-154";"ng/L";"2 2' 4 4' 5 6'-hexabromodiphenyl ether (BD(E)154)";"pg/L";1000
+"BDE154";"NG_P_L";"BDE-154";"pg/L";1000
+"bde-154";"ng/L";"BDE-154";"pg/L";1000
+"BDE-156";"pg/L";"1,2,3,4-tetrabromo-5-(3,4-dibromophenoxy)benzene";"pg/L";1
+"BDE-156";"ng/L";"1,2,3,4-tetrabromo-5-(3,4-dibromophenoxy)benzene";"pg/L";1000
+"BDE-17";"ng/L";"2 2' 4-tribromodiphenyl ether (BDE17)";"pg/l";1000
+"BDE-17";"pg/L";"2 2' 4-tribromodiphenyl ether (BDE17)";"pg/l";1
+"BDE-183";"ng/L";"1,2,3,5-tetrabromo-4-(2,4,5-tribromophenoxy)benzene";"pg/l";1000
+"BDE-183";"pg/L";"1,2,3,5-tetrabromo-4-(2,4,5-tribromophenoxy)benzene";"pg/l";1
+"BDE-184";"ng/L";"1,2,3,5-Tetrabromo-4-(2,4,6-tribromophenoxy)benzene";"pg/l";1000
+"BDE-184";"pg/L";"1,2,3,5-Tetrabromo-4-(2,4,6-tribromophenoxy)benzene";"pg/l";1
+"BDE-191";"pg/L";"1,2,3,5-Tetrabromo-4-(3,4,5-tribromophenoxy)benzene";"pg/l";1
+"BDE-191";"ng/L";"1,2,3,5-Tetrabromo-4-(3,4,5-tribromophenoxy)benzene";"pg/l";1000
+"BDE-196";"pg/L";"1,2,3,4-tetrabromo-5-(2,3,4,5-tetrabromophenoxy)benzene";"pg/l";1
+"BDE-196";"ng/L";"1,2,3,4-tetrabromo-5-(2,3,4,5-tetrabromophenoxy)benzene";"pg/l";1000
+"BDE-197";"pg/L";"(2R)-1-butyl-N-(2,6-dimethylphenyl)piperidine-2-carboxamide";"pg/l";1
+"BDE-197";"ng/L";"(2R)-1-butyl-N-(2,6-dimethylphenyl)piperidine-2-carboxamide";"pg/l";1000
+"BDE-202";"pg/L";"BDE-202";"pg/l";1
+"BDE-202";"ng/L";"BDE-202";"pg/l";1000
+"BDE-206";"pg/L";"1,2,3,4,5-pentabromo-6-(2,3,4,5-tetrabromophenoxy)benzene";"pg/l";1
+"BDE-206";"ng/L";"1,2,3,4,5-pentabromo-6-(2,3,4,5-tetrabromophenoxy)benzene";"pg/l";1000
+"BDE-207";"ng/L";"Benzene  pentabromo(2 3 4 6-tetrabromophenoxy)-";"pg/l";1000
+"BDE-207";"pg/L";"Benzene  pentabromo(2 3 4 6-tetrabromophenoxy)-";"pg/l";1
+"BDE-209";"ng/L";"1,2,3,4,5-pentabromo-6-(2,3,4,5,6-pentabromophenoxy)benzene";"pg/l";1000
+"BDE-209";"pg/L";"1,2,3,4,5-pentabromo-6-(2,3,4,5,6-pentabromophenoxy)benzene";"pg/l";1
+"BDE-28";"pg/L";"2,4-dibromo-1-(4-bromophenoxy)benzene";"pg/l";1
+"BDE-28";"ng/L";"2,4-dibromo-1-(4-bromophenoxy)benzene";"pg/l";1000
+"BDE28";"NG_P_L";"BDE-28";"pg/L";1000
+"bde-28";"ng/L";"BDE-28";"pg/L";1000
+"BDE-47";"pg/L";"BDE-47";"pg/L";1
+"BDE-47";"ng/L";"2,4-dibromo-1-(2,4-dibromophenoxy)benzene";"pg/l";1000
+"BDE-47";"pg/L";"2,4-dibromo-1-(2,4-dibromophenoxy)benzene";"pg/l";1
+"BDE47";"NG_P_L";"BDE-47";"pg/L";1000
+"bde-47";"ng/L";"BDE-47";"pg/L";1000
+"BDE-49";"pg/L";"1,4-dibromo-2-(2,4-dibromophenoxy)benzene";"pg/l";1
+"BDE-49";"ng/L";"1,4-dibromo-2-(2,4-dibromophenoxy)benzene";"pg/l";1000
+"BDE-66";"pg/L";"1,2-dibromo-4-(2,4-dibromophenoxy)benzene";"pg/l";1
+"BDE-66";"ng/L";"1,2-dibromo-4-(2,4-dibromophenoxy)benzene";"pg/l";1000
+"BDE-71";"ng/L";"1,2-dibromo-4-(2,6-dibromophenoxy)benzene";"pg/l";1000
+"BDE-71";"pg/L";"1,2-dibromo-4-(2,6-dibromophenoxy)benzene";"pg/l";1
+"BDE-77";"ng/L";"1,2-dibromo-4-(3,4-dibromophenoxy)benzene";"pg/l";1000
+"BDE-77";"pg/L";"1,2-dibromo-4-(3,4-dibromophenoxy)benzene";"pg/l";1
+"BDE-85";"pg/L";"1,2,3-tribromo-4-(2,4-dibromophenoxy)benzene";"pg/l";1
+"BDE-85";"ng/L";"1,2,3-tribromo-4-(2,4-dibromophenoxy)benzene";"pg/l";1000
+"BDE-99";"pg/L";"BDE-99";"pg/L";1
+"BDE-99";"pg/L";"1,2,4-tribromo-5-(2,4-dibromophenoxy)benzene";"pg/l";1
+"BDE-99";"ng/L";"1,2,4-tribromo-5-(2,4-dibromophenoxy)benzene";"pg/l";1000
+"BDE99";"NG_P_L";"BDE-99";"pg/L";1000
+"bde-99";"ng/L";"BDE-99";"pg/L";1000
+"BdPhP";"ng/L";"BDPHP";"ng/L";1
+"BdPhP";"ng/L";"BDPHP";"ng/L";1
+"Be/HR-ICPM";"µg/l";"Be";"µg/l";1
+"BEHTBP";"pg/L";"BEHTBP";"pg/L";1
+"BE-ICP";"µg/l";"Be";"µg/l";1
+"Be/MS";"µg/l";"Be";"µg/l";1
+"Benso(a)antracen^";"µg/l";"Benso(a)antracen";"µg/l";1
+"Benso(a)pyren^";"µg/l";"Benso(a)pyren";"µg/l";1
+"Benso(b)fluoranten^";"µg/l";"Benso(b)fluoranten";"µg/l";1
+"Benso(ghi)perylen";"µg/l";"Benso(ghi)perylen";"µg/l";1
+"Benso(k)fluoranten^";"µg/l";"Benso(k)fluoranten";"µg/l";1
+"Benz(a)anthracene";"ng/L";"Benso(a)antracen";"µg/l";0,001
+"Benzo(a)antracen";"ng/L";"Benzo[a]antracen";"ng/l";1
+"Benzo[a]antracen";"NG_P_L";"Benzo[a]antracen";"ng/l";1
+"Benzo[a]antracen";"UG_P_L";"Benso(a)antracen";"µg/l";1
+"Benzo[a]antracen";"UG_P_L";"Benso(a)antracen";"µg/l";1
+"Benzo[a]antracen";"UG_P_L";"Benso(a)antracen";"µg/l";1
+"Benzo(a)pyren";"ng/L";"Benzo[a]pyren";"ng/l";1
+"Benzo[a]pyren";"UG_P_L";"Benso(a)pyren";"µg/l";1
+"Benzo[a]pyren";"UG_P_L";"Benso(a)pyren";"µg/l";1
+"Benzo[a]pyren";"NG_P_L";"Benzo[a]pyren";"ng/l";1
+"Benzo[a]pyren";"UG_P_L";"Benso(a)pyren";"µg/l";1
+"Benzo(a)pyrene";"ng/L";"Benso(a)pyren";"µg/l";0,001
+"Benzo[b]fluoranten";"UG_P_L";"Benso(b)fluoranten";"µg/l";1
+"Benzo[b]fluoranten";"UG_P_L";"Benso(b)fluoranten";"µg/l";1
+"Benzo(b,j)fluoranten";"ng/L";"benzophenone-3";"ng/L";1
+"Benzo[b,j]fluoranten";"NG_P_L";"Benzo(b+j)fluoranten";"ng/l";1
+"Benzo[b,j]fluoranten";"UG_P_L";"Benzo(b+j)fluoranten";"ng/l";1000
+"Benzo(b,J)fluoranthene";"ng/L";"Benso(b)fluoranten";"µg/l";0,001
+"Benzo(e )pyrene";"ng/L";"Benso(e)pyren";"µg/l";0,001
+"Benzo(ghi)perylen";"ng/L";"Benzo[ghi]perylen";"ng/l";1
+"Benzo[g,h,i]perylen";"UG_P_L";"Benso(ghi)perylen";"µg/l";1
+"Benzo[g,h,i]perylen";"UG_P_L";"Benso(ghi)perylen";"µg/l";1
+"Benzo[g,h,i]perylen";"UG_P_L";"Benso(ghi)perylen";"µg/l";1
+"Benzo[ghi]perylen";"NG_P_L";"Benzo[ghi]perylen";"ng/l";1
+"Benzo(ghi)perylene";"ng/L";"Benso(ghi)perylen";"µg/l";0,001
+"Benzo(k)fluoranten";"ng/L";"Benzo[k]fluoranten";"ng/l";1
+"Benzo[k]fluoranten";"UG_P_L";"Benso(k)fluoranten";"µg/l";1
+"Benzo[k]fluoranten";"UG_P_L";"Benso(k)fluoranten";"µg/l";1
+"Benzo[k]fluoranten";"UG_P_L";"Benso(k)fluoranten";"µg/l";1
+"Benzo[k]fluoranten";"NG_P_L";"Benzo[k]fluoranten";"ng/l";1
+"Benzo(k)fluoranthene";"ng/L";"Benso(k)fluoranten";"µg/l";0,001
+"Benzophenone-3";"NG_P_L";"benzophenone-3";"ng/L";1
+"BEP";"ng/L";"Benso(e)pyren";"µg/l";0,001
+"BEP-V";"ng/l";"Benso(e)pyren";"µg/l";0,001
+"Beryllium";"UG_P_L";"Be";"µg/l";1
+"Beryllium";"UG_P_L";"Be";"µg/l";1
+"Beryllium";"UG_P_L";"Be";"µg/l";1
+"Beryllium-F";"UG_P_L";"Be-filt";"µg/l";1
+"beta-HBCD";"NG_P_L";"b-HBCD";"ng/L";1
+"BFA";"µg/l N";"BFA";"µg/l N";1
+"BFA";"mg/l";"BFA";"µg/l N";1000
+"BFA";"µg/l N";"BFA";"µg/l N";1
+"BFAF";"µg/l N";"BFA_f";"µg/l N";1
+"BGA-PC";"µg/L";"Phycocyanin";"µg/l";1
+"BGHIP";"ng/L";"Benso(ghi)perylen";"µg/l";0,001
+"b-HBCD";"ng/L";"b-HBCD";"ng/L";1
+"B/HR-ICPM";"µg/l";"B";"µg/l";1
+"Bi";"µg/l";"Bi";"µg/l";1
+"Bi";"µg/L";"Bi";"µg/l";1
+"B-ICP";"µg/l";"B";"µg/l";1
+"BI-ICP";"µg/l";"Bi";"µg/l";1
+"Bi/MS";"µg/l";"Bi";"µg/l";1
+"Bisphenol A";"ng/L";"Bisfenol A";"ng/L";1
+"Bisphenol AP";"ng/L";"Bisphenol AP";"ng/l";1
+"Bisphenol AP";"ng/L";"Bisphenol AP";"ng/l";1
+"Bisphenol B";"ng/L";"Bisphenol B";"ng/l";1
+"Bisphenol B";"ng/L";"Bisphenol B";"ng/l";1
+"Bisphenol E";"ng/L";"Bisphenol E";"ng/l";1
+"Bisphenol E";"ng/L";"Bisphenol E";"ng/l";1
+"Bisphenol FL";"ng/L";"Bisphenol FL";"ng/L";1
+"Bisphenol G";"ng/L";"Bisphenol G";"ng/l";1
+"Bisphenol G";"ng/L";"Bisphenol G";"ng/l";1
+"Bisphenol M";"ng/L";"Bisphenol M";"ng/l";1
+"Bisphenol M";"ng/L";"Bisphenol M";"ng/l";1
+"Bisphenol P";"ng/L";"Bisphenol P";"ng/l";1
+"Bisphenol P";"ng/L";"Bisphenol P";"ng/l";1
+"Bisphenol S";"ng/L";"Bisphenol S";"ng/l";1
+"Bisphenol S";"ng/L";"Bisphenol S";"ng/l";1
+"Bisphenol TMC";"ng/L";"Bisphenol TMC";"ng/l";1
+"Bisphenol TMC";"ng/L";"Bisphenol TMC";"ng/l";1
+"Bisphenol Z";"ng/L";"Bisphenol Z";"ng/l";1
+"Bisphenol Z";"ng/L";"Bisphenol Z";"ng/l";1
+"BKF";"ng/L";"Benso(k)fluoranten";"µg/l";0,001
+"BKF-V";"ng/l";"Benso(k)fluoranten";"µg/l";0,001
+"Bly";"UG_P_L";"Pb";"µg/L";1
+"Bly";"UG_P_L";"Pb";"µg/L";1
+"Bly";"UG_P_L";"Pb";"µg/L";1
+"Bly";"µg/l";"Pb";"µg/L";1
+"Bly";"UG_P_L";"Pb";"µg/L";1
+"Bly";"UG_P_L";"Pb";"µg/L";1
+"Bly";"UG_P_L";"Pb";"µg/L";1
+"Bly";"UG_P_L";"Pb";"µg/L";1
+"Bly";"µg Pb/l";"Pb";"µg/L";1
+"Bly";"µg Pb/l";"Pb-filt";"µg/l";1
+"Bly";"UG_P_L";"Pb";"µg/L";1
+"Bly";"UG_P_L";"Pb";"µg/L";1
+"Bly";"UG_P_L";"Pb";"µg/L";1
+"Bly";"UG_P_L";"Pb";"µg/L";1
+"Bly";"µg Pb/l";"Pb";"mg/l";0,001
+"Bly";"NONE";"Pb";"µg/L";1
+"Bly-F";"UG_P_L";"Pb-filt";"µg/l";1
+"Bly-F";"UG_P_L";"Pb-filt";"µg/l";1
+"Bly-F";"UG_P_L";"Pb-filt";"µg/l";1
+"Blågrønnalger";"mm3/m3";"Blågrønnalger";"mm3/m3";1
+"B/MS";"µg/l";"B";"µg/l";1
+"BOD";"mg/l";"BOD";"mg/l";1
+"BOD";"mg/l O2";"BOD";"mg/l O2";1
+"BOD5";"mg/l";"BOD5";"mg/l";1
+"BOD5";"mg O/l";"BOD";"mg/l O2";1
+"bod5";"mg/l";"BOD5";"mg/l";1
+"BOF21";"mg/l";"BOD21";"mg/l O2";1
+"BOF7";"mg/l";"BOD7";"mg/l O2";1
+"Bor";"UG_P_L";"B";"µg/l";1
+"Bor";"UG_P_L";"B";"µg/l";1
+"Bor";"UG_P_L";"B";"µg/l";1
+"Bor-F";"UG_P_L";"B-filt";"µg/l";1
+"BPA";"ng/L";"Bisfenol A";"ng/L";1
+"BP-AF";"ng/L";"BP-AF";"ng/L";1
+"BP-AP";"ng/L";"BP-AP";"ng/L";1
+"BPB";"ng/L";"BPB";"ng/L";1
+"BPE";"ng/L";"BPE";"ng/L";1
+"BP-FL";"ng/L";"BP-FL";"ng/L";1
+"BPM";"ng/L";"BPM";"ng/L";1
+"BPZ";"ng/L";"BPZ";"ng/L";1
+"BP3";"ng/L";"benzophenone-3";"ng/L";1
+"BP3";"ng/L";"benzophenone-3";"ng/L";1
+"Br";"µg/l";"Br";"µg/l";1
+"Br/HR-ICPM";"µg/l";"Br";"µg/l";1
+"Brom";"UG_P_L";"Br";"µg/l";1
+"Brom";"UG_P_L";"Br";"µg/l";1
+"Bromid";"UG_P_L";"Br";"µg/l";1
+"Bromid";"UG_P_L";"Br";"µg/l";1
+"Bromid";"UG_P_L";"Br";"µg/l";1
+"brPFOS";"ng/l";"br-PFOS";"ng/L";1
+"CA";"mg/l";"Ca";"mg/L";1
+"CA";"mg/l";"Ca";"mg/L";1
+"CA";"mg/l";"Ca";"mg/L";1
+"CA";"mg Ca/l";"Ca";"mg/L";1
+"CA";"mg/l";"Ca";"mg/L";1
+"CA";"mg/l";"Ca";"mg/L";1
+"CA";"mg/l";"Ca";"mg/L";1
+"CA";"mg/l";"Ca";"mg/L";1
+"CA";"mg/l";"Ca";"mg/L";1
+"CA";"mg/l";"Ca";"mg/L";1
+"CA";"mg/l";"Ca";"mg/L";1
+"CA";"mg/l";"Ca";"mg/L";1
+"CA";"mg/l";"Ca";"mg/L";1
+"Ca";"MG_P_L";"Ca";"mg/L";1
+"Ca";"mg/l";"Ca";"mg/L";1
+"Ca";"mg//L";"Ca";"mg/L";1
+"Ca";"mg/l";"Ca";"mg/L";1
+"Ca";"mg/l";"Ca";"mg/L";1
+"Ca";"mg/l";"Ca";"mg/L";1
+"Ca";"mg/l";"Ca";"mg/L";1
+"Ca";"mg/l";"Ca";"mg/L";1
+"Ca";"mg/l";"Ca";"mg/L";1
+"Ca";"mg/l";"Ca";"mg/L";1
+"Ca";"mg/l";"Ca";"mg/L";1
+"Ca";"mg/L";"Ca";"mg/L";1
+"Ca";"mg/l";"Ca";"mg/L";1
+"Ca";"mg/l";"Ca";"mg/L";1
+"Ca";"mg/l";"Ca";"mg/L";1
+"Ca";"mg/l";"Ca";"mg/L";1
+"Ca";"mg/l";"Ca";"mg/L";1
+"Ca filtrert";"mg/l";"Ca-filt";"mg/l";1
+"Ca (Kalsium)";"mg/l";"Ca";"mg/L";1
+"Ca oppsluttet";"mg/l";"Ca";"mg/L";1
+"Cadmium";"µg/l";"Cd";"µg/l";1
+"Cadmium";"µg/l";"Cadmium";"µg/l";1
+"Cadmium (filtered)";"µg/l";"Cd-filt";"µg/l";1
+"Ca-filt";"mg/l";"Ca-filt";"mg/l";1
+"Ca/HR-ICPM";"µg/l";"Ca";"mg/L";0,001
+"Ca/ICP";"mg/l";"Ca";"mg/L";1
+"Calcium";"mg/l";"Calcium";"mg/l";1
+"Calsium";"mg/l";"Ca";"mg/L";1
+"Ca/MS";"µg/l";"Ca";"mg/L";0,001
+"CB101-V";"ng/l";"PCB101";"ng/l";1
+"CB118-V";"ng/l";"PCB118";"ng/l";1
+"CB138-V";"ng/l";"PCB138";"ng/l";1
+"CB153-V";"ng/l";"PCB153";"ng/l";1
+"CB180-V";"ng/l";"PCB180";"ng/l";1
+"CB28-V";"ng/l";"PCB28";"ng/l";1
+"CB52-V";"ng/l";"PCB52";"ng/l";1
+"CD";"µg/l";"Cd";"µg/l";1
+"CD";"µg/l";"Cd";"µg/l";1
+"CD";"µg/l";"Cd";"µg/l";1
+"CD";"µg/l";"Cd";"µg/l";1
+"CD";"µg/l";"Cd";"µg/l";1
+"CD";"µg/l";"Cd";"µg/l";1
+"CD";"µg/l";"Cd";"µg/l";1
+"Cd";"µg/l";"Cd";"µg/l";1
+"Cd";"ng/ml";"Cd";"µg/l";1
+"Cd";"ug/L";"Cd";"µg/l";1
+"Cd";"µg/l";"Cd";"µg/l";1
+"Cd";"mg/l";"Cd";"µg/l";1000
+"Cd";"mg/l";"Cd";"µg/l";1000
+"Cd";"µg/L";"Cd";"µg/l";1
+"Cd";"µg/L";"Cd";"µg/l";1
+"Cd";"µg/L";"Cd";"µg/l";1
+"Cd";"mg/l";"Cd";"µg/l";1000
+"Cd";"µg/l";"Cd";"µg/l";1
+"Cd";"µg/l";"Cd";"µg/l";1
+"Cd";"µg/l";"Cd";"µg/l";1
+"Cd";"µg/l";"Cd";"µg/l";1
+"Cd";"µg/l";"Cd";"µg/l";1
+"Cd";"mg/l";"Cd";"µg/l";1000
+"Cd";"µg/l";"Cd";"µg/l";1
+"Cd filtrert";"µg/l";"Cd-filt";"µg/l";1
+"Cd-filt";"µg/l";"Cd-filt";"µg/l";1
+"Cd/Fr-Sj";"µg/l";"Cd";"µg/l";1
+"Cd/Fr-Sj";"µg/l";"Cd";"µg/l";1
+"Cd/HR-ICPM";"µg/l";"Cd";"µg/l";1
+"CD-ICP";"µg/l";"Cd";"µg/l";1
+"Cd/ICP";"mg/l";"Cd";"µg/l";1000
+"Cd/MS";"µg/l";"Cd";"µg/l";1
+"Cd/MSFr-Sj";"µg/l";"Cd";"µg/l";1
+"CDOManalogFinal";"µg/L";"CDOM analog";"µg/L";1
+"Cd/SPE-Sj";"µg/l";"Cd";"µg/l";1
+"cd_total";"mg/l";"Total Cd";"mg/l";1
+"Ce/HR-ICPM";"µg/l";"Ce";"µg/l";1
+"CE-ICP";"µg/l";"Ce";"µg/l";1
+"Ce/MS";"µg/l";"Ce";"µg/l";1
+"Cesium";"UG_P_L";"Ce";"µg/l";1
+"Cesium";"UG_P_L";"Cs";"µg/l";1
+"Chl";"µg/l";"KlfA";"µg/l";1
+"Chl-a";"microgram per liter (ug/l)";"KlfA";"µg/l";1
+"Chla";"µg/l";"KlfA";"µg/l";1
+"ChlAS";"µg/L";"Fluorescence";"µg/L";1
+"Chloride";"mg/l";"Klorid";"mg/l";1
+"Chloride Cl-";"mg/L";"Klorid";"mg/l";1
+"CHR";"ng/L";"Chrysen";"ng/l";1
+"Chromium";"µg/l";"Chromium";"µg/l";1
+"Chromium";"µg/l";"Cr";"µg/l";1
+"Chromium (filtered)";"µg/l";"Cr-filt";"µg/l";1
+"CHR-V";"ng/l";"Chrysen";"ng/l";1
+"Chrysen";"ng/L";"Chrysen";"ng/l";1
+"Chrysen";"NG_P_L";"Chrysen";"ng/l";1
+"Chrysene";"ng/L";"Chrysen";"ng/l";1
+"CL";"mg/l";"Cl";"mg/L";1
+"CL";"mg/l";"Cl";"mg/L";1
+"CL";"mg/l";"Cl";"mg/L";1
+"CL";"mg/l";"Cl";"mg/L";1
+"Cl";"mg/l";"Cl";"mg/L";1
+"Cl";"mg/l";"Cl";"mg/L";1
+"Cl";"mg/l";"Cl";"mg/L";1
+"Cl";"mg/l";"Cl";"mg/L";1
+"Cl";"MG_P_L";"Cl";"mg/L";1
+"Cl";"mg/l";"Cl";"mg/L";1
+"Cl";"mg/l";"Cl";"mg/L";1
+"cl";"mg/l";"Cl";"mg/L";1
+"CN";"mg/l";"CN";"mg/l";1
+"cn_total";"mg/l";"Total CN";"mg/l";1
+"Co";"mg/l";"Co";"µg/L";1000
+"Co";"µg/l";"Co";"µg/l";1
+"Co";"µg/l";"Co";"µg/L";1
+"Cobolt";"µg/l";"Co";"µg/l";1
+"COD";"mg/l";"COD";"mg/l";1
+"COD";"mg/l";"COD";"mg/l";1
+"COD/Cr";"mg O/l";"CODCr";"mg O/l";1
+"CODCR";"mg O/l";"CODCr";"mg O/l";1
+"COD/Mn";"mg O/l";"CODMn";"mg O/l";1
+"CODMN";"mg O/l";"CODMn";"mg O/l";1
+"CODMN";"mg O/l";"CODMn";"mg O/l";1
+"CODMN";"mg O/l";"CODMn";"mg O/l";1
+"CODMN";"mg O/l";"CODMn";"mg O/l";1
+"codmn";"mg/l";"CODMn";"mg/l";1
+"Co-filt";"µg/l";"Co-filt";"µg/l";1
+"Co/HR-ICPM";"µg/l";"Co";"µg/l";1
+"CO-ICP";"µg/l";"Co";"µg/l";1
+"coliform";"Nbr";"Coliform";"Nbr";1
+"colour";"mg/l";"Colour";"mg/l";1
+"Co/MS";"µg/l";"Co";"µg/L";1
+"Cond";"mS/cm";"Konduktivitet";"mS/m";0,01
+"Cond";"µS/cm";"Konduktivitet";"mS/m";0,1
+"Conductivity";"mS/m";"Konduktivitet";"mS/m";1
+"Conductivity";"mS/m";"Conductivity";"mS/m";1
+"Copper";"µg/l";"Cu";"µg/L";1
+"Copper";"µg/l";"Copper";"µg/l";1
+"Copper (filtered)";"µg/l";"Cu-filt";"µg/l";1
+"CO2";"ppmv";"CO2";"ppm";1
+"CR";"µg/l";"Cr";"µg/l";1
+"CR";"µg/l";"Cr";"µg/l";1
+"CR";"µg/l";"Cr";"µg/l";1
+"CR";"µg/l";"Cr";"µg/l";1
+"Cr";"mg/l";"Cr";"µg/l";1000
+"Cr";"mg/l";"Cr";"µg/l";1000
+"Cr";"µg/l";"Cr";"µg/l";1
+"Cr";"ug/L";"Cr";"µg/l";1
+"Cr";"ng/ml";"Cr";"µg/l";1
+"Cr";"µg/l";"Cr";"µg/l";1
+"Cr";"µg/L";"Cr";"µg/l";1
+"Cr";"µg/L";"Cr";"µg/l";1
+"Cr";"µg/l";"Cr";"µg/l";1
+"Cr";"µg/l";"Cr";"µg/l";1
+"Cr";"mg/l";"Cr";"µg/l";1000
+"Cr";"µg/l";"Cr";"µg/l";1
+"Cr";"µg/L";"Cr";"µg/l";1
+"Cr filtrert";"µg/l";"Cr-filt";"µg/l";1
+"Cr/HR-ICPM";"µg/l";"Cr";"µg/l";1
+"CR-ICP";"µg/l";"Cr";"µg/l";1
+"CR-ICP";"µg/l";"Cr";"µg/l";1
+"Cr/ICP";"mg/l";"Cr";"µg/l";1000
+"Cr/MS";"µg/l";"Cr";"µg/l";1
+"CRT";"µg/l";"Cr";"µg/l";1
+"Cr-T";"µg/l";"Cr";"µg/l";1
+"Cr-T";"ug/l";"Cr";"µg/l";1
+"Cr-TX";"µg/l";"Cr";"µg/l";1
+"cr6";"mg/l";"Cr6+";"mg/l";1
+"Cs/HR-ICPM";"µg/l";"Ce";"µg/l";1
+"Cs/MS";"µg/l";"Ce";"µg/l";1
+"CU";"µg/l";"Cu";"µg/L";1
+"CU";"µg/l";"Cu";"mg/l";0,001
+"CU";"µg/l";"Cu";"mg/l";0,001
+"CU";"µg/l";"Cu";"mg/l";0,001
+"CU";"µg/l";"Cu";"µg/L";1
+"Cu";"mg/l";"Cu";"mg/l";1
+"Cu";"µg/l";"Cu";"mg/l";0,001
+"Cu";"ug/l";"Cu";"µg/L";1
+"Cu";"mg/l";"Cu";"mg/l";1
+"Cu";"ng/ml";"Cu";"µg/L";1
+"Cu";"mg/l";"Cu";"mg/l";1
+"Cu";"µg/L";"Cu";"µg/L";1
+"Cu";"µg/l";"Cu";"µg/L";1
+"Cu";"µg/L";"Cu";"µg/L";1
+"Cu";"µg/L";"Cu";"µg/L";1
+"Cu";"µg/l";"Cu";"mg/l";0,001
+"Cu";"µg/l";"Cu";"mg/l";0,001
+"Cu";"µg/l";"Cu";"µg/L";1
+"Cu";"µg/l";"Cu";"mg/l";0,001
+"Cu";"mg/l";"Cu";"mg/l";1
+"Cu";"mg/l";"Cu";"mg/l";1
+"Cu";"µg/l";"Cu";"mg/l";0,001
+"Cu";"µg/l";"Cu";"mg/l";0,001
+"Cu";"µg/l";"Cu";"mg/l";0,001
+"Cu";"µg/l";"Cu";"mg/l";0,001
+"Cu filtrert";"µg/l";"Cu-filt";"µg/l";1
+"Cu oppsluttet";"µg/l";"Cu";"µg/L";1
+"Cu-filt";"mg/l";"Cu-filt";"µg/l";1000
+"Cu-filt";"µg/l";"Cu-filt";"µg/l";1
+"Cu-filt";"µg/l";"Cu-filt";"µg/l";1
+"Cu/Fr-Sj";"µg/l";"Cu";"mg/l";0,001
+"Cu/Fr-Sj";"µg/l";"Cu";"mg/l";0,001
+"Cu/Fr-Sj";"µg/l";"Cu";"mg/l";0,001
+"Cu/HR-ICPM";"µg/l";"Cu";"mg/l";0,001
+"CU-ICP";"µg/l";"Cu";"mg/l";0,001
+"CU-ICP";"µg/l";"Cu";"mg/l";0,001
+"Cu/ICP";"mg/l";"Cu";"mg/l";1
+"Cu/ICP-Sj";"mg/l";"Cu";"mg/l";1
+"Cu/MS";"µg/l";"Cu";"mg/l";0,001
+"Cu/MSFr-Sj";"µg/l";"Cu";"mg/l";0,001
+"Cu/SPE-Sj";"µg/l";"Cu";"mg/l";0,001
+"Cybutryne";"ng/L";"Cybutryne";"ng/L";1
+"Cybutryne (Irgarol)";"NG_P_L";"Cybutryne";"ng/L";1
+">C10-C12";"UG_P_L";"THC >C10-C12";"µg/l";1
+">C12-C16";"UG_P_L";"THC >C12-C16";"µg/l";1
+">C16-C35";"UG_P_L";"THC >C16-C35";"µg/l";1
+">C5-C8";"UG_P_L";"THC >C5-C8";"µg/l";1
+">C8-C10";"UG_P_L";"THC >C8-C10";"µg/l";1
+"DBA3A";"ng/L";"Dibenso(ah)antracen^";"µg/l";0,001
+"DBDPE";"ng/L";"DBDPE";"ng/L";1
+"DBPhP";"ng/L";"DBPHP";"ng/L";1
+"DBPhP";"ng/L";"DBPHP";"ng/L";1
+"DBTHI";"ng/L";"Dibensotiofen";"µg/l";0,001
+"DBTHI-V";"ng/l";"Dibensotiofen";"µg/l";0,001
+"DBT-V";"ng/l";"DBT";"ng/l";1
+"DEHP";"ng/L";"DEHP";"ng/L";1
+"DEHP";"NG_P_L";"DEHP";"ng/L";1
+"DEHP-V";"µg/l";"Bis(2-ethylhexyl) ftalat";"ng/l";1
+"DENS";"SigmaT";"DENS";"SigmaT";1
+"DENS";"SigmaT";"DENS";"SigmaT";1
+"Depth";"meter";"Vannstand";"m";1
+"DEP-V";"µg/l";"Dietyl ftalat";"ng/l";1
+"Dibenso(ah)antracen^";"µg/l";"Dibenso(ah)antracen^";"µg/l";1
+"Dibenz(ac/ah)antracen";"ng/L";"Dibenz[ac/ah]antracen";"ng/l";1
+"Dibenz[ac/ah]antracen";"NG_P_L";"Dibenz[ac/ah]antracen";"ng/l";1
+"dibenzo(ah)anthracene";"ng/L";"Dibenso(ah)antracen^";"µg/l";0,001
+"Dibenzo[a,h]antracen";"UG_P_L";"Dibenso(ah)antracen^";"µg/l";1
+"Dibenzo[a,h]antracen";"UG_P_L";"Dibenso(ah)antracen^";"µg/l";1
+"Dibenzo[a,h]antracen";"UG_P_L";"Dibenso(ah)antracen^";"µg/l";1
+"Dibenzothiophene";"ng/L";"Dibensotiofen";"µg/l";0,001
+"Dibutyltinn (DBT)";"NG_P_L";"DBT";"ng/l";1
+"Dibutyltinn (DBT)";"NG_P_L";"DBT";"ng/l";1
+"Difenyltinn (DPhT)";"NG_P_L";"DPhT";"ng/l";1
+"Difenyltinn (DPhT)";"NG_P_L";"DPhT";"ng/l";1
+"Dinoflagellater";"mm3/m3";"Dinoflagellater";"mm3/m3";1
+"Dioktyltinn (DOT)";"NG_P_L";"DOT";"ng/L";1
+"Dioktyltinn (DOT)";"NG_P_L";"DOT";"ng/L";1
+"DMP-V";"µg/l";"Dimetyl ftalat";"ng/l";1
+"DnBP-V";"ng/l";"Di-n-butyl ftalat";"ng/l";1
+"DnOP-V";"µg/l";"Di-n-oktyl ftalat";"ng/l";1
+"DO";"mg/l";"DO";"mg/l";1
+"do";"mg/l";"DO";"mg/l";1
+"DOC";"mg C/l";"DOC";"mg/L C";1
+"DOC";"mg C/l";"DOC";"mg/L C";1
+"DOC";"mg/l";"DOC";"mg/l";1
+"DOC";"µg/l";"CDOM";"µg/L";1
+"DOC";"mgC/L";"DOC";"mg/L C";1
+"DO_mg";"mg/l";"O2";"mg/l";1
+"DPhT-V";"ng/l";"DPhT";"ng/l";1
+"Dy/HR-ICPM";"µg/l";"Dy";"µg/l";1
+"DY-ICP";"µg/l";"Dy";"µg/l";1
+"Dy/MS";"µg/l";"Dy";"µg/l";1
+"Dyp";"m";"Vannstand";"m";1
+"D4";"ng/L";"D4";"ng/L";1
+"D5";"ng/L";"D5";"ng/L";1
+"D6";"ng/L";"D6";"ng/L";1
+"E. coli";"kde/100ml";"ECOLI";"ant/100ml";1
+"E. coli";"MPN/100 ml";"ECOLI";"ant/100ml";1
+"E. coli";"MPN/100 ml";"ECOLI";"ant/100ml";1
+"E coli";"MPN/100ml";"ECOLI";"ant/100ml";1
+"E-COLI";"kde/100 ml";"ECOLI";"ant/100ml";1
+"ECOLI";"ant/100 ml";"ECOLI";"ant/100ml";1
+"ECOLI";"ant/100ml";"ECOLI";"ant/100ml";1
+"ECOLI";"ant/100 ml";"ECOLI";"ant/100ml";1
+"Eh";"mV";"Eh";"mV";1
+"EHDP";"ng/L";"EHDP";"ng/L";1
+"EHMC";"ng/L";"ethylhexylmethoxycinnamate";"ng/L";1
+"EHMC";"ng/L";"ethylhexylmethoxycinnamate";"ng/L";1
+"EHMC-E";"NG_P_L";"EHMC-E";"ng/L";1
+"EHMC-Z";"NG_P_L";"EHMC-Z";"ng/L";1
+"E-KOLI";"ant/100ml";"ECOLI";"ant/100ml";1
+"E-KOLI";"ant/100ml";"ECOLI";"ant/100ml";1
+"E-KOLI";"ant/100ml";"ECOLI";"ant/100ml";1
+"E-KOLI";"ant/100ml";"ECOLI";"ant/100ml";1
+"EKOLI";"ant/100ml";"ECOLI";"ant/100ml";1
+"EKOLI";"ant/100ml";"ECOLI";"ant/100ml";1
+"EKOLI";"ant/100ml";"ECOLI";"ant/100ml";1
+"EPI";"10E6/ml";"EPI";"10E6/ml";1
+"Er/HR-ICPM";"µg/l";"Er";"µg/l";1
+"Er/MS";"µg/l";"Er";"µg/l";1
+"etFBSA";"ng/l";"et-FBSA";"ng/L";1
+"etFHpSA";"ng/l";"et-FHpSA";"ng/L";1
+"etFHxSA";"ng/l";"et-FHxSA";"ng/L";1
+"etFOSA";"ng/L";"etFOSA";"ng/L";1
+"et-FOSAA";"ng/l";"et-FOSAA";"ng/L";1
+"et-FOSAA";"ng/L";"etFOSAA";"ng/L";1
+"etFOSE";"ng/L";"etFOSE";"ng/L";1
+"etFPeSA";"ng/l";"et-FPeSA";"ng/L";1
+"et-PFOSA";"ng/l";"et-PFOSA";"ng/L";1
+"et-PFOSE";"ng/l";"et-PFOSE";"ng/L";1
+"Etylheksylmetoksycinnamat";"NG_P_L";"EHMC";"ng/L";1
+"Euglenoider";"mm3/m3";"Euglenoider";"mm3/m3";1
+"Eu/HR-ICPM";"µg/l";"Eu";"µg/l";1
+"EU-ICP";"µg/l";"Eu";"µg/l";1
+"Eu/MS";"µg/l";"Eu";"µg/l";1
+"F";"mg/l";"F";"mg/l";1
+"F";"µg/l";"F";"mg/l";0,001
+"F";"MG_P_L";"F";"mg/l";1
+"F";"µg/l";"F";"mg/l";0,001
+"Faecal coliform";"MPN/100ml";"Faecal coliform";"MPN/100ml";1
+"FARG";"mg Pt/l";"Farge";"mg Pt/l";1
+"FARG";"mg Pt/l";"Farge";"mg Pt/l";1
+"FARG";"mg Pt/l";"Farge";"mg Pt/l";1
+"FARG";"mg Pt/l";"Farge";"mg Pt/l";1
+"FARGE";"MG_P_L_PT";"Farge";"mg Pt/l";1
+"FARGE";"mg Pt/l";"Farge";"mg Pt/l";1
+"FARGE";"mg Pt/l";"Farge";"mg Pt/l";1
+"FARGE";"MG_P_L_PT";"Farge";"mg Pt/l";1
+"FARGE";"mg Pt/l";"Farge";"mg Pt/l";1
+"FARGE";"mg/L Pt";"Farge";"mg Pt/l";1
+"FARGE";"mg Pt/l";"Farge";"mg Pt/l";1
+"Farge";"mg Pt/l";"Farge";"mg Pt/l";1
+"Farge";"mg Pt/l";"Farge";"mg Pt/l";1
+"Farge";"mg/L Pt";"Farge";"mg Pt/l";1
+"Farge";"mg Pt/l";"Farge";"mg Pt/l";1
+"Farge";"mg/l";"Farge";"mg Pt/l";1
+"Farge";"mg Pt/l";"Farge";"mg Pt/l";1
+"Farge";"mg Pt/l";"Farge";"mg Pt/l";1
+"Farge";"mg Pt/l";"Farge";"mg Pt/l";1
+"Farge";"mg Pt/l";"Farge";"mg Pt/l";1
+"Farge";"mg Pt/l";"Farge";"mg Pt/l";1
+"Farge";"mg Pt/l";"Farge";"mg Pt/l";1
+"Farge";"mg Pt/l";"Farge";"mg Pt/l";1
+"Farge";"mg/L";"Farge";"mg/L";1
+"Farge";"mg Pt/l";"Farge";"mg Pt/l";1
+"Farge";"mg Pt/l";"Farge";"mg Pt/l";1
+"Farge";"mg Pt/l";"Farge";"mg Pt/l";1
+"Farge";"mg Pt/l";"Farge";"mg Pt/l";1
+"Farge";"mg Pt/l";"Farge";"mg Pt/l";1
+"Farge";"mg Pt/l";"Farge";"mg Pt/l";1
+"Farge";"mg Pt/l";"Farge";"mg Pt/l";1
+"Farge (410 nm)";"mg Pt/l";"Farge";"mg Pt/l";1
+"FARGEF";"mg Pt/l";"Farge_F";"mg Pt/l";1
+"FARGEF";"mg Pt/l";"Farge_F";"mg Pt/l";1
+"FARGEF";"mg/l PT";"Farge_F";"mg Pt/l";1
+"FARGEF";"mg Pt/l";"Farge_F";"mg Pt/l";1
+"FARGEF";"mg/l PT";"Farge_F";"mg Pt/l";1
+"FARGEF";"mg Pt/l";"Farge_F";"mg Pt/l";1
+"FARGE_Manuell";"MG_P_L_PT";"Farge";"mg Pt/l";1
+"Fargetall";"mg Pt/l";"Farge";"mg Pt/l";1
+"Fargetall";"MG_P_L_PT";"Farge";"mg Pt/l";1
+"Fargetall";"mg Pt/l";"Farge";"mg Pt/l";1
+"Fargetall";"mg Pt/l";"Farge";"mg Pt/l";1
+"Fargetall";"mg Pt/l";"Farge";"mg Pt/l";1
+"Fargetall";"MG_P_ML_PT";"Farge";"mg Pt/l";1
+"Fargetall";"MG_P_L_PT";"Farge";"mg Pt/l";1
+"Fargetall";"MG_P_ML_PT";"Farge";"mg Pt/l";1
+"Fargetall";"mg Pt/l";"Farge";"mg Pt/l";1
+"FARGEU";"mg Pt/l";"Farge_U";"mg Pt/l";1
+"FARGEU";"mg Pt/l";"Farge_U";"mg Pt/l";1
+"FARGEU";"mg Pt/l";"Farge_U";"mg Pt/l";1
+"FARGEU";"mg Pt/l";"Farge_U";"mg Pt/l";1
+"FARG_MT";"mg Pt/l";"Farge";"mg Pt/l";1
+"FARG-U";"mg Pt/l";"Farge";"mg Pt/l";1
+"FE";"µg/l";"Fe";"µg/l";1
+"FE";"µg/l";"Fe";"µg/l";1
+"FE";"µg/l Fe";"Fe";"µg/l";1
+"FE";"µg/l";"Fe";"µg/l";1
+"FE";"µg/l";"Fe";"µg/l";1
+"FE";"µg/l";"Fe";"µg/l";1
+"FE";"ug/l";"Fe";"µg/l";1
+"FE";"µg/l";"Fe";"µg/l";1
+"Fe";"ng/ml";"Fe";"µg/l";1
+"Fe";"µg/L";"Fe";"µg/l";1
+"Fe";"µg/L";"Fe";"µg/l";1
+"Fe";"µg/L";"Fe";"mg/l";0,001
+"Fe";"µg/l";"Fe";"µg/l";1
+"Fe";"µg/l";"Fe";"µg/l";1
+"Fe";"µg/l";"Fe";"µg/l";1
+"Fe";"µg Fe/l";"Fe";"µg/l";1
+"Fe";"µg/l";"Fe";"µg/l";1
+"Fe";"mg/l";"Fe";"mg/l";1
+"Fe";"mg/l";"Fe";"mg/l";1
+"Fe";"mg/l";"Fe";"mg/l";1
+"Fe";"mg/l";"Fe";"mg/l";1
+"Fe";"mg/l";"Fe";"mg/l";1
+"Fe";"µg/l";"Fe";"µg/l";1
+"Fe";"µg/l";"Fe";"µg/l";1
+"Fe";"µg/l";"Fe";"µg/l";1
+"Fe filtrert";"µg/l";"Fe-filt";"µg/l";1
+"Fe oppsluttet";"µg/l";"Fe";"µg/l";1
+"FEF";"?g/l";"Fe-filt";"µg/l";1
+"FEF";"µg/l Fe";"Fe-filt";"µg/l";1
+"Fe-filt";"mg/l";"Fe-filt";"mg/l";1
+"Fe-filt";"µg/l";"Fe-filt";"µg/l";1
+"Fe-filt";"µg/l";"Fe-filt";"µg/l";1
+"Fe/HR-ICPM";"µg/l";"Fe";"µg/l";1
+"FE-ICP";"µg/l";"Fe";"µg/l";1
+"Fe/ICP";"mg/l";"Fe";"µg/l";1000
+"Fe(II)";"mg/l";"Fe";"µg/l";1000
+"FEKKOLI";"n/100ml";"FEKKOLI";"n/100ml";1
+"FEKSTR";"n/100ml";"FEKSTR";"n/100ml";1
+"Fe/MS";"µg/l";"Fe";"µg/l";1
+"Fenantren";"ng/l";"Fenantren";"ng/L";1
+"Fenantren";"UG_P_L";"Fenantren";"ng/L";1000
+"Fenantren";"UG_P_L";"Fenantren";"ng/L";1000
+"Fenantren";"ng/L";"Fenantren";"ng/L";1
+"Fenantren";"µg/l";"Fenantren";"ng/L";1000
+"Fenantren";"UG_P_L";"Fenantren";"ng/L";1000
+"Fenantren";"NG_P_L";"Fenantren";"ng/L";1
+"FEP";"µg/l";"Fe_P";"µg/l";1
+"Fe-2";"mg/l";"Fe-2";"mg/l";1
+"FLE";"ng/L";"Fluoren";"ng/L";1
+"FLU";"ng/L";"Fluoranten";"ng/L";1
+"Fluor";"µg/l";"F";"mg/l";0,001
+"Fluoranten";"UG_P_L";"Fluoranten";"ng/L";1000
+"Fluoranten";"UG_P_L";"Fluoranten";"ng/L";1000
+"Fluoranten";"µg/l";"Fluoranten";"ng/L";1000
+"Fluoranten";"UG_P_L";"Fluoranten";"ng/L";1000
+"Fluoranten";"ng/l";"Fluoranten";"ng/L";1
+"Fluoranten";"NG_P_L";"Fluoranten";"ng/L";1
+"Fluoranten";"ng/L";"Fluoranten";"ng/L";1
+"Fluoranthene";"ng/L";"Fluoranten";"ng/L";1
+"Fluoren";"UG_P_L";"Fluoren";"ng/L";1000
+"Fluoren";"UG_P_L";"Fluoren";"ng/L";1000
+"Fluoren";"µg/l";"Fluoren";"ng/L";1000
+"Fluoren";"ng/L";"Fluoren";"ng/L";1
+"Fluoren";"NG_P_L";"Fluoren";"ng/L";1
+"Fluoren";"UG_P_L";"Fluoren";"ng/L";1000
+"Fluoren";"ng/l";"Fluoren";"ng/L";1
+"Fluorene";"ng/L";"Fluoren";"ng/L";1
+"Fluorescence";"µg/l";"Fluorescens";"µg/l";1
+"Fluorescence";"µg/l";"Fluorescens";"µg/l";1
+"Fluorescence";"";"Fluorescence";"";1
+"Fluorescence";"";"Fluorescence";"";1
+"Fluorescence";"";"Fluorescence";"";1
+"Fluorescence";"µg/l";"Fluorescens";"µg/l";1
+"Fluorescence";"µg/l";"Fluorescens";"µg/l";1
+"Fluorescence";"";"Fluorescence";"";1
+"Fluorescence";"";"Fluorescence";"";1
+"Fluorescence";"µg/l";"Fluorescens";"µg/l";1
+"Fluorescence - Kalibrerte sondedata";"µg/l";"Fluorescens";"µg/l";1
+"Fluorescence - Kalibrerte sondedata";"µg/l";"Fluorescens";"µg/l";1
+"Fluorescence - Ukalibrert fra sonde";"µg/l";"Fluorescence";"";1
+"Fluorescens";"µg/L";"CDOM";"µg/L";1
+"Fluorescens";"µg/l";"Fluorescens";"µg/l";1
+"Fluorescens";"µg/L";"Fluorescens";"µg/l";1
+"Fluorescens";"µg/l";"KlfA";"µg/l";1
+"Fluorescens";"µg/l";"Fluorescens";"µg/l";1
+"Fluorescense";"µg/L";"Fluorescens";"µg/l";1
+"Fluorescense";"µg/L";"Fluorescens";"µg/l";1
+"Fluorescense";"µg/L";"Fluorescens";"µg/l";1
+"Fluorescense";"µg/L";"Fluorescens";"µg/l";1
+"Fluorescense";"µg/L";"Fluorescens";"µg/l";1
+"Fluorescens_Ferrybox";"µg/l";"KlfA";"µg/l";1
+"Fluorescens_Ferrybox";"µg/l";"Fluorescens";"µg/l";1
+"Fluorescent Dissolved Organic Matter (FDOM)";"ppb";"FDOM";"ppb";1
+"Fluorid";"UG_P_L";"F";"mg/l";0,001
+"Fluorid";"UG_P_L";"F";"mg/l";0,001
+"Fluorid";"MG_P_L";"F";"mg/l";1
+"Fluorid";"UG_P_L";"F";"mg/l";0,001
+"Fluorid";"UG_P_L";"F";"mg/l";0,001
+"fluorid";"mg/l";"F";"mg/l";1
+"FLU-V";"ng/l";"Fluoranten";"ng/L";1
+"Fosfat";"UG_P_P_L";"PO4-P";"µg/l";1
+"Fosfat";"µg/L";"PO4-P";"µg/l";1
+"Fosfat";"UG_P_L";"PO4-P";"µg/l";1
+"Fosfat";"UG_P_P_L";"PO4-P";"µg/l";1
+"Fosfat";"UG_P_L";"PO4-P";"µg/l";1
+"Fosfat";"UG_P_L";"PO4-P";"µg/l";1
+"Fosfat";"UG_P_P_L";"PO4-P";"µg/l";1
+"Fosfat";"UG_P_L";"PO4-P";"µg/l";1
+"Fosfat";"UG_P_L";"PO4-P";"µg/l";1
+"Fosfat";"UG_P_L";"PO4-P";"µg/l";1
+"Fosfat";"µg/l";"PO4-P";"µg/l";1
+"Fosfat";"µg P/l";"P";"µg/l";1
+"Fosfat";"µmol/l";"PO4-P";"µg/l";30,9738
+"Fosfat";"UG_P_L";"P-PO4";"µg/l P";1
+"Fosfat, filtrert";"UG_P_L";"PO4_f";"µg/l P";1
+"Fosfat, filtrert";"UG_P_L";"PO4_f";"µg/l P";1
+"Fosfat, filtrert";"UG_P_L";"PO4_f";"µg/l P";1
+"Fosfat (PO4)";"µ mol/l";"PO4-P";"µg/l";30,9738
+"Fosfat-F";"UG_P_P_L";"PO4_f";"µg/l P";1
+"Fosfat-F";"UG_P_P_L";"PO4_f";"µg/l P";1
+"Fosfor";"UG_P_L";"P";"µg/l";1
+"Fosfor";"UG_P_L";"P";"µg/l";1
+"Fosfor total";"µg/L";"TOTP";"µg/l";1
+"Fraksjon >C10-C12";"µg/l";"Olje >C10-C12";"µg/l";1
+"Fraksjon >C10-C40";"µg/l";"Olje >C10-C40";"µg/l";1
+"Fraksjon >C12-C16";"µg/l";"Olje >C12-C16";"µg/l";1
+"Fraksjon >C16-C35";"µg/l";"Olje >C16-C35";"µg/l";1
+"Fraksjon >C35-C40";"µg/l";"Olje >C35-C40";"µg/l";1
+"FRIAM";"µg /l N";"FRIAM";"µg /l N";1
+"Fritt CO2";"MG_C_L";"Fritt CO2";"mg C/L";1
+"FSH";"µg /l P";"FSH";"µg /l P";1
+"FSSH";"µg /l P";"FSSH";"µg /l P";1
+"FSSHF";"µg /l P";"FSSHF";"µg /l P";1
+"FTALAT-V";"µg/l";"Ftalater";"µg/l";1
+"Fytoplankton totalt biovolum";"mm3/m3";"Fytoplankton totalt biovolum";"mm3/m3";1
+"Ga/HR-ICPM";"µg/l";"Ga";"µg/l";1
+"GA-ICP";"µg/l";"Ga";"µg/l";1
+"Gallium";"UG_P_L";"Ga";"µg/l";1
+"Gallium";"UG_P_L";"Ga";"µg/l";1
+"gamma-HBCD";"NG_P_L";"g-HBCD";"ng/L";1
+"gamma-Heksaklorsykloheksan (gamma-HCH)";"NG_P_L";"g-HCH";"ng/L";1
+"Ga/MS";"µg/l";"Ga";"µg/l";1
+"Gd/HR-ICPM";"µg/l";"Gd";"µg/l";1
+"GD-ICP";"µg/l";"Gd";"µg/l";1
+"Gd/MS";"µg/l";"Gd";"µg/l";1
+"GE-ICP";"µg/l";"Ge";"µg/l";1
+"GEMF";"n/100ml";"GEMF";"n/100ml";1
+"g-HCH";"ng/L";"HCHG";"ng/l";1
+"g-HCH";"ng/L";"HCHG";"ng/l";1
+"Gl.rest";"mg/l";"Gløderest";"mg/l";1
+"Grønnalger";"mm3/m3";"Grønnalger";"mm3/m3";1
+"Gulgrønnalger";"mm3/m3";"Gulgrønnalger";"mm3/m3";1
+"Gullalger";"mm3/m3";"Gullalger";"mm3/m3";1
+"Hafnium";"UG_P_L";"Hf";"µg/l";1
+"Hafnium";"UG_P_L";"Hf";"µg/l";1
+"Hastighet";"mm/s";"Hastighet";"cm/s";0,1
+"Hastighet";"cm/s";"Hastighet";"cm/s";1
+"HCB";"ng/L";"HCB";"ng/l";1
+"HCB";"ng/L";"HCB";"ng/l";1
+"HCB";"ng/L";"HCB";"ng/l";1
+"HCH";"ng/l";"HCH";"ng/l";1
+"HCHG";"ng/l";"HCHG";"ng/l";1
+"HCHG-V";"ng/l";"HCHG";"ng/l";1
+"HCO3";"mg/l";"HCO3";"mg/l";1
+"hd";"deg";"Hardness";"deg";1
+"hd_total";"mg/l";"Total Hardness";"mg/l";1
+"Heksaklorbenzen (HCB)";"NG_P_L";"HCB";"ng/l";1
+"Hf/HR-ICPM";"µg/l";"Hf";"µg/l";1
+"HF-ICP";"µg/l";"Hf";"µg/l";1
+"HG";"µg/l";"Hg";"ng/l";1000
+"Hg";"ng/l";"Hg";"ng/l";1
+"Hg";"ng/L";"Hg";"ng/l";1
+"Hg";"µg/l";"Hg";"ng/l";1000
+"Hg";"ng/L";"Hg";"ng/l";1
+"Hg";"ng/l";"Hg";"ng/l";1
+"Hg";"ug/L";"Hg";"ng/l";1000
+"Hg";"µg/l";"Hg";"ng/l";1000
+"Hg";"µg/l";"Hg";"ng/l";1000
+"Hg";"µg/l";"Hg";"ng/l";1000
+"Hg";"ng/l";"Hg";"ng/l";1
+"Hg";"ng/l";"Hg";"ng/l";1
+"Hg/H";"µg/l";"Hg";"ng/l";1000
+"Hg/L";"ng/l";"Hg";"ng/l";1
+"Hg/L";"ng/l";"Hg";"ng/l";1
+"Hg/L";"µg/l";"Hg";"ng/l";1000
+"Hg/L";"ng/l";"Hg";"ng/l";1
+"hg_total";"µg/l";"Total Hg";"µg/l";1
+"Hjuldyr";"mg/m3";"Hjuldyr";"mg/m3";1
+"Ho/HR-ICPM";"µg/l";"Ho";"µg/l";1
+"HO-ICP";"µg/l";"HO-ICP";"µg/l";1
+"Ho/MS";"µg/l";"Ho";"µg/l";1
+"Hoppekreps";"mg/m3";"Hoppekreps";"mg/m3";1
+"H2S";"mg S/l";"H2S";"mg/l S";1
+"H2S";"mg/l S";"H2S";"mg/l S";1
+"H2S";"ml/l";"H2S";"ml/l";1
+"H2S";"mg/l S";"H2S";"mg/l S";1
+"H2S-Sj";"ml H2S/l";"H2S";"ml/l";1
+"ICDP";"ng/L";"Indeno(123cd)pyren";"µg/l";0,001
+"I/HR-ICPM";"µg/l";"I";"µg/l";1
+"ILAL";"µg/l Al";"Al/IL";"µg/l";1
+"Indeno(1,2,3-cd)pyren";"ng/L";"Indeno(123cd)pyren";"µg/l";0,001
+"Indeno(123cd)pyren^";"µg/l";"Indeno(123cd)pyren";"µg/l";1
+"Indeno[1,2,3-cd]pyren";"UG_P_L";"Indeno(123cd)pyren";"µg/l";1
+"Indeno[1,2,3-cd]pyren";"UG_P_L";"Indeno(123cd)pyren";"µg/l";1
+"Indeno[1,2,3-cd]pyren";"NG_P_L";"Indeno(123cd)pyren";"µg/l";0,001
+"Indeno[1,2,3-cd]pyren";"UG_P_L";"Indeno(123cd)pyren";"µg/l";1
+"Indeno(1,2,3-cd)pyrene";"ng/L";"Indeno(123cd)pyren";"µg/l";0,001
+"Intestinale enterokokker";"cfu/100 ml";"Intestinale Enterokker";"cfu/100 ml";1
+"Ir/HR-ICPM";"µg/l";"Ir";"µg/l";1
+"IR-ICP";"µg/l";"Ir";"µg/l";1
+"Iron";"ppm";"Iron";"ppm";1
+"Jern";"µg Fe/l";"Fe";"µg/l";1
+"Jern";"UG_P_L";"Fe";"µg/l";1
+"Jern";"UG_P_L";"Fe";"µg/l";1
+"Jern";"µg/l";"Fe";"µg/l";1
+"Jern";"UG_P_L";"Fe";"µg/l";1
+"Jern";"MG_P_L";"Fe";"mg/l";1
+"Jern";"MG_P_L";"Fe";"µg/l";1000
+"Jern";"MG_P_L";"Fe";"µg/l";1000
+"Jern";"µg Fe/l";"Fe";"µg/l";1
+"Jern";"µg Fe/l";"Fe-filt";"µg/l";1
+"Jern";"UG_P_L";"Fe";"µg/l";1
+"Jern";"UG_P_L";"Fe";"µg/l";1
+"Jern";"MG_P_L";"Fe";"µg/l";1000
+"Jern";"MG_P_L";"Fe";"mg/l";1
+"Jern";"MG_P_L";"Fe";"mg/l";1
+"Jern";"µg Fe/l";"Fe";"µg/l";1
+"Jern-F";"UG_P_L";"Fe-filt";"µg/l";1
+"Jern-F";"UG_P_L";"Fe-filt";"µg/l";1
+"K";"MG_P_L";"K";"mg/L";1
+"K";"mg/l";"K";"mg/L";1
+"K";"mg/l";"K";"mg/L";1
+"K";"mg/l";"K";"mg/L";1
+"K";"mg/l";"K";"mg/L";1
+"K";"mg/l";"K";"mg/L";1
+"K";"mg/l";"K";"mg/L";1
+"K";"mg/l";"K";"mg/L";1
+"K";"mg/l";"K";"mg/L";1
+"K";"mg/l";"K";"mg/L";1
+"K";"mg/l";"K";"mg/L";1
+"K";"mg/l";"K";"mg/L";1
+"K";"mg/l";"K";"mg/L";1
+"Kadmium";"UG_P_L";"Cd";"µg/l";1
+"Kadmium";"UG_P_L";"Cd";"µg/l";1
+"Kadmium";"µg Cd/l";"Cd";"µg/l";1
+"Kadmium";"UG_P_L";"Cd";"µg/l";1
+"Kadmium";"µg/l";"Cd";"µg/l";1
+"Kadmium";"UG_P_L";"Cd";"µg/l";1
+"Kadmium";"UG_P_L";"Cd";"µg/l";1
+"Kadmium";"UG_P_L";"Cd";"µg/l";1
+"Kadmium";"µg Cd/l";"Cd-filt";"µg/l";1
+"Kadmium";"µg Cd/l";"Cd";"µg/l";1
+"Kadmium";"UG_P_L";"Cd";"µg/l";1
+"Kadmium";"NONE";"Cd";"µg/l";1
+"Kadmium";"UG_P_L";"Cd";"µg/l";1
+"Kadmium";"UG_P_L";"Cd";"µg/l";1
+"Kadmium";"UG_P_L";"Cd";"µg/l";1
+"Kadmium-F";"UG_P_L";"Cd-filt";"µg/l";1
+"Kadmium-F";"UG_P_L";"Cd-filt";"µg/l";1
+"Kadmium-F";"UG_P_L";"Cd-filt";"µg/l";1
+"Kalium";"MG_P_L";"K";"mg/L";1
+"Kalium";"UG_P_L";"K";"mg/L";0,001
+"Kalium";"MG_P_L";"K";"mg/L";1
+"Kalium";"MG_P_L";"K";"mg/L";1
+"Kalium";"UG_P_L";"K";"mg/L";0,001
+"Kalium";"MG_P_L";"K";"mg/L";1
+"Kalium";"MG_P_L";"K";"mg/L";1
+"Kalium";"UG_P_L";"K";"mg/L";0,001
+"Kalium";"MG_P_L";"K";"mg/L";1
+"Kalium";"MG_P_L";"K";"mg/L";1
+"Kalium";"MG_P_L";"K";"mg/L";1
+"Kalium-F";"UG_P_L";"K-filt";"µg/l";1
+"Kalium-F";"MG_P_L";"K-filt";"µg/l";1000
+"Kalsium";"mg Ca/l";"Ca";"mg/L";1
+"Kalsium";"mg Ca/l";"Ca";"mg/L";1
+"Kalsium";"mg/l";"Ca";"mg/L";1
+"Kalsium";"MG_P_L";"Ca";"mg/L";1
+"Kalsium";"MG_P_L";"Ca";"mg/L";1
+"Kalsium";"mg/l";"Ca";"mg/L";1
+"Kalsium";"mg/l";"Calcium";"mg/l";1
+"Kalsium";"mg/l";"Ca";"mg/L";1
+"Kalsium";"MG_P_L";"Ca";"mg/L";1
+"Kalsium";"mg/l";"Ca-filt";"mg/l";1
+"Kalsium";"mg/l";"Ca";"mg/L";1
+"Kalsium";"UG_P_L";"Ca";"mg/L";0,001
+"Kalsium";"MG_P_L";"Ca";"mg/L";1
+"Kalsium";"MG_P_L";"Ca";"mg/L";1
+"Kalsium";"MG_P_L";"Ca";"mg/L";1
+"Kalsium";"MG_P_L";"Ca";"mg/L";1
+"Kalsium";"MG_P_L";"Ca";"mg/L";1
+"Kalsium";"mg/l";"Ca";"mg/L";1
+"Kalsium";"UG_P_L";"Ca";"mg/L";0,001
+"Kalsium";"MG_P_L";"Ca";"mg/L";1
+"Kalsium";"MG_P_L";"Ca";"mg/L";1
+"Kalsium";"MG_P_L";"Ca";"mg/L";1
+"Kalsium";"MG_P_L";"Ca";"mg/L";1
+"Kalsium-F";"MG_P_L";"Ca-filt";"mg/l";1
+"Kalsium-F";"MG_P_L";"Ca-filt";"mg/l";1
+"Kalsium-F";"MG_P_L";"Ca-filt";"mg/l";1
+"Kalsium-F";"UG_P_L";"Ca-filt";"mg/l";0,001
+"K/HR-ICPM";"µg/l";"K";"mg/L";0,001
+"KIM#";"ant/ml";"KIM#";"ant/ml";1
+"KIMTALL";"ant/ml";"KIM_22";"ant/ml";1
+"KIMTALL";"ant/100ml";"KIM#";"ant/ml";1
+"KIMTALL";"ant/100ml";"KIM#";"ant/ml";1
+"KIMTALL";"ant/100";"KIM#";"ant/ml";1
+"KIMTALL";"ant/ml";"KIM#";"ant/ml";1
+"KIMTALL";"ant/100";"KIM#";"ant/ml";1
+"Kimtall";"kde/100ml";"KIM#";"ant/ml";0,01
+"KIM20";"ant/ml";"KIM_20";"ant/ml";1
+"KIM20";"ant/ml";"KIM_20";"ant/ml";1
+"KIM37";"ant/ml";"KIM_37";"ant/ml";1
+"Kiselalger";"mm3/m3";"Kiselalger";"mm3/m3";1
+"Kjemisk oksygenforbruk";"MG_P_L";"KOF";"mg O/l";1
+"Kjemisk oksygenforbruk Cr";"MG_P_L";"KOF";"mg O/l";1
+"Kjemisk oksygenforbruk Cr";"MG_P_L";"KOF";"mg O/l";1
+"Kjemisk oksygenforbruk Mn";"MG_O2_L";"KOF";"mg O/l";1
+"Kjemisk oksygenforbruk Mn";"MG_O2_L";"KOF";"mg O/l";1
+"Kjemisk oksygenforbruk Mn";"MG_O2_L";"KOF";"mg O/l";1
+"KLA";"µg/l";"KlfA";"µg/l";1
+"Kl-a";"µg/l";"KlfA";"µg/l";1
+"KLA/F";"µg/l";"KlfA";"µg/l";1
+"KLA/S";"µg/l";"KlfA";"µg/l";1
+"KLA/S";"µg/l";"KlfA";"µg/l";1
+"KLA/S";"µg/l";"KlfA";"µg/l";1
+"KLA/S";"µg/l";"KlfA";"µg/l";1
+"Klf A";"µg/l";"KlfA";"µg/l";1
+"KLFA";"µg/l";"KlfA";"µg/l";1
+"KLFA";"µg/l";"KlfA";"µg/l";1
+"KLFA";"µg/l";"KlfA";"µg/l";1
+"KLFA";"µg/l";"KlfA";"µg/l";1
+"KLFA";"µg/l";"KlfA";"µg/l";1
+"KLFA";"µg/l";"KlfA";"µg/l";1
+"Klfa";"µg/l";"KlfA";"µg/l";1
+"KLFA_Ferrybox";"µg/l";"KlfA";"µg/l";1
+"Klorfenvinfos";"UG_P_L";"Klorfenvinfos";"ng/L";1000
+"Klorfenvinfos";"NG_P_L";"Klorfenvinfos";"ng/L";1
+"klorfenvinfos";"ng/L";"Klorfenvinfos";"ng/L";1
+"Klorfluoroktansulfonat (8Cl-PFOS)";"NG_P_L";"8Cl-PFOS";"ng/L";1
+"Klorid";"MG_P_L";"Cl";"mg/L";1
+"Klorid";"MG_P_L";"Cl";"mg/L";1
+"Klorid";"UG_P_L";"Cl";"mg/L";0,001
+"Klorid";"UG_P_L";"Cl";"mg/L";0,001
+"Klorid";"MG_P_L";"Klorid";"mg/l";1
+"Klorid";"MG_P_L";"Cl";"mg/L";1
+"Klorid";"UG_P_L";"Cl";"mg/L";0,001
+"Klorid";"MG_P_L";"Cl";"mg/L";1
+"Klorid";"mg Cl/l";"Cl";"mg/L";1
+"Klorofyll A";"MICROGRAM_PR_L";"KlfA";"µg/l";1
+"Klorofyll A";"MICROGRAM_PR_L";"KlfA";"µg/l";1
+"Klorofyll A";"MICROGRAM_PR_L";"KlfA";"µg/l";1
+"Klorofyll A";"µg/l";"KlfA";"µg/l";1
+"Klorofyll A";"MICROGRAM_PR_L";"KlfA";"µg/l";1
+"Klorofyll A";"MICROGRAM_PR_L";"KlfA";"µg/l";1
+"Klorofyll a";"µg/l";"KlfA";"µg/l";1
+"Klorofyll a";"µg/l";"KlfA";"µg/l";1
+"Kobber";"µg Cu/l";"Cu-filt";"µg/l";1
+"Kobber";"UG_P_L";"Cu";"µg/L";1
+"Kobber";"UG_P_L";"Cu";"µg/L";1
+"Kobber";"UG_P_L";"Cu";"µg/L";1
+"Kobber";"UG_P_L";"Cu";"µg/L";1
+"Kobber";"UG_P_L";"Cu";"µg/L";1
+"Kobber";"µg/l";"Cu";"µg/L";1
+"Kobber";"UG_P_L";"Cu";"µg/L";1
+"Kobber";"µg Cu/l";"Cu";"mg/l";0,001
+"Kobber";"µg Cu/l";"Cu";"µg/L";1
+"Kobber";"UG_P_L";"Cu";"µg/L";1
+"Kobber";"UG_P_L";"Cu";"µg/L";1
+"Kobber";"UG_P_L";"Cu";"µg/L";1
+"Kobber";"UG_P_L";"Cu";"µg/L";1
+"Kobber-F";"UG_P_L";"Cu-filt";"µg/l";1
+"Kobber-F";"UG_P_L";"Cu-filt";"µg/l";1
+"Kobber-F";"UG_P_L";"Cu-filt";"µg/l";1
+"Kobolt";"UG_P_L";"Co";"µg/L";1
+"Kobolt";"UG_P_L";"Co";"µg/L";1
+"Kobolt";"UG_P_L";"Co";"µg/L";1
+"Kobolt";"UG_P_L";"Co";"µg/L";1
+"Kobolt";"UG_P_L";"Co";"µg/L";1
+"Kobolt-F";"UG_P_L";"Co-filt";"µg/l";1
+"KOF";"mg O/l";"KOF";"mg O/l";1
+"KOF";"mg/l";"KOF";"mg O/l";1
+"KOF";"mg/l";"KOF";"mg O/l";1
+"KOF";"mg/l";"KOF";"mg O/l";1
+"KOF Mn";"mg O/l";"KOF-MN";"mg O/l";1
+"KOF Mn";"mg/L";"KOF-MN";"mg O/l";1
+"KOF Mn";"mg O/l";"KOF-MN";"mg O/l";1
+"KOFCr";"mg/L";"KOF";"mg O/l";1
+"KOF-DI";"mg O/l";"KOF";"mg O/l";1
+"KOF-DI";"mg/l";"KOF-DI";"mg/l";1
+"KOF-MN";"mg O/l";"KOF";"mg O/l";1
+"KOF-MN";"mg O/l";"KOF";"mg O/l";1
+"KOF-MN";"";"KOF-MN";"mg O/l";1
+"KOF-PE";"mg/l";"KOF-PE";"mg/l";1
+"KOF-PE";"mg/l";"KOF-PE";"mg/l";1
+"KOL";"Ant/100 ml";"KOL";"Ant/100 ml";1
+"KOL";"Ant/100 ml";"KOL";"Ant/100 ml";1
+"KOLI";"ant/100";"KOL";"Ant/100 ml";1
+"KOLI";"ant/100ml";"KOL";"Ant/100 ml";1
+"KOLI";"ant/100ml";"KOL";"Ant/100 ml";1
+"KOLI";"ant/100ml";"KOL";"Ant/100 ml";1
+"KOLI";"ant/100ml";"KOL";"Ant/100 ml";1
+"KOLI";"ant/100";"KOL";"Ant/100 ml";1
+"Koli";"kde/100ml";"KOL";"Ant/100 ml";1
+"Koliforme";"MPN/100 ml";"Faecal coliform";"MPN/100ml";1
+"KOLI37";"n/100ml";"KOLI_37";"n/100ml";1
+"KOLI37";"n/100ml";"KOLI_37";"n/100ml";1
+"KOND";"m S/m";"Konduktivitet";"mS/m";1
+"KOND";"mS/m";"Konduktivitet";"mS/m";1
+"KOND";"mS/m";"Konduktivitet";"mS/m";1
+"KOND";"mS/m";"Konduktivitet";"mS/m";1
+"KOND";"mS/m";"Konduktivitet";"mS/m";1
+"KOND";"mS/m";"Konduktivitet";"mS/m";1
+"Kond";"µS/cm";"Konduktivitet";"mS/m";0,1
+"Kond";"mS/cm";"Konduktivitet";"mS/m";100
+"Kond";"µS/cm";"Konduktivitet";"mS/m";0,10000000000000001
+"Kond";"µS/cm";"Konduktivitet";"mS/m";0,10000000000000001
+"Kond";"mS/m";"Konduktivitet";"mS/m";1
+"Kond";"mS/m";"Konduktivitet";"mS/m";1
+"Kond";"mS/m";"Konduktivitet";"mS/m";1
+"Kond";"µS/cm";"Konduktivitet";"mS/m";0,10000000000000001
+"Kond";"mS/m";"Konduktivitet";"mS/m";1
+"Kond";"mS/m";"Konduktivitet";"mS/m";1
+"Kond";"mS/cm";"Konduktivitet";"mS/m";100
+"Kond";"mS/m";"Konduktivitet";"mS/m";1
+"Kond";"mS/m";"Konduktivitet";"mS/m";1
+"Kond";"mS/m";"Konduktivitet";"mS/m";1
+"Kond";"µS/m";"Konduktivitet";"mS/m";0,001
+"Kond";"mS/m";"Konduktivitet";"mS/m";1
+"Kond";"mS/cm";"Konduktivitet";"mS/m";100
+"Kond";"mS/m";"Konduktivitet";"mS/m";1
+"Kond";"µS/cm";"Konduktivitet";"mS/m";0,1
+"Kond";"mS/m";"Konduktivitet";"mS/m";1
+"Kond";"mS/m";"Konduktivitet";"mS/m";1
+"Kond";"mS/m";"Konduktivitet";"mS/m";1
+"Kond";"mS/m";"Konduktivitet";"mS/m";1
+"Kond";"mS/m";"Konduktivitet";"mS/m";1
+"kond";"mS/m";"Konduktivitet";"mS/m";1
+"Kond mS/m";"mS/m";"Konduktivitet";"mS/m";1
+"KOND-MAN";"mS/m";"Konduktivitet";"mS/m";1
+"Konduktivitet";"mS/m";"Konduktivitet";"mS/m";1
+"Konduktivitet";"mS/m";"Konduktivitet";"mS/m";1
+"Konduktivitet";"MS_P_M";"Konduktivitet";"mS/m";1
+"Konduktivitet";"MS_P_M";"Konduktivitet";"mS/m";1
+"Konduktivitet";"µS/cm";"Conductivity";"µS/cm";1
+"Konduktivitet";"mS/m";"Konduktivitet";"mS/m";1
+"Konduktivitet";"mS/m";"Konduktivitet";"mS/m";1
+"Konduktivitet";"mS/m";"Konduktivitet";"mS/m";1
+"Konduktivitet";"mS/m";"Konduktivitet";"mS/m";1
+"Konduktivitet";"mS/m";"Konduktivitet-filt";"mS/m";1
+"Konduktivitet";"mS/m";"Konduktivitet";"mS/m";1
+"Konduktivitet";"MS_P_M";"Konduktivitet";"mS/m";1
+"Konduktivitet";"MS_P_M";"Konduktivitet";"mS/m";1
+"Konduktivitet";"MS_P_M";"Konduktivitet";"mS/m";1
+"Konduktivitet";"MS_P_M";"Konduktivitet";"mS/m";1
+"Konduktivitet";"MS_P_M";"Konduktivitet";"mS/m";1
+"Konduktivitet";"MS_P_M";"Konduktivitet";"mS/m";1
+"Konduktivitet";"mS/m";"Konduktivitet";"mS/m";1
+"Konduktivitet";"MS_P_M";"Konduktivitet";"mS/m";1
+"Konduktivitet";"mS/m";"Konduktivitet";"mS/m";1
+"Konduktivitet";"MS_P_M";"Konduktivitet";"mS/m";1
+"Konduktivitet";"mS/m";"Konduktivitet";"mS/m";1
+"Konduktivitet";"mS/m";"Konduktivitet";"mS/m";1
+"Konduktivitet";"MS_P_M";"Konduktivitet";"mS/m";1
+"Konduktivitet";"mS/m";"Konduktivitet";"mS/m";1
+"Konduktivitet";"mS/m";"Konduktivitet";"mS/m";1
+"Konduktivitet";"MS_P_M";"Konduktivitet";"mS/m";1
+"Konduktivitet CTD";"S/m";"Konduktivitet";"mS/m";1000
+"Kondx";"mS/m";"Konduktivitet";"mS/m";1
+"Kondx";"mS/m";"Konduktivitet";"mS/m";1
+"KOND20";"µS/cm";"KOND20";"µS/cm";1
+"Krom";"µg Cr/l";"Cr-filt";"µg/l";1
+"Krom";"µg Cr/l";"Cr";"µg/l";1
+"Krom";"UG_P_L";"Cr";"µg/l";1
+"Krom";"UG_P_L";"Cr";"µg/l";1
+"Krom";"UG_P_L";"Cr";"µg/l";1
+"Krom";"UG_P_L";"Cr";"µg/l";1
+"Krom";"UG_P_L";"Cr";"µg/l";1
+"Krom";"UG_P_L";"Cr";"µg/l";1
+"Krom";"µg Cr/l";"Cr";"µg/l";1
+"Krom-F";"UG_P_L";"Cr-filt";"µg/l";1
+"Krom-F";"UG_P_L";"Cr-filt";"µg/l";1
+"Krom-F";"UG_P_L";"Cr-filt";"µg/l";1
+"Kryptomonader";"mm3/m3";"Kryptomonader";"mm3/m3";1
+"Krysen";"UG_P_L";"Krysen^";"µg/l";1
+"Krysen^";"µg/l";"Krysen^";"µg/l";1
+"Krysen+Trifenylen";"UG_P_L";"Krysen+Trifenylen";"µg/l";1
+"Krysen+Trifenylen";"UG_P_L";"Krysen+Trifenylen";"µg/l";1
+"Kvikksølv";"UG_P_L";"Hg";"ng/l";1000
+"Kvikksølv";"UG_P_L";"Hg";"ng/l";1000
+"Kvikksølv";"NG_P_L";"Hg";"ng/l";1
+"Kvikksølv";"UG_P_L";"Hg";"ng/l";1000
+"Kvikksølv";"UG_P_L";"Hg";"ng/l";1000
+"Kvikksølv";"UG_P_L";"Hg";"ng/l";1000
+"Kvikksølv";"UG_P_L";"Hg";"ng/l";1000
+"Kvikksølv";"UG_P_L";"Hg";"ng/l";1000
+"Kvikksølv";"µg/l";"Hg";"ng/l";1000
+"Kvikksølv";"UG_P_L";"Hg";"ng/l";1000
+"Kvikksølv";"NG_P_L";"Hg";"ng/l";1
+"Kvikksølv, oppsluttet";"UG_P_L";"Hg";"ng/l";1000
+"Kvikksølv-F";"UG_P_L";"Hg-filt";"ng/l";1000
+"Kvikksølv-F";"UG_P_L";"Hg-filt";"ng/l";1000
+"Kvikksølv-F";"UG_P_L";"Hg-filt";"ng/l";1000
+"Kvikksølv-F";"UG_P_L";"Hg-filt";"ng/l";1000
+"Kvikksølv-F";"UG_P_L";"Hg-filt";"ng/l";1000
+"Kvikksølv-F";"UG_P_L";"Hg-filt";"ng/l";1000
+"Kvikksølv-F";"UG_P_L";"Hg-filt";"ng/l";1000
+"La/HR-ICPM";"µg/l";"La";"µg/l";1
+"LAL";"µg/l Al";"Al/L";"µg/l";1
+"La/MS";"µg/l";"La";"µg/l";1
+"Lead";"µg/l";"Lead";"µg/l";1
+"Lead";"µg/l";"Pb";"µg/L";1
+"Lead (filtered)";"µg/l";"Pb-filt";"µg/l";1
+"Li/HR-ICPM";"µg/l";"Li";"µg/l";1
+"LI-ICP";"µg/l";"Li";"µg/l";1
+"Litium";"UG_P_L";"Li";"µg/l";1
+"Litium";"UG_P_L";"Li";"µg/l";1
+"Litium";"UG_P_L";"Li";"µg/l";1
+"Litium-F";"UG_P_L";"Li-filt";"µg/l";1
+"LMRP";"µg/l";"LMRP";"µg/l";1
+"LMRP";"µg/l";"LMRP";"µg/l";1
+"LOC";"mg/l";"LOC";"mg/l";1
+"LOC";"mg C/l";"LOC";"mg/l";1
+"LOSP";"µg/l";"LOSP";"µg/l";1
+"LOSP";"µg/l";"LOSP";"µg/l";1
+"LP";"µg/l";"LP";"µg/l";1
+"Lu/HR-ICPM";"µg/l";"Lu";"µg/l";1
+"LU-ICP";"µg/l";"Lu";"µg/l";1
+"Lu/MS";"µg/l";"Lu";"µg/l";1
+"Løst oksygen";"MG_O2_L";"O2";"mg/l";1
+"Løst oksygen";"MG_O2_L";"O2";"mg/l";1
+"Løst oksygen";"MG_O2_L";"O2";"mg/l";1
+"Løst oksygen";"MG_O2_L";"O2";"mg/l";1
+"Løst oksygen i sjøvann";"ML_O2_L";"O2";"ml/l";1
+"Løst oksygen i sjøvann";"ML_O2_L";"O2";"ml/l";1
+"Løst oksygen i sjøvann";"ML_O2_L";"O2";"ml/l";1
+"Løst oksygen i sjøvann";"ML_O2_L";"O2";"ml/l";1
+"Løst oksygen i sjøvann";"ML_O2_L";"O2";"ml/l";1
+"Løst organisk karbon";"MG_C_L";"DOC";"mg/L C";1
+"Løst organisk karbon";"MG_C_L";"DOC";"mg/L C";1
+"Løst organisk karbon";"MG_C_L";"DOC";"mg/L C";1
+"Løst organisk karbon";"MG_C_L";"DOC";"mg/L C";1
+"Løst organisk karbon";"MG_P_L";"DOC";"mg/l";1
+"Løst organisk karbon";"MG_C_L";"DOC";"mg/L C";1
+"Løst organisk karbon";"MG_P_L";"DOC";"mg/l";1
+"Løst organisk karbon";"MG_C_L";"DOC";"mg/L C";1
+"Løst organisk karbon (DOC)";"MG_C_L";"DOC";"mg/L C";1
+"Løst organisk karbon (DOC)";"MG_C_L";"DOC";"mg/L C";1
+"Løst organisk karbon (DOC)";"MG_C_L";"DOC";"mg/L C";1
+"Løst organisk karbon (DOC)";"MG_P_L";"DOC";"mg/l";1
+"Løst organisk karbon (DOC)";"MG_P_L";"DOC";"mg/l";1
+"Løst organisk karbon (DOC)";"MG_P_L";"DOC";"mg/l";1
+"Løst organisk karbon (DOC)";"MG_C_L";"DOC";"mg/L C";1
+"Magnesium";"UG_P_L";"Mg";"mg/L";0,001
+"Magnesium";"MG_P_L";"Mg";"mg/L";1
+"Magnesium";"MG_P_L";"Mg";"mg/L";1
+"Magnesium";"mg/l";"Magnesium";"mg/l";1
+"Magnesium";"UG_P_L";"Mg";"mg/L";0,001
+"Magnesium";"MG_P_L";"Mg";"mg/L";1
+"Magnesium";"UG_P_L";"Mg";"mg/L";0,001
+"Magnesium";"MG_P_L";"Mg";"mg/L";1
+"Magnesium";"MG_P_L";"Mg";"mg/L";1
+"Magnesium";"MG_P_L";"Mg";"mg/L";1
+"Magnesium";"MG_P_L";"Magnesium";"mg/l";1
+"Magnesium";"MG_P_L";"Mg";"mg/L";1
+"Magnesium";"MG_P_L";"Mg";"mg/L";1
+"Magnesium";"MG_P_L";"Mg";"mg/L";1
+"Magnesium-F";"MG_P_L";"Mg-filt";"mg/l";1
+"Magnesium-F";"UG_P_L";"Mg-filt";"mg/l";0,001
+"Mangan";"µg Mn/l";"Mn";"µg/l";1
+"Mangan";"µg Mn/l";"Mn";"µg/l";1
+"Mangan";"UG_P_L";"Mn";"µg/l";1
+"Mangan";"µg Mn/l";"Mn-filt";"µg/l";1
+"Mangan";"µg Mn/l";"Mn";"µg/l";1
+"Mangan";"UG_P_L";"Mn";"µg/l";1
+"Mangan";"UG_P_L";"Mn";"µg/l";1
+"Mangan";"UG_P_L";"Mn";"µg/l";1
+"Mangan";"µg/l";"Mn";"µg/l";1
+"Manganese";"µg/l";"Manganese";"µg/l";1
+"Manganese";"µg/l";"Mn";"µg/l";1
+"Manganese (filtered)";"µg/l";"Mn-filt";"µg/l";1
+"Mangan-F";"UG_P_L";"Mn-filt";"µg/l";1
+"Mangan-F";"UG_P_L";"Mn-filt";"µg/l";1
+"Mangan-F";"UG_P_L";"Mn-filt";"µg/l";1
+"MBAS";"mg M/l";"MBAS";"mg M/l";1
+"MBASF";"mg M/l";"MBAS_F";"mg M/l";1
+"MBT-V";"ng/l";"MBT";"ng/l";1
+"MCCP";"ng/L";"MCCP";"ng/L";1
+"MCCP";"ng/L";"MCCP";"ng/L";1
+"meFBSA";"ng/l";"me-FBSA";"ng/L";1
+"meFHpSA";"ng/l";"me-FHpSA";"ng/L";1
+"meFHxSA";"ng/l";"me-FHxSA";"ng/L";1
+"me-FOASAA";"ng/L";"me-FOASAA";"ng/L";0,001
+"meFOSA";"ng/L";"meFOSA";"ng/L";0,001
+"me-FOSAA";"ng/l";"me-FOSAA";"ng/L";1
+"meFOSE";"ng/L";"meFOSE";"ng/L";0,001
+"meFPeSA";"ng/l";"me-FPeSA";"ng/L";1
+"me-PFOSA";"ng/l";"me-PFOSA";"ng/L";1
+"me-PFOSE";"ng/l";"me-PFOSE";"ng/L";1
+"Mercury";"µg/l";"Hg";"ng/l";1000
+"Mercury";"µg/l";"Mercury";"µg/l";1
+"Mercury (filtered)";"µg/l";"Hg-filt";"ng/l";1000
+"MG";"mg/l";"Mg";"mg/L";1
+"MG";"mg/l";"Mg";"mg/L";1
+"MG";"mg/l";"Mg";"mg/L";1
+"MG";"mg/l";"Mg";"mg/L";1
+"Mg";"MG_P_L";"Mg";"mg/L";1
+"Mg";"mg/l";"Mg";"mg/L";1
+"Mg";"mg/l";"Mg";"mg/L";1
+"Mg";"mg/l";"Mg";"mg/L";1
+"Mg";"mg/l";"Mg";"mg/L";1
+"Mg";"mg/l";"Mg";"mg/L";1
+"Mg";"mg/l";"Mg";"mg/L";1
+"Mg";"mg/l";"Mg";"mg/L";1
+"Mg";"mg/l";"Mg";"mg/L";1
+"Mg";"mg/l";"Mg";"mg/L";1
+"Mg-filt";"mg/l";"Mg-filt";"mg/l";1
+"Mg/HR-ICPM";"µg/l";"Mg";"mg/L";0,001
+"Mg/ICP";"mg/l";"Mg";"mg/L";1
+"Mg/MS";"µg/l";"Mg";"mg/L";0,001
+"Microcystin";"µg/l";"Microcystin";"µg/l";1
+"MN";"µg/l";"Mn";"µg/l";1
+"MN";"µg/l";"Mn";"µg/l";1
+"MN";"µg/l";"Mn";"µg/l";1
+"MN";"µg/l";"Mn";"µg/l";1
+"MN";"µg/l";"Mn";"µg/l";1
+"Mn";"µg/l";"Mn";"µg/l";1
+"Mn";"µg/l";"Mn";"µg/l";1
+"Mn";"µg/l";"Mn";"µg/l";1
+"Mn";"µg/l";"Mn";"µg/l";1
+"Mn";"µg/l";"Mn";"µg/l";1
+"Mn";"mg/l";"Mn";"µg/l";1000
+"Mn";"µg/L";"Mn";"µg/l";1
+"Mn";"mg/l";"Mn";"µg/l";1000
+"Mn";"µg/l";"Mn";"µg/l";1
+"Mn filtrert";"µg/l";"Mn-filt";"µg/l";1
+"Mn-filt";"µg/l";"Mn-filt";"µg/l";1
+"Mn/HR-ICPM";"µg/l";"Mn";"µg/l";1
+"MN/ICP";"µg/l";"Mn";"µg/l";1
+"Mn/ICP";"mg/l";"Mn";"µg/l";1000
+"Mn/MS";"µg/l";"Mn";"µg/l";1
+"MNP";"µg/l";"Mn_P";"mg/L";0,001
+"Mo";"µg/l";"Mo";"µg/l";1
+"Mo";"mg/l";"Mo";"µg/l";1000
+"Mo/HR-ICPM";"µg/l";"Mo";"µg/l";1
+"MO-ICP";"µg/l";"Mo";"µg/l";1
+"Molybden";"UG_P_L";"Mo";"µg/l";1
+"Molybden";"UG_P_L";"Mo";"µg/l";1
+"Molybden";"UG_P_L";"Mo";"µg/l";1
+"Molybden-F";"UG_P_L";"Mo-filt";"µg/l";1000
+"Mo/MS";"µg/l";"Mo";"µg/l";1
+"Monobutyltinn (MBT)";"NG_P_L";"MBT";"ng/l";1
+"Monobutyltinn (MBT)";"NG_P_L";"MBT";"ng/l";1
+"Monoethanolamine";"ng/L";"Monoethanolamine";"ng/L";1
+"Monofenyltinn (MPhT)";"NG_P_L";"MPhT";"ng/l";1
+"Monofenyltinn (MPhT)";"NG_P_L";"MPhT";"ng/l";1
+"Monooktyltinn (MOT)";"NG_P_L";"MOT";"ng/L";1
+"Monooktyltinn (MOT)";"NG_P_L";"MOT";"ng/L";1
+"MPhT-V";"ng/l";"MPhT";"ng/l";1
+"Myalger";"mm3/m3";"Myalger";"mm3/m3";1
+"NA";"mg/l";"Na";"mg/L";1
+"NA";"mg/l";"Na";"mg/L";1
+"NA";"mg/l";"Na";"mg/L";1
+"Na";"mg/l";"Na";"mg/L";1
+"Na";"mg/l";"Na";"mg/L";1
+"Na";"MG_P_L";"Na";"mg/L";1
+"Na";"mg/l";"Na";"mg/L";1
+"Na";"mg/l";"Na";"mg/L";1
+"Na";"mg/l";"Na";"mg/L";1
+"Naftalen";"ng/L";"Naftalen";"µg/l";0,001
+"Naftalen";"NG_P_L";"Naftalen";"µg/l";0,001
+"Naftalen";"UG_P_L";"Naftalen";"µg/l";1
+"Naftalen";"ng/l";"Naftalen";"µg/l";0,001
+"Naftalen";"UG_P_L";"Naftalen";"µg/l";1
+"Naftalen";"UG_P_L";"Naftalen";"µg/l";1
+"Naftalen";"µg/l";"Naftalen";"µg/l";1
+"Na/HR-ICPM";"µg/l";"Na";"mg/L";0,001
+"Na/ICP";"mg/l";"Na";"mg/L";1
+"Na/MS";"µg/l";"Na";"mg/L";0,001
+"NAP";"ng/L";"Naftalen";"µg/l";0,001
+"NAP-V";"ng/l";"Naftalen";"µg/l";0,001
+"Natrium";"MG_P_L";"Na";"mg/L";1
+"Natrium";"MG_P_L";"Na";"mg/L";1
+"Natrium";"MG_P_L";"Na";"mg/L";1
+"Natrium";"MG_P_L";"Na";"mg/L";1
+"Natrium";"UG_P_L";"Na";"mg/L";0,001
+"Natrium";"UG_P_L";"Na";"mg/L";0,001
+"Natrium";"MG_P_L";"Na";"mg/L";1
+"Natrium";"MG_P_L";"Na";"mg/L";1
+"Natrium";"UG_P_L";"Na";"mg/L";0,001
+"Natrium";"MG_P_L";"Na";"mg/L";1
+"Natrium";"MG_P_L";"Na";"mg/L";1
+"Natrium";"MG_P_L";"Na";"mg/L";1
+"Natrium";"MG_P_L";"Na";"mg/L";1
+"Natrium-F";"UG_P_L";"Na-filt";"µg/l";1
+"Natrium-F";"MG_P_L";"Na-filt";"µg/l";1000
+"Nb/HR-ICPM";"µg/l";"Nb";"µg/l";1
+"NB-ICP";"µg/l";"Nb";"µg/l";1
+"Nb/MS";"µg/l";"Nb";"µg/l";1
+"Nd/HR-ICPM";"µg/l";"Nd";"µg/l";1
+"ND-ICP";"µg/l";"Nd";"µg/l";1
+"Nd/MS";"µg/l";"Nd";"µg/l";1
+"N-ethylperfluoro-1-octanesulfonamide(N-EtFOSA)";"NG_P_L";"N-EtFOSA";"ng/l";1
+"nh3_n";"mg/l";"NH3-N";"mg/l";1
+"NH4";"MG_P_L";"NH4-N";"µg/l";1
+"NH4-N";"µM";"NH4-N";"µg/l";14,0067
+"NH4-N";"µg/l";"NH4-N";"µg/l";1
+"NH4-N";"µg/l";"NH4-N";"µg/l";1
+"NH4-N";"µg N/l";"NH4-N";"µg/l";1
+"NH4-N";"µg N/l";"NH4-N";"µg/l";1
+"NH4-N";"µg/l";"NH4-N";"µg/l";1
+"NH4-N";"µM";"NH4-N";"µg/l";14,0067
+"NH4-N";"mg/l";"NH4-N";"µg/l";1000
+"NH4-N";"µg N/l";"NH4-N";"µg/l";1
+"NH4-N";"µg N/l";"NH4-N";"µg/l";1
+"NH4-N";"µg N/l";"NH4-N";"µg/l";1
+"NH4-N";"µg N/l";"NH4-N";"µg/l";1
+"NH4-N";"µg N/l";"NH4-N";"µg/l";1
+"NH4_N";"µg/l";"NH4-N";"µg/l";1
+"NH4_N";"µg/l N";"NH4-N";"µg/l";1
+"NH4N";"µg/l N";"NH4-N";"µg/l";1
+"nh4_n";"µg/l";"NH4-N";"µg/l";1
+"NH4-N/E";"mg N/l";"NH4-N";"µg/l";1000
+"NH4-N-Sj";"µg N/l";"NH4-N";"µg/l";1
+"NH4-N-Sj";"µg/l N";"NH4-N";"µg/l";1
+"NH4-N-Sj";"µg N/l";"NH4-N";"µg/l";1
+"NI";"µg/l";"Ni";"µg/L";1
+"NI";"µg/l";"Ni";"µg/L";1
+"NI";"µg/l";"Ni";"µg/L";1
+"NI";"µg/l";"Ni";"µg/L";1
+"Ni";"µg/l";"Ni";"µg/L";1
+"Ni";"µg/L";"Ni";"µg/L";1
+"Ni";"µg/L";"Ni";"µg/L";1
+"Ni";"µg/L";"Ni";"µg/L";1
+"Ni";"ng/ml";"Ni";"µg/L";1
+"Ni";"ug/L";"Ni";"µg/L";1
+"Ni";"µg/l";"Ni";"µg/L";1
+"Ni";"mg/l";"Ni";"µg/L";1000
+"Ni";"mg/l";"Ni";"µg/L";1000
+"Ni";"µg/l";"Ni";"µg/L";1
+"Ni";"µg/l";"Ni";"µg/L";1
+"Ni";"mg/l";"Ni";"µg/L";1000
+"Ni";"µg/l";"Ni";"µg/L";1
+"Ni";"µg/l";"Ni";"µg/L";1
+"Ni";"µg/l";"Ni";"µg/L";1
+"Ni filtrert";"µg/l";"Ni-filt";"µg/l";1
+"Nickel";"µg/l";"Ni";"µg/L";1
+"Nickel";"µg/l";"Ni";"µg/L";1
+"Nickel (filtered)";"µg/l";"Ni-filt";"µg/l";1
+"Ni-filt";"µg/l";"Ni-filt";"µg/l";1
+"Ni/Fr-Sj";"µg/l";"Ni";"µg/L";1
+"Ni/HR-ICPM";"µg/l";"Ni";"µg/L";1
+"NI-ICP";"µg/l";"Ni";"µg/L";1
+"NI-ICP";"µg/l";"Ni";"µg/L";1
+"Ni/ICP";"mg/l";"Ni";"µg/L";1000
+"Nikkel";"UG_P_L";"Ni";"µg/L";1
+"Nikkel";"µg Ni/l";"Ni";"µg/L";1
+"Nikkel";"NONE";"Ni";"µg/L";1
+"Nikkel";"UG_P_L";"Ni";"µg/L";1
+"Nikkel";"µg/l";"Ni";"µg/L";1
+"Nikkel";"UG_P_L";"Ni";"µg/L";1
+"Nikkel";"UG_P_L";"Ni";"µg/L";1
+"Nikkel";"UG_P_L";"Ni";"µg/L";1
+"Nikkel";"UG_P_L";"Ni";"µg/L";1
+"Nikkel";"UG_P_L";"Ni";"µg/L";1
+"Nikkel";"UG_P_L";"Ni";"µg/L";1
+"Nikkel";"UG_P_L";"Ni";"µg/L";1
+"Nikkel";"µg Ni/l";"Ni";"µg/L";1
+"Nikkel";"µg Ni/l";"Ni";"µg/L";1
+"Nikkel-F";"UG_P_L";"Ni-filt";"µg/l";1
+"Nikkel-F";"UG_P_L";"Ni-filt";"µg/l";1
+"Nikkel-F";"UG_P_L";"Ni-filt";"µg/l";1
+"Ni/MS";"µg/l";"Ni";"µg/L";1
+"Niob";"UG_P_L";"Nb";"µg/l";1
+"Niob";"UG_P_L";"Nb";"µg/l";1
+"Nitrat";"UG_P_L";"NO3-N";"µg/l";1
+"Nitrat";"UG_P_L";"NO3-N";"µg/l";1
+"Nitrat";"UG_P_L";"NO3-N";"µg/l";1
+"Nitrat";"UG_N_L";"NO3-N";"µg/l";1
+"Nitrat";"µg N/l";"NO3-N";"µg/l";1
+"Nitrat";"UG_P_L";"NO3-N";"µg/l";1
+"Nitrat";"UG_P_L";"NO3-N";"µg/l";1
+"Nitrat";"µmol/l";"NO3-N";"µg/l";14,0067
+"Nitrat";"UG_N_L";"NO3-N";"µg/l";1
+"Nitrat";"UG_N_L";"NO3-N";"µg/l";1
+"Nitrat";"UG_N_L";"NO3-N";"µg/l";1
+"Nitrat";"UG_P_L";"NO3-N";"µg/l";1
+"Nitrat (NO3)";"µ mol/l";"NO3-N";"µg/l";14,0067
+"Nitrat+nitritt";"mg/l";"NO3+NO2-N";"µg/l";1000
+"nitritt";"µg N/l";"NO2-N";"µg/l";1
+"Nitritt + nitrat";"UG_N_L";"NO3+NO2-N";"µg/l";1
+"Nitritt + nitrat";"UG_N_L";"NO3+NO2-N";"µg/l";1
+"Nitritt + nitrat";"UG_P_L";"NO3+NO2-N";"µg/l";1
+"Nitritt + nitrat";"UG_P_L";"NO3+NO2-N";"µg/l";1
+"Nitritt + nitrat-F";"UG_N_L";"NO3+NO2-filt";"µg/l";1
+"Nitritt (NO2)";"µ mol/l";"NO2-N";"µg/l";14,0067
+"Nitritt (NO2-N)";"UG_P_L";"NO2-N";"µg/l";1
+"Nitrogen total";"µg/L";"TOTN";"µg/l";1
+"Nitroso N-Methylethylamine";"ng/L";"Nitroso N-Methylethylamine";"ng/L";1
+"Nitrosodiethylamine";"ng/L";"Nitrosodiethylamine";"ng/L";1
+"Nitrosodimethylamine";"ng/L";"Nitrosodimethylamine";"ng/L";1
+"Nitrosodi-N-Propylamine";"ng/L";"Nitrosodi-N-Propylamine";"ng/L";1
+"Nitrosomorpholine";"ng/L";"Nitrosomorpholine";"ng/L";1
+"Nitrosopiperazine";"ng/L";"Nitrosopiperazine";"ng/L";1
+"Nitrosopiperidine";"ng/L";"Nitrosopiperidine";"ng/L";1
+"Nitrosopyrrolidine";"ng/L";"Nitrosopyrrolidine";"ng/L";1
+"N-methylperfluoro-1-octanesulfonamide(N-MeFOSA)";"NG_P_L";"N-MeFOSA";"ng/l";1
+"N-Nitrosodiethanolamine";"ng/L";"N-Nitrosodiethanolamine";"ng/L";1
+"N-Nitroso-n-dibutylamine";"ng/L";"N-Nitroso-n-dibutylamine";"ng/L";1
+"N-NO3";"µg/l N";"NO3-N";"µg/l";1
+"N-NO3";"µg/l N";"N-TOT";"µg/l N";1
+"N-NO3";"µg N/l";"NO3-N";"µg/l";1
+"Nonylfenol";"ng/L";"Nonylfenol";"ng/L";1
+"NO2N";"µg/l N";"NO2-N";"µg/l";1
+"NO2N";"µg/l N";"NO2-N";"µg/l";1
+"no2_n";"µg/l";"NO2-N";"mg/l";0,001
+"no2_n";"mg/l";"NO2-N";"mg/l";1
+"NO2+NO3";"µ mol/l";"NO3+NO2-N";"µg/l";14,0067
+"NO2+NO3 ppb N";"UG_N_L";"NO3+NO2-N";"µg/l";1
+"NO3";"MG_P_L";"NO3-N";"µg/l";1000
+"NO3-N";"µg N/l";"NO3-N";"µg/l";1
+"NO3-N";"µg/l";"NO3-N";"µg/l";1
+"NO3-N";"µg/l";"NO3-N";"µg/l";1
+"NO3-N";"µg N/l";"NO3-N";"µg/l";1
+"NO3-N";"µg N/l";"NO3-N";"µg/l";1
+"NO3-N";"µg N/l";"NO3-N";"µg/l";1
+"NO3-N";"µg N/l";"NO3-N";"µg/l";1
+"NO3-N";"µg N/l";"NO3-N";"µg/l";1
+"NO3-N";"µg/l";"NO3-N";"µg/l";1
+"NO3-N";"µg N/l";"NO3-N";"µg/l";1
+"NO3-N";"µg/l";"NO3-N";"µg/l";1
+"NO3-N";"µg/l";"NO3-N";"µg/l";1
+"NO3-N";"µg N/l";"NO3-N";"µg/l";1
+"NO3-N";"µg N/l";"NO3-N";"µg/l";1
+"NO3-N";"µg/l";"NO3-N";"µg/l";1
+"NO3-N";"µg N/l";"NO3-N";"µg/l";1
+"NO3-N";"µg N/l";"NO3-N";"µg/l";1
+"NO3_N";"µg/l";"NO3-N";"µg/l";1
+"NO3_N";"µg/l N";"NO3-N";"µg/l";1
+"NO3N";"µg/l N";"NO3-N";"µg/l";1
+"NO3N";"µg/l N";"NO3-N";"µg/l";1
+"NO3N";"µg/l N";"NO3-N";"µg/l";1
+"NO3N";"µg/l N";"NO3-N";"µg/l";1
+"NO3N";"µg/l N";"NO3-N";"µg/l";1
+"NO3N";"µg/l";"NO3-N";"µg/l";1
+"no3_n";"mg/l";"NO3-N";"mg/l";1
+"no3_n";"µg/l";"NO3-N";"mg/l";0,001
+"NO3-N/A";"µg N/l";"NO3-N";"µg/l";1
+"NO3-N/A";"µg N/l";"NO3-N";"µg/l";1
+"NO3-N/A";"µg N/l";"NO3-N";"µg/l";1
+"NO3-N/A";"µg N/l";"NO3-N";"µg/l";1
+"NO3+NO2-N";"µg N/l";"NO3+NO2-N";"µg/l";1
+"NO3+NO2-N";"µM";"NO3+NO2-N";"µg/l";14,0067
+"NO3+NO2-N";"µg N/l";"NO3+NO2-N";"µg/l";1
+"NO3+NO2-N";"µg N/l";"NO3+NO2-N";"µg/l";1
+"NO3+NO2-N";"µM";"NO3+NO2-N";"µg/l";14,0067
+"NPOC/DC";"mg C/l";"NPOC/DC";"mg C/l";1
+"NPOC/DC,m";"mg C/l";"DOC";"mg/L C";1
+"N-SNOX";"µg N/l";"NO3+NO2-N";"µg/l";1
+"N-TOT";"µg/l N";"TOTN";"µg/l";1
+"N-TOT";"µg/l N";"TOTN";"µg/l";1
+"N-TOT";"µg N/l";"TOTN";"µg/l";1
+"N-TOT";"µg/l N";"N-NO3";"µg/l N";1
+"N-tot";"mg/l";"N-TOT";"µg/l N";1000
+"N-tot";"mg/l";"N-TOT";"µg/l N";1000
+"N_tot";"mg/l";"TOTN";"µg/l";1000
+"N-total";"mg/l";"TOTN";"µg/l";1000
+"n_total";"mg/l";"Total N";"mg/l";1
+"N-TO4971|T";"µg/l N";"TOTN";"µg/l";1
+"OC";"ng/L";"Octocrylen";"ng/L";1
+"OC";"ng/L";"Octocrylen";"ng/L";1
+"OCDD";"pg/L";"OCDD  ";"pg/L";1
+"OCDF";"pg/L";"OCDF  ";"pg/L";1
+"Octocrylen";"NG_P_L";"Octocrylen";"ng/L";1
+"Octylfenol";"ng/L";"Octylfenol";"ng/L";1
+"ODO";"mg/L";"O2";"mg/l";1
+"ODO";"mg/l";"O2";"mg/l";1
+"ODO";"%";"O2 (metning)";"%";1
+"ODO sat";"%";"O2 (metning)";"%";1
+"ODOsat";"%";"O2 (metning)";"%";1
+"oils";"mg/l";"Oil";"mg/l";1
+"Oksygen";"%";"O2 (metning)";"%";1
+"Oksygen";"mg/l";"O2";"mg/l";1
+"Oksygen";"ml/L";"O2";"ml/l";1
+"Oksygen";"ml/L";"O2";"ml/l";1
+"Oksygen";"ml/L";"O2";"ml/l";1
+"Oksygen";"ml O2/L";"O2";"ml/l";1
+"Oksygen";"ml/L";"O2";"ml/l";1
+"Oksygen";"ml/L";"O2";"ml/l";1
+"Oksygen";"ml O2/L";"O2";"ml/l";1
+"Oksygen";"ml/L";"O2";"ml/l";1
+"Oksygen";"ml O2/L";"O2";"ml/l";1
+"Oksygen";"%";"O2 (metning)";"%";1
+"Oksygen";"mg/l";"O2";"mg/l";1
+"Oksygen";"%";"O2 (metning)";"%";1
+"Oksygen";"%";"O2 (metning)";"%";1
+"Oksygen";"mg/l";"O2";"mg/l";1
+"Oksygen";"%";"O2 (metning)";"%";1
+"Oksygen";"mg/l";"O2";"mg/l";1
+"Oksygen";"%";"O2 (metning)";"%";1
+"Oksygen";"mg/l";"O2";"mg/l";1
+"Oksygen";"ml/L";"O2";"ml/l";1
+"Oksygen";"mg/l";"O2";"mg/l";1
+"Oksygen";"mg/l";"O2";"mg/l";1
+"Oksygen";"ml O2/L";"O2";"ml/l";1
+"Oksygen";"ml/L";"O2";"ml/l";1
+"Oksygen";"ml O2/L";"O2";"ml/l";1
+"Oksygen";"mg/L";"Oksygen";"mg/L";1
+"Oksygen";"mg/L";"O2";"mg/l";1
+"Oksygen";"mg/L";"O2";"mg/l";1
+"Oksygen";"mg/L";"O2";"mg/l";1
+"Oksygen";"mg/L";"O2";"mg/l";1
+"Oksygen";"ml/L";"O2";"ml/l";1
+"Oksygen";"mg/L";"O2";"mg/l";1
+"Oksygen";"ml O2/L";"O2";"ml/l";1
+"Oksygen";"ml/L";"O2";"ml/l";1
+"Oksygen";"ml O2/L";"O2";"ml/l";1
+"Oksygen";"ml/L";"O2";"ml/l";1
+"Oksygen";"ml/L";"O2";"ml/l";1
+"Oksygen";"ml/L";"O2";"ml/l";1
+"Oksygen";"ml/l";"O2";"ml/l";1
+"Oksygen (O2)";"ml/l";"O2";"ml/l";1
+"Oksygenmetning";"%";"O2 (metning)";"%";1
+"Oksygenmetning";"%";"O2 (metning)";"%";1
+"Oksygenmetning";"%";"O2 (metning)";"%";1
+"Oksygenmetning";"%";"O2 (metning)";"%";1
+"Oksygenmetning";"%";"O2 (metning)";"%";1
+"Oksygenmetning";"%";"O2 (metning)";"%";1
+"Oksygenmetning";"%";"O2 (metning)";"%";1
+"Oksygenmetning";"%";"O2 (metning)";"%";1
+"Oksygenmetning";"%";"O2 (metning)";"%";1
+"Oksygenmetning";"%";"O2 (metning)";"%";1
+"Oksygenmetning";"%";"O2 (metning)";"%";1
+"Oksygenmetning";"%";"O2 (metning)";"%";1
+"Oksygenmetning";"%";"O2 (metning)";"%";1
+"Oksygenmetning";"%";"O2 (metning)";"%";1
+"Oksygenmetning";"%";"O2 (metning)";"%";1
+"Olje Fraksjon >C10-C12";"µg/l";"Olje >C10-C12";"µg/l";1
+"Olje Fraksjon >C12-C16";"µg/l";"Olje >C12-C16";"µg/l";1
+"Olje Fraksjon >C16-C35";"µg/l";"Olje >C16-C35";"µg/l";1
+"Olje Fraksjon >C35-C40";"µg/l";"Olje >C35-C40";"µg/l";1
+"Olje Sum >C10-C40";"µg/l";"Olje Sum >C10-C40";"µg/l";1
+"O-METN";"%";"O2 (metning)";"%";1
+"O-METN";"%";"O2 (metning)";"%";1
+"O_METN";"%";"O2 (metning)";"%";1
+"o,p'-DDD";"ng/L";"o,p'-DDD";"ng/L";1
+"o,p'-DDE";"ng/L";"o,p'-DDE";"ng/L";1
+"o,p'-DDT";"ng/L";"o,p'-DDT";"ng/L";1
+"ORP";"mV";"ORP";"mV";1
+"Os/HR-ICPM";"µg/l";"Os";"µg/l";1
+"OS-ICP";"µg/l";"Os";"µg/l";1
+"Oxygen";"mg/L";"O2";"mg/l";1
+"Oxygen";"%";"O2 (metning)";"%";1
+"O2";"ml/l";"O2";"ml/l";1
+"O2";"mg O/l";"O2";"mg/l";1
+"O2";"mg/l O2";"O2";"mg/l";1
+"O2";"mg O/l";"O2";"mg/l";1
+"O2";"mg O/l";"O2";"mg/l";1
+"O2";"mg O/l";"O2";"mg/l";1
+"O2";"mg O/l";"O2";"mg/l";1
+"O2";"mg/l";"O2";"mg/l";1
+"O2";"mg/l O2";"O2";"mg/l";1
+"O2";"mg/L";"O2";"mg/L";1
+"O2";"mg/L";"O2";"mg/l";1
+"O2";"mg/L";"O2";"mg/l";1
+"O2";"mg O/l";"O2";"mg/l";1
+"O2";"mg O/l";"O2";"mg/l";1
+"O2";"%";"O2";"%";1
+"O2";"mg/l";"O2";"mg/l";1
+"O2";"mg/l";"O2";"mg/l";1
+"O2";"mg/l";"O2";"mg/l";1
+"O2";"ml O/l";"O2";"ml/l";1
+"O2";"% metning";"O2 (metning)";"%";1
+"O2";"mg/L";"O2";"mg/l";1
+"O2";"%";"O2 (metning)";"%";1
+"O2";"mg/L";"O2";"mg/l";1
+"O2";"mg/L";"O2";"mg/l";1
+"O2 (metning)";"%";"O2 (metning)";"%";1
+"O2 metning";"%";"O2 (metning)";"%";1
+"O2 metning";"%";"O2 (metning)";"%";1
+"O2 metning";"%";"O2 (metning)";"%";1
+"O2 metning";"%";"O2 (metning)";"%";1
+"O2 metning";"%";"O2 (metning)";"%";1
+"O2 metning";"%";"O2 (metning)";"%";1
+"O2 metning";"%";"O2 (metning)";"%";1
+"O2F";"mg/l";"O2_F";"mg/l";1
+"O2F";"mg/l";"O2_F";"mg/l";1
+"O2METN";"%";"O2 (metning)";"%";1
+"O2METN";"%";"O2 (metning)";"%";1
+"O2METN";"%";"O2 (metning)";"%";1
+"O2-Sj";"ml O2/l";"O2";"ml/l";1
+"O2-Sj";"ml O2/l";"O2";"ml/l";1
+"PA";"ng/L";"Fenantren";"ng/L";1
+"Palladium (Pd)";"UG_P_L";"Pd";"µg/l";1
+"Partikulært karbon";"UG_C_P_L";"Partikulært karbon";"µg/l C";1
+"Partikulært nitrogen";"UG_N_P_L";"Nitrogen part";"µg/l N";1
+"Partikulært nitrogen-P";"UG_N_P_L";"Nitrogen part";"µg/l N";1
+"Partikulært nitrogen-P";"UG_N_P_L";"Nitrogen part";"µg/l N";1
+"Partikulært organisk karbon";"UG_C_P_L";"POC";"µg/l C";1
+"Partikulært organisk karbon-P";"UG_C_P_L";"POC";"µg/l C";1
+"Partikulært organisk karbon-P";"UG_C_P_L";"POC";"µg/l C";1
+"PA-V";"ng/l";"Fenantren";"ng/L";1
+"PB";"µg/l";"Pb";"mg/l";0,001
+"PB";"µg/l";"Pb";"mg/l";0,001
+"PB";"µg/l";"Pb";"mg/l";0,001
+"PB";"µg/l";"Pb";"mg/l";0,001
+"PB";"µg/l";"Pb";"mg/l";0,001
+"PB";"µg/l";"Pb";"mg/l";0,001
+"PB";"µg/l";"Pb";"mg/l";0,001
+"PB";"µg/l";"Pb";"mg/l";0,001
+"PB";"µg/l";"Pb";"µg/L";1
+"PB";"µg/l";"Pb";"µg/L";1
+"PB";"µg/l";"Pb";"µg/L";1
+"PB";"mg/l";"Pb";"mg/l";1
+"PB";"mg/l";"Pb";"mg/l";1
+"Pb";"mg/l";"Pb";"mg/l";1
+"Pb";"µg/l";"Pb";"µg/L";1
+"Pb";"µg/l";"Pb";"mg/l";0,001
+"Pb";"µg/L";"Pb";"µg/L";1
+"Pb";"ng/ml";"Pb";"µg/L";1
+"Pb";"µg/L";"Pb";"µg/L";1
+"Pb";"µg/L";"Pb";"µg/L";1
+"Pb";"mg/l";"Pb";"mg/l";1
+"Pb";"µg/l";"Pb";"mg/l";0,001
+"Pb";"µg/l";"Pb";"mg/l";0,001
+"Pb";"µg/l";"Pb";"mg/l";0,001
+"Pb ";"ug/L";"Pb";"µg/L";1
+"Pb filtrert";"µg/l";"Pb-filt";"µg/l";1
+"Pb oppsluttet";"µg/l";"Pb";"µg/L";1
+"PBBZ";"pg/L";"PBBZ";"pg/L";1
+"PB-filt";"µg/l";"Pb-filt";"µg/l";1
+"Pb/Fr-Sj";"µg/l";"Pb";"mg/l";0,001
+"Pb/Fr-Sj";"µg/l";"Pb";"mg/l";0,001
+"Pb/Fr-Sj";"µg/l";"Pb";"mg/l";0,001
+"Pb/HR-ICPM";"µg/l";"Pb";"mg/l";0,001
+"PB-ICP";"µg/l";"Pb";"mg/l";0,001
+"PB-ICP";"µg/l";"Pb";"mg/l";0,001
+"Pb/ICP";"mg/l";"Pb";"mg/l";1
+"Pb/MS";"µg/l";"Pb";"mg/l";0,001
+"Pb/MSFr-Sj";"µg/l";"Pb";"mg/l";0,001
+"Pb/SPE-Sj";"µg/l";"Pb";"mg/l";0,001
+"PBT";"pg/L";"PBT";"pg/L";1
+"pb_total";"mg/l";"Total Pb";"mg/l";1
+"PCA30";"ant/ml";"PCA30";"ant/ml";1
+"PCB 101";"UG_P_L";"PCB101";"ng/l";1000
+"PCB 101";"UG_P_L";"PCB101";"ng/l";1000
+"PCB 101";"NG_P_L";"PCB101";"ng/l";1
+"PCB 118";"UG_P_L";"PCB118";"ng/l";1000
+"PCB 118";"UG_P_L";"PCB118";"ng/l";1000
+"PCB 118";"NG_P_L";"PCB118";"ng/l";1
+"PCB 138";"UG_P_L";"PCB138";"ng/l";1000
+"PCB 138";"NG_P_L";"PCB138";"ng/l";1
+"PCB 138";"UG_P_L";"PCB138";"ng/l";1000
+"PCB 153";"UG_P_L";"PCB153";"ng/l";1000
+"PCB 153";"UG_P_L";"PCB153";"ng/l";1000
+"PCB 153";"NG_P_L";"PCB153";"ng/l";1
+"PCB 180";"NG_P_L";"PCB180";"ng/l";1
+"PCB 180";"UG_P_L";"PCB180";"ng/l";1000
+"PCB 180";"UG_P_L";"PCB180";"ng/l";1000
+"PCB 28";"UG_P_L";"PCB28";"ng/l";1000
+"PCB 28";"NG_P_L";"PCB28";"ng/l";1
+"PCB 28";"UG_P_L";"PCB28";"ng/l";1000
+"PCB 52";"UG_P_L";"PCB52";"ng/l";1000
+"PCB 52";"UG_P_L";"PCB52";"ng/l";1000
+"PCB 52";"NG_P_L";"PCB52";"ng/l";1
+"PCB-101";"ng/L";"PCB101";"ng/l";1
+"PCB-101";"ng/L";"PCB101";"ng/l";1
+"PCB-101";"ng/L";"PCB101";"ng/l";1
+"PCB101";"ng/l";"PCB101";"ng/l";1
+"pcb-101";"ng/L";"PCB101";"ng/l";1
+"PCB-105";"ng/L";"PCB105";"ng/l";1
+"PCB-105";"ng/L";"PCB105";"ng/l";1
+"PCB-105";"ng/L";"PCB105";"ng/l";1
+"PCB-114";"ng/L";"PCB114";"ng/l";1
+"PCB-114";"ng/L";"PCB114";"ng/l";1
+"PCB-118";"ng/L";"PCB118";"ng/l";1
+"PCB-118";"ng/L";"PCB118";"ng/l";1
+"PCB-118";"ng/L";"PCB118";"ng/l";1
+"PCB118";"ng/l";"PCB118";"ng/l";1
+"pcb-118";"ng/L";"PCB118";"ng/l";1
+"PCB-122";"ng/L";"PCB122";"ng/l";1
+"PCB-122";"ng/L";"PCB122";"ng/l";1
+"PCB-123";"ng/L";"PCB123";"ng/l";1
+"PCB-123";"ng/L";"PCB123";"ng/l";1
+"PCB-126";"pg/L";"PCB126";"ng/l";0,001
+"PCB-128";"ng/L";"PCB128";"ng/l";1
+"PCB-128";"ng/L";"PCB128";"ng/l";1
+"PCB-138";"ng/L";"PCB138";"ng/l";1
+"PCB-138";"ng/L";"PCB138";"ng/l";1
+"PCB-138";"ng/L";"PCB138";"ng/l";1
+"PCB138";"ng/l";"PCB138";"ng/l";1
+"pcb-138";"ng/L";"PCB138";"ng/l";1
+"PCB-141";"ng/L";"PCB141";"ng/l";1
+"PCB-141";"ng/L";"PCB141";"ng/l";1
+"PCB-149";"ng/L";"PCB149";"ng/l";1
+"PCB-149";"ng/L";"PCB149";"ng/l";1
+"PCB-153";"ng/L";"PCB153";"ng/l";1
+"PCB-153";"ng/L";"PCB153";"ng/l";1
+"PCB-153";"ng/L";"PCB153";"ng/l";1
+"PCB153";"ng/l";"PCB153";"ng/l";1
+"pcb-153";"ng/L";"PCB153";"ng/l";1
+"PCB-156";"ng/L";"PCB156";"ng/l";1
+"PCB-156";"ng/L";"PCB156";"ng/l";1
+"PCB-156";"ng/L";"PCB156";"ng/l";1
+"PCB-157";"ng/L";"PCB157";"ng/l";1
+"PCB-157";"ng/L";"PCB157";"ng/l";1
+"PCB-167";"ng/L";"PCB167";"ng/l";1
+"PCB-167";"ng/L";"PCB167";"ng/l";1
+"PCB-169";"pg/L";"PCB169";"ng/l";0,001
+"PCB-170";"ng/L";"PCB170";"ng/l";1
+"PCB-170";"ng/L";"PCB170";"ng/l";1
+"PCB-18";"ng/L";"PCB18";"ng/l";1
+"PCB-18";"ng/L";"PCB18";"ng/l";1
+"PCB-180";"ng/L";"PCB180";"ng/l";1
+"PCB-180";"ng/L";"PCB180";"ng/l";1
+"PCB-180";"ng/L";"PCB180";"ng/l";1
+"PCB180";"ng/l";"PCB180";"ng/l";1
+"pcb-180";"ng/L";"PCB180";"ng/l";1
+"PCB-183";"ng/L";"PCB183";"ng/l";1
+"PCB-183";"ng/L";"PCB183";"ng/l";1
+"PCB-187";"ng/L";"PCB187";"ng/l";1
+"PCB-187";"ng/L";"PCB187";"ng/l";1
+"PCB-189";"ng/L";"PCB189";"ng/l";1
+"PCB-189";"ng/L";"PCB189";"ng/l";1
+"PCB-194";"ng/L";"PCB194";"ng/l";1
+"PCB-194";"ng/L";"PCB194";"ng/l";1
+"PCB-206";"ng/L";"PCB206";"ng/l";1
+"PCB-206";"ng/L";"PCB206";"ng/l";1
+"PCB-209";"ng/L";"PCB209";"ng/l";1
+"PCB-209";"ng/L";"PCB209";"ng/l";1
+"PCB-209";"ng/L";"PCB209";"ng/l";1
+"PCB-28";"ng/L";"PCB28";"ng/l";1
+"PCB-28";"ng/L";"PCB28";"ng/l";1
+"PCB-28";"ng/L";"PCB28";"ng/l";1
+"PCB28";"ng/l";"PCB28";"ng/l";1
+"pcb-28/31";"ng/L";"PCB28/31";"ng/l";1
+"PCB-31";"ng/L";"PCB31";"ng/l";1
+"PCB-31";"ng/L";"PCB31";"ng/l";1
+"PCB-33";"ng/L";"PCB33";"ng/l";1
+"PCB-33";"ng/L";"PCB33";"ng/l";1
+"PCB-37";"ng/L";"PCB37";"ng/l";1
+"PCB-37";"ng/L";"PCB37";"ng/l";1
+"PCB-47";"ng/L";"PCB47";"ng/l";1
+"PCB-47";"ng/L";"PCB47";"ng/l";1
+"PCB-52";"ng/L";"PCB52";"ng/l";1
+"PCB-52";"ng/L";"PCB52";"ng/l";1
+"PCB-52";"ng/L";"PCB52";"ng/l";1
+"PCB52";"ng/l";"PCB52";"ng/l";1
+"pcb-52";"ng/L";"PCB52";"ng/l";1
+"PCB-66";"ng/L";"PCB66";"ng/l";1
+"PCB-66";"ng/L";"PCB66";"ng/l";1
+"PCB-74";"ng/L";"PCB74";"ng/l";1
+"PCB-74";"ng/L";"PCB74";"ng/l";1
+"PCB-77";"pg/L";"PCB77";"ng/l";0,001
+"PCB-81";"pg/L";"PCB81";"ng/l";0,001
+"PCB-99";"ng/L";"PCB99";"ng/l";1
+"PCB-99";"ng/L";"PCB99";"ng/l";1
+"Pd/HR-ICPM";"µg/l";"Pd";"µg/l";1
+"PD-ICP";"µg/l";"Pd";"µg/l";1
+"PeCB";"ng/L";"PeCB";"ng/l";1
+"PeCB";"ng/L";"PeCB";"ng/l";1
+"pentaklorbenzen";"ng/L";"Pentaklorbenzen";"ng/l";1
+"Pentaklorbenzen (QCB)";"NG_P_L";"QCB";"ng/L";1
+"PER";"ng/L";"Perylen";"µg/l";0,001
+"Perfluorbutansulfonat (PFBS)";"NG_P_L";"PFBS";"ng/L";1
+"Perfluordekansulfonat (PFDS)";"NG_P_L";"PFDS";"ng/L";1
+"Perfluordekansyre (PFDcA)";"NG_P_L";"PFDcA";"ng/L";1
+"Perfluordodekansyre (PFDoA)";"NG_P_L";"PFDoA";"ng/L";1
+"Perfluorheksadekansyre (PFHxDA)";"NG_P_L";"PFHxDA";"ng/L";1
+"Perfluorheksansulfonat (PFHxS)";"NG_P_L";"PFHxS";"ng/L";1
+"Perfluorheksansyre (PFHxA)";"NG_P_L";"PFHxA";"ng/L";1
+"Perfluorheptansulfonat (PFHpS)";"NG_P_L";"PFHpS";"ng/L";1
+"Perfluorheptansyre (PFHpA)";"NG_P_L";"PFHpA";"ng/L";1
+"Perfluornonansyre (PFNA)";"NG_P_L";"PFNA";"ng/L";1
+"Perfluornonylsulfonat (PFNS)";"NG_P_L";"PFNS";"ng/L";1
+"Perfluoroktansulfonamid (PFOSA)";"NG_P_L";"PFOSA";"ng/L";1
+"Perfluoroktansyre (PFOA)";"NG_P_L";"PFOA";"ng/L";1
+"Perfluoroktylsulfonat (PFOS)";"NG_P_L";"PFOS";"ng/L";1
+"perfluoro-1-dodecansulfonate(PFDoS)";"NG_P_L";"PFDoS";"ng/L";1
+"perfluoro-1-octansulfonamidoacetic acid(FOSAA)";"NG_P_L";"FOSAA";"ng/L";1
+"Perfluorpentadekansyre (PFPeDA)";"NG_P_L";"PFPeDA";"ng/l";1
+"Perfluorpentansulfonat (PFPS)";"NG_P_L";"PFPS";"ng/L";1
+"Perfluorpentansyre (PFPeA)";"NG_P_L";"PFPeA";"ng/L";1
+"Perfluortetradekansyre (PFTA)";"NG_P_L";"PFTA";"ng/l";1
+"Perfluortridekansyre (PFTrA)";"NG_P_L";"PFTrA";"ng/l";1
+"Perfluorundekansyre (PFUdA)";"NG_P_L";"PFUdA";"ng/L";1
+"PER-V";"ng/l";"Perylen";"µg/l";0,001
+"Perylene";"ng/L";"Perylen";"µg/l";0,001
+"PFBA";"ng/L";"PFBA";"ng/L";1
+"PFBS";"ng/L";"PFBS";"ng/L";1
+"PFBS";"ng/L";"PFBS";"ng/L";1
+"PFBS";"ng/l";"PFBS";"ng/L";1
+"PFBSA";"ng/l";"PFBSA";"ng/L";1
+"PFDA";"ng/L";"PFDcA";"ng/L";1
+"PFDA";"ng/L";"PFDcA";"ng/L";1
+"PFDA";"ng/l";"PFDA";"ng/L";1
+"PFDoA";"ng/L";"PFDoA";"ng/L";1
+"PFDoA";"ng/L";"PFDoA";"ng/L";1
+"PFDoDA";"ng/l";"PFDoDA";"ng/L";1
+"PFDoS";"ng/l";"PFDoS";"ng/L";1
+"PFDoS";"ng/L";"PFDoS";"ng/L";1
+"PFDoS";"ng/L";"PFDoS";"ng/L";1
+"PFDS";"ng/L";"PFDS";"ng/L";1
+"PFDS";"ng/l";"PFDS";"ng/L";1
+"PFDS";"ng/L";"PFDS";"ng/L";1
+"PFHpA";"ng/L";"PFHpA";"ng/L";1
+"PFHpA";"ng/l";"PFHpA";"ng/L";1
+"PFHpA";"ng/L";"PFHpA";"ng/L";1
+"PFHpS";"ng/l";"PFHpS";"ng/L";1
+"PFHpS";"ng/L";"PFHpS";"ng/L";1
+"PFHpS";"ng/L";"PFHpS";"ng/L";1
+"PFHxA";"ng/L";"PFHxA";"ng/L";1
+"PFHxA";"ng/l";"PFHxA";"ng/L";1
+"PFHxA";"ng/L";"PFHxA";"ng/L";1
+"PFHxS";"ng/l";"PFHxS";"ng/L";1
+"PFHxS";"ng/L";"PFHxS";"ng/L";1
+"PFHxS";"ng/L";"PFHxS";"ng/L";1
+"PFHxSA";"ng/l";"PFHxSA";"ng/L";1
+"PFNA";"ng/l";"PFNA";"ng/L";1
+"PFNA";"ng/L";"PFNA";"ng/L";1
+"PFNA";"ng/L";"PFNA";"ng/L";1
+"PFNS";"ng/L";"PFNS";"ng/L";1
+"PFNS";"ng/l";"PFNS";"ng/L";1
+"PFNS";"ng/L";"PFNS";"ng/L";1
+"PFOA";"ng/l";"PFOA";"ng/L";1
+"PFOA";"ng/L";"PFOA";"ng/L";1
+"PFOA";"ng/L";"PFOA";"ng/L";1
+"PFOS";"ng/l";"PFOS";"ng/L";1
+"PFOS";"ng/L";"PFOS";"ng/L";1
+"PFOS";"ng/L";"PFOS";"ng/L";1
+"PFOSA";"ng/l";"PFOSA";"ng/L";1
+"PFOSA";"ng/L";"PFOSA";"ng/L";1
+"PFOSA";"ng/L";"PFOSA";"ng/L";1
+"PFPA";"ng/L";"PFPeA";"ng/L";1
+"PFPA";"ng/L";"PFPeA";"ng/L";1
+"PFPA";"ng/l";"PFPeA";"ng/L";1
+"PFPeDA";"ng/l";"PFPeDA";"ng/l";1
+"PFPeS";"ng/l";"PFPeS";"ng/L";1
+"PFPeSA";"ng/l";"PFPeSA";"ng/L";1
+"PFPS";"ng/L";"PFPS";"ng/L";1
+"PFPS";"ng/L";"PFPS";"ng/L";1
+"PFTeA";"ng/L";"PFTA";"ng/l";1
+"PFTeDA";"ng/L";"PFTA";"ng/l";1
+"PFTeDA";"ng/L";"PFTA";"ng/l";1
+"PFTeDA";"ng/l";"PFTeDA";"ng/L";1
+"PFTeS";"ng/l";"PFTeS";"ng/L";1
+"PFTrA";"ng/L";"PFTrA";"ng/l";1
+"PFTrDA";"ng/L";"PFTrA";"ng/l";1
+"PFTrDA";"ng/l";"PFTrDA";"ng/L";1
+"PFTrDA";"ng/L";"PFTrA";"ng/l";1
+"PFTrS";"ng/l";"PFTrS";"ng/L";1
+"PFUdA";"ng/l";"PFUdA";"ng/L";1
+"PFUdA";"ng/L";"PFUdA";"ng/L";1
+"PFUdA";"ng/L";"PFUdA";"ng/L";1
+"PFUdS";"ng/l";"PFUdS";"ng/L";1
+"PH";".";"pH";"";1
+"PH";".";"pH";"";1
+"PH";".";"pH";"";1
+"PH";"";"pH";"";1
+"PH";".";"pH";"";1
+"PH";".";"pH";"";1
+"PH";".";"pH";"";1
+"PH";".";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"pH";"pH";"";1
+"pH";"pH";"pH";"";1
+"pH";"pH";"pH";"";1
+"pH";"pH";"pH";"";1
+"pH";"";"pH";"";1
+"pH";".";"pH";"";1
+"pH";".";"pH";"";1
+"pH";".";"pH";"";1
+"pH";".";"pH";"";1
+"pH";"pH";"pH";"";1
+"pH";".";"pH";"";1
+"pH";".";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"BLANK";"pH";"";1
+"pH";"PH";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"";"pH-filt";"";1
+"pH";"";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"PH";"pH";"";1
+"pH";"pH units";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"PH";"pH";"";1
+"pH";"BLANK";"pH";"";1
+"pH";"_";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"NONE";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"PH";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"PH";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"BLANK";"pH";"";1
+"pH";"BLANK";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"";"pH";"";1
+"pH";".";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"pH";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"pH";"pH";"";1
+"pH";"PH";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"PH";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"PH";"pH";"";1
+"pH";"PH";"pH";"";1
+"pH";"NONE";"pH";"";1
+"pH";"PH";"pH";"";1
+"pH";"";"pH";"";1
+"pH";"";"pH";"";1
+"Phenanthrene";"ng/L";"Fenantren";"ng/L";1
+"PHFELT";".";"pH";"";1
+"pH(NBS)";"";"pH";"";1
+"pH(NBS)";"";"pH";"";1
+"P/HR-ICPM";"µg/l";"P";"µg/l";1
+"pH(tot)";"";"pH total";"";1
+"pH(tot)";"";"pH total";"";1
+"Phycocyanin";"µg/l";"Phycocyanin";"µg/l";1
+"Phycocyanin fluorescense";"RFU";"Phycocyanin(fluorescens)";"RFU";1
+"P/ICP";"mg/l";"P";"µg/l";1000
+"Piperazine";"ng/L";"Piperazine";"ng/L";1
+"POC";"µM";"POC";"µg/l C";12,01115
+"POC";"µM";"POC";"µg/l C";12,01115
+"POM";"mg/l";"POM";"mg/l";1
+"PON";"µM";"PON";"µg/l N";14,0067
+"PON";"µM";"PON";"µg/l N";14,0067
+"POP";"µM";"POP";"µg/l P";30,9738
+"POP";"µM";"POP";"µg/l P";30,9738
+"Potassium";"mg/l";"Potassium";"mg/l";1
+"PO4-P";"mg/l";"PO4-P";"µg/l";1000
+"PO4-P";"µM";"PO4-P";"µg/l";30,9738
+"PO4-P";"µM";"PO4-P";"µg/l";30,9738
+"PO4-P";"µg P/l";"PO4-P";"µg/l";1
+"PO4-P";"µg P/l";"PO4-P";"µg/l";1
+"PO4-P";"µg/l";"PO4-P";"µg/l";1
+"PO4-P";"µg P/l";"PO4-P";"µg/l";1
+"PO4-P";"µg/l";"PO4-P";"µg/l";1
+"PO4-P";"µg P/l";"PO4-P";"µg/l";1
+"PO4-P";"µg/l";"PO4-P";"µg/l";1
+"PO4-P";"µg P/l";"PO4-P";"µg/l";1
+"PO4-P";"µg P/l";"PO4-P";"µg/l";1
+"PO4-P";"µg P/l";"PO4-P";"µg/l";1
+"PO4-P";"µg P/l";"PO4-P";"µg/l";1
+"PO4-P";"µg/l";"PO4-P";"µg/l";1
+"PO4_P";"µg/l P";"PO4-P";"µg/l";1
+"PO4P";"µg/l P";"PO4-P";"µg/l";1
+"PO4P";"µg/l P";"PO4-P";"µg/l";1
+"PO4P";"µg/l P";"PO4-P";"µg/l";1
+"PO4P";"µg/l P";"PO4_f";"µg/l P";1
+"PO4P";"µg/l P";"PO4-P";"µg/l";1
+"PO4PF";"µg/l P";"PO4_f";"µg/l P";1
+"PO4PF";"µg/l P";"PO4_f";"µg/l P";1
+"PO4-P,m";"µg P/l";"PO4_f";"µg/l P";1
+"PO4-P,m";"µg P/l";"PO4-P";"µg/l";1
+"PO4-P-Sj";"µg P/l";"PO4-P";"µg/l";1
+"PO4-P-Sj";"µg P/l";"PO4-P";"µg/l";1
+"p,p'-DDD";"ng/L";"p,p'-DDD";"ng/L";1
+"p,p'-DDD";"NG_P_L";"p,p'-DDD";"ng/L";1
+"pp-ddd";"ng/L";"p,p'-DDD";"ng/L";1
+"p,p'-DDE";"NG_P_L";"p,p'-DDE";"ng/L";1
+"p,p'-DDE";"ng/L";"p,p'-DDE";"ng/L";1
+"p,p'-DDE";"ng/L";"p,p'-DDE";"ng/L";1
+"pp-dde";"ng/L";"p,p'-DDE";"ng/L";1
+"p,p'-DDT";"NG_P_L";"p,p'-DDT";"ng/L";1
+"p,p'-DDT";"ng/L";"p,p'-DDT";"ng/L";1
+"p,p'-DDT";"ng/L";"p,p'-DDT";"ng/L";1
+"pp-DDT";"ng/L";"p,p'-DDT";"ng/L";1
+"P-PO4";"µg P/l";"PO4-P";"µg/l";1
+"P-PO4";"µg/l P";"P-PO4";"µg/l P";1
+"Pres";"Pa";"Vannstand";"m";1
+"Pr/HR-ICPM";"µg/l";"Pr";"µg/l";1
+"PR-ICP";"µg/l";"Pr";"µg/l";1
+"Pr/MS";"µg/l";"Pr";"µg/l";1
+"Pt/HR-ICPM";"µg/l";"Pt";"µg/l";1
+"PT-ICP";"µg/l";"Pt";"µg/l";1
+"P-TOT";"µg P/l";"TOTP";"µg/l";1
+"P-TOT";"µg P/l";"TOTP";"µg/l";1
+"P-TOT";"µg/l P";"TOTP";"µg/l";1
+"P-TOT";"µg/l P";"P-TOT";"µg/l P";1
+"P-TOT";"µg/l P";"TOTP";"µg/l";1
+"P-TOT";"µg/l P";"TOTP";"µg/l";1
+"P-tot";"mg/l";"P-TOT";"µg/l P";1000
+"P-tot";"mg/l";"P-TOT";"µg/l P";1000
+"P_tot";"mg/l";"TOTP";"µg/l";1000
+"P-total";"mg/l";"TOTP";"µg/l";1000
+"p_total";"µg/l";"TOTN";"µg/l";1
+"p_total";"mg/l";"Total P";"mg/l";1
+"PYR";"ng/L";"Pyren";"µg/l";0,001
+"Pyren";"UG_P_L";"Pyren";"µg/l";1
+"Pyren";"UG_P_L";"Pyren";"µg/l";1
+"Pyren";"ng/L";"Pyren";"µg/l";0,001
+"Pyren";"ng/l";"Pyren";"µg/l";0,001
+"Pyren";"µg/l";"Pyren";"µg/l";1
+"Pyren";"UG_P_L";"Pyren";"µg/l";1
+"Pyren";"NG_P_L";"Pyren";"µg/l";0,001
+"Pyrene";"ng/L";"Pyren";"µg/l";0,001
+"PYR-V";"ng/l";"Pyren";"µg/l";0,001
+"Q";"m3/s";"Q";"m3/s";1
+"Q";"m3/s";"Q";"m3/s";1
+"Q";"m3/s";"Qs";"m3/s";1
+"Radionuklider";"mBq/L";"Radionuklider";"mBq/L";1
+"RAL";"µg/l Al";"Al/R";"µg/l";1
+"Raphidophycae";"mm3/m3";"Raphidop";"mm3/m3";1
+"Raw backscattering";"counts";"Raw backscattering";"counts";1
+"Raw Chl-a";"counts";"Raw Chl-a";"counts";1
+"Raw FDOM";"counts";"Raw FDOM";"counts";1
+"Rb/HR-ICPM";"µg/l";"Ru";"µg/l";1
+"RB-ICP";"µg/l";"Rb";"µg/l";1
+"Rb/MS";"µg/l";"Ru";"µg/l";1
+"Redox";"mV";"Eh";"mV";1
+"RH-ICP";"µg/l";"RH-ICP";"µg/l";1
+"Ri-O2";"%";"O2 (metning)";"%";1
+"RU-ICP";"µg/l";"Ru";"µg/l";1
+"SAL";"0/00";"Salinitet";"";1
+"SAL";"";"Salinitet";"";1
+"SAL";"";"Salinitet";"";1
+"SAL";" ";"Salinitet";"";1
+"SAL";"";"Salinitet";"";1
+"SAL";"o/oo";"Salinitet";"";1
+"SAL";"o/oo";"Salinitet";"";1
+"SAL";"";"Salinitet";"";1
+"SAL";".";"Salinitet";"";1
+"SAL";"0/00";"Salinitet";"";1
+"SAL";"0/00";"Salinitet";"";1
+"Sal";"";"Salinitet";"";1
+"SAL_Ferrybox";"psu";"Salinitet";"";1
+"Salin";"";"Salinitet";"";1
+"Salin";"";"Salinitet";"";1
+"Salinitet";"";"Salinitet";"";1
+"Salinitet";"0/00";"Salinitet";"";1
+"Salinitet";"0/00";"Salinitet";"";1
+"Salinitet";"";"Salinitet";"";1
+"Salinitet";"";"Salinitet";"";1
+"Salinitet";"";"Salinitet";"";1
+"Salinitet";"";"Salinitet";"";1
+"Salinitet";"psu";"Salinitet";"";1
+"Salinitet";"PSU";"Salinitet";"";1
+"Salinitet";"PSU";"Salinitet";"";1
+"Salinitet";"psu";"Salinitet";"";1
+"Salinitet";"NONE";"Salinitet";"";1
+"Salinitet";"psu";"Salinitet";"";1
+"Salinitet";"PSU";"Salinitet";"";1
+"Salinitet";"PROMILLE";"Salinitet";"";1
+"Salinitet";"ppt";"Salinitet";"";1
+"Salinitet";"psu";"Salinitet";"";1
+"Salinitet";"psu";"Salinitet";"";1
+"Salinitet";"psu";"Salinitet";"";1
+"Salinitet";"psu";"Salinitet";"";1
+"Salinitet";"psu";"Salinitet";"";1
+"SAL-MAN";"";"Salinitet";"";1
+"SAL-MAN";" ";"Salinitet";"";1
+"SAL_sonde";"psu";"Salinitet";"";1
+"SAL_sonde";"psu";"Salinitet";"";1
+"Saltholdighet";"PSU";"Salinitet";"";1
+"Saltholdighet";"PSU";"Salinitet";"";1
+"Saltholdighet";"psu";"Salinitet";"";1
+"Saltholdighet";"PSU";"Salinitet";"";1
+"Saltholdighet";"PSU";"Salinitet";"";1
+"Saltholdighet";"psu";"Salinitet";"";1
+"Saltholdighet";"psu";"Salinitet";"";1
+"Saltholdighet";"PSU";"Salinitet";"";1
+"Saltholdighet";"PSU";"Salinitet";"";1
+"Saltholdighet";"PSU";"Salinitet";"";1
+"Saltholdighet";"PSU";"Salinitet";"";1
+"Saltholdighet";"psu";"Salinitet";"";1
+"Saltholdighet";"PSU";"Salinitet";"";1
+"Saltholdighet";"PSU";"Salinitet";"";1
+"Saltholdighet";"PSU";"Salinitet";"";1
+"Saltholdighet";"PSU";"Salinitet";"";1
+"Saltholdighet";"PSU";"Salinitet";"";1
+"Saltholdighet";"PSU";"Salinitet";"";1
+"Saltholdighet";"PSU";"Salinitet";"";1
+"Saltholdighet";"psu";"Salinitet";"";1
+"Saltholdighet";"";"Salinitet";"";1
+"Saltholdighet";"";"Salinitet";"";1
+"Saltholdighet";"";"Salinitet";"";1
+"Saltholdighet";"psu";"Salinitet";"";1
+"Saltholdighet";"PSU";"Salinitet";"";1
+"Saltholdighet";"PSU";"Salinitet";"";1
+"Saltholdighet";"PSU";"Salinitet";"";1
+"Saltholdighet";"PSU";"Salinitet";"";1
+"Saltinnhold";"ppt";"Salinitet";"";1
+"Saltinnhold";"";"Salinitet";"";1
+"Saxitoksin";"ng/l";"Saxitoksin";"µg/l";0,001
+"Saxitoksiner";"µg/l";"Saxitoksin";"µg/l";1
+"SB";"µg/l";"Sb";"µg/l";1
+"SB";"µg/l";"Sb";"µg/l";1
+"SB";"µg/l";"Sb";"µg/l";1
+"Sb";"µg/L";"Sb";"µg/l";1
+"Sb";"µg/l";"Sb";"µg/l";1
+"Sb";"µg/L";"Sb";"µg/l";1
+"Sb filtrert";"µg/l";"Sb-filt";"µg/l";1
+"Sb oppsluttet";"µg/l";"Sb";"µg/l";1
+"Sb/HR-ICPM";"µg/l";"Sb";"µg/l";1
+"SB-ICP";"µg/l";"Sb";"µg/l";1
+"Sb/ICP";"mg/l";"Sb";"µg/l";1000
+"Sb/MS";"µg/l";"Sb";"µg/l";1
+"SCCP";"ng/L";"SCCP";"ng/L";1
+"SCCP";"ng/L";"SCCP";"ng/L";1
+"se";"mg/l";"Se";"mg/l";1
+"SECCI";"m";"Siktdyp";"m";1
+"SECCI";"m";"Siktdyp";"m";1
+"Se/HR-ICPM";"µg/l";"Se";"µg/l";1
+"Selen";"UG_P_L";"Se";"mg/l";0,001
+"Selen";"UG_P_L";"Se";"µg/l";1
+"Selen";"UG_P_L";"Se";"µg/l";1
+"Selen";"UG_P_L";"Se";"mg/l";0,001
+"Selen-F";"UG_P_L";"Se-filt";"µg/l";1
+"Se/MS";"µg/l";"Se";"µg/l";1
+"Seven Dutch";"µg/kg t.v.";"Seven Dutch";"µg/kg t.v.";1
+"S-GR";"mg/l";"S-GR";"mg/l";1
+"S-GR";"mg/l";"S-GR";"mg/l";1
+"S-GR";"mg/l";"S-GR";"mg/l";1
+"SGR";"mg/l";"SGR - Suspendert gløderest";"mg/l";1
+"SGR";"mg/l";"SGR - Suspendert gløderest";"mg/l";1
+"SGR";"mg/l";"SGR - Suspendert gløderest";"mg/l";1
+"SGR";"MG_P_L";"SGR - Suspendert gløderest";"mg/l";1
+"SGR";"MG_P_L";"SGR - Suspendert gløderest";"mg/l";1
+"SGR";"mg/l";"SGR - Suspendert gløderest";"mg/l";1
+"SGR";"MG_P_L";"SGR - Suspendert gløderest";"mg/l";1
+"SGR/L";"mg/l";"SGR - Suspendert gløderest";"mg/l";1
+"SGR/L";"mg/l";"SGR - Suspendert gløderest";"mg/l";1
+"S/HR-ICPM";"µg/l";"S";"µg/l";1
+"SI";"mg/l";"SiO2";"mg/l";2,139355528
+"Si";"mg/l";"SiO2";"mg/l";2,139355528
+"Si";"mg/l";"SiO2";"mg/l";2,1393555279999998
+"Si";"mg/l";"SiO2";"mg/l";2,1393555279999998
+"Si";"mg/l";"SiO2";"mg/l";2,139355528
+"S/ICP";"mg/l";"S";"µg/l";1000
+"SIF";"mg/l";"Si_F";"mg/l";1
+"Sigma-T";"kg/m3";"Sigma T";"kg/m^3";1
+"Sigma-T";"kg/m3";"Sigma T";"kg/m^3";1
+"Si/HR-ICPM";"µg/l";"SiO2";"mg/l";0,0021393559999999998
+"Si/ICP";"mg/l";"SiO2";"mg/l";2,139355528
+"Si/ICP-Sj";"mg/l";"SiO2";"mg/l";2,1393555279999998
+"Siktdyp";"m";"Siktdyp";"m";1
+"Siktdyp";"m";"Siktdyp";"m";1
+"Siktdyp";"m";"Siktdyp";"m";1
+"Siktdyp";"m";"Siktdyp";"m";1
+"Siktdyp";"m";"Siktdyp";"m";1
+"Siktedyp";"m";"Siktdyp";"m";1
+"Siktedyp";"m";"Siktdyp";"m";1
+"Siktedyp";"m";"Siktdyp";"m";1
+"Siktedyp";"m";"Siktdyp";"m";1
+"Siktedyp";"m";"Siktdyp";"m";1
+"Siktedyp";"m";"Siktdyp";"m";1
+"Siktedyp";"m";"Siktdyp";"m";1
+"Silikat";"UG_P_L";"SiO2";"mg/l";0,001
+"Silikat";"UG_P_L";"SiO2";"mg/l";0,001
+"Silikat";"µmol/l";"SiO2";"mg/l";0,0600843
+"Silikat";"UG_SIO2_P_L";"SiO2";"mg/l";0,001
+"Silikat (Si)";"µ mol/l";"SiO2";"mg/l";0,0600843
+"Silisium";"MG_P_L";"Si";"mg/l";1
+"Silisium";"mg/l";"Si";"mg/l";1
+"Silisium";"mg/l";"Si";"mg/l";1
+"Silisium";"MG_P_L";"Si";"mg/l";1
+"Silisium";"MG_P_L";"Si";"mg/l";1
+"Silisium";"MG_P_L";"Si";"mg/l";1
+"Silisium";"MG_P_L";"Si";"mg/l";1
+"Silisium";"MG_P_L";"Si";"mg/l";1
+"Silisium";"MG_P_L";"Si";"mg/l";1
+"Silisium";"MG_P_L";"Si";"mg/l";1
+"Silisium";"mg/l";"Si";"mg/l";1
+"Si/MS";"µg/l";"SiO2";"mg/l";0,0021393559999999998
+"Sink";"µg Zn/l";"Zn";"µg/l";1
+"Sink";"UG_P_L";"Zn";"µg/l";1
+"Sink";"UG_P_L";"Zn";"µg/l";1
+"Sink";"UG_P_L";"Zn";"µg/l";1
+"Sink";"UG_P_L";"Zn";"µg/l";1
+"Sink";"UG_P_L";"Zn";"µg/l";1
+"Sink";"µg/l";"Zn";"µg/l";1
+"Sink";"UG_P_L";"Zn";"µg/l";1
+"Sink";"µg Zn/l";"Zn";"mg/l";0,001
+"Sink";"UG_P_L";"Zn";"µg/l";1
+"Sink";"UG_P_L";"Zn";"µg/l";1
+"Sink";"µg Zn/l";"Zn-filt";"µg/l";1
+"Sink";"UG_P_L";"Zn";"µg/l";1
+"Sink-F";"UG_P_L";"Zn-filt";"µg/l";1
+"Sink-F";"UG_P_L";"Zn-filt";"µg/l";1
+"Sink-F";"UG_P_L";"Zn-filt";"µg/l";1
+"SIO2";"mg/l";"SiO2";"mg/l";1
+"SIO2";"mg/l";"SiO2";"mg/l";1
+"SIO2";"mg/l";"SiO2";"mg/l";1
+"SIO2";"mg/l";"SiO2";"mg/l";1
+"SIO2";"µg/l Sio2";"SiO2";"mg/l";0,001
+"SiO2";"mg Si/l";"SiO2";"mg/l";1
+"SiO2";"mg SiO2/l";"SiO2";"mg/l";1
+"SiO2";"µM";"SiO2";"mg/l";0,0600843
+"SiO2";"µM";"SiO2";"mg/l";0,0600843
+"SiO2";"mg/l";"SiO2";"mg/l";1
+"SiO2";"µg/l";"SiO2";"mg/l";0,001
+"SiO2";"mg SiO2/l";"SiO2";"mg/l";1
+"SiO2";"UG_P_L";"SiO2";"mg/l";0,001
+"SiO2";"UG_P_L";"SiO2";"mg/l";0,001
+"SiO2";"µg Si/l";"SiO2";"mg/l";0,002139356
+"SiO2";"µg/l";"SiO2";"mg/l";0,001
+"SiO2";"mg/l SiO2";"SiO2";"mg/l";1
+"SiO2";"mg/l";"SiO2";"mg/l";1
+"SiO2";"mg Si/l";"SiO2";"mg/l";2,139355528
+"SIO2F";"mg/l";"SiO2_F";"mg/l";1
+"SiO2-Sj";"µg SiO2/l";"SiO2";"mg/l";0,001
+"SiO2-Sj";"µg SiO2/l";"SiO2";"mg/l";0,001
+"SiO2-Sj,m";"µg SiO2/l";"SiO2";"mg/l";0,001
+"SiO3";"µM";"SiO2";"mg/l";0,0600843
+"SiO3";"µM";"SiO2";"mg/l";0,0600843
+"SIP";"µg/l";"Si_P";"mg/l";0,001
+"Sjø-Tmp";"gr C";"Temperatur";"C";1
+"Sjø-Tmp";"gr C";"Temperatur";"C";1
+"Sm/HR-ICPM";"µg/l";"Sm";"µg/l";1
+"SM-ICP";"µg/l";"Sm";"µg/l";1
+"Sm/MS";"µg/l";"Sm";"µg/l";1
+"Sn/HR-ICPM";"µg/l";"Sn";"µg/L";1
+"SN-ICP";"µg/l";"Sn";"µg/L";1
+"Sn/ICP";"mg/l";"Sn";"µg/L";1000
+"Sn/MS";"µg/l";"Sn";"µg/L";1
+"Snødybde";"mm";"Snødybde";"cm";0,1
+"SO";"%";"SO";"%";1
+"Sodium";"mg/l";"Sodium";"mg/l";1
+"SO4";"mg/l";"SO4";"mg/L";1
+"SO4";"mg/l";"SO4";"mg/L";1
+"SO4";"mg/l";"SO4";"mg/L";1
+"SO4";"mg/l";"SO4";"mg/L";1
+"SO4";"mg/l";"SO4";"mg/L";1
+"SO4";"mg/l";"SO4";"mg/L";1
+"SO4";"MG_P_L";"SO4";"mg/L";1
+"SO4";"mg/l";"SO4";"mg/L";1
+"SO4";"mg/l";"SO4";"mg/L";1
+"SO4";"mg/l";"SO4";"mg/L";1
+"SO4";"mg/l";"SO4";"mg/L";1
+"SO4";"mg/l";"SO4";"mg/L";1
+"SO4";"mg/l";"SO4";"mg/L";1
+"SO4";"mg/l";"SO4";"mg/L";1
+"so4";"mg/l";"SO4";"mg/L";1
+"SO4_Old";"mg/l";"SO4_Old";"mg/l";1
+"SO4-Ox";"mg/l";"SO4-Ox";"mg/l";1
+"SO4-Ox";"mg/l";"SO4-Ox";"mg/l";1
+"SpCond";"uS/cm";"Konduktivitet";"mS/m";0,1
+"S.P.M.";"mg/l";"TSM";"mg/l";1
+"SPM";"mg/l";"TSM";"mg/l";1
+"Sr/HR-ICPM";"µg/l";"Sr";"µg/l";1
+"SR-ICP";"µg/l";"Sr";"µg/l";1
+"Sr/MS";"µg/l";"Sr";"µg/l";1
+"SS";"g/l";"SS";"g/l";1
+"SS";"mg/l";"STS";"mg/l";1
+"SS";"mg/L";"SS";"mg/l";1
+"STREPTO";"n/100ml";"STREPTO";"n/100ml";1
+"Strontium";"µg/l";"Sr";"µg/l";1
+"Strontium";"UG_P_L";"Sr";"µg/l";1
+"Strontium";"UG_P_L";"Sr";"µg/l";1
+"Strontium";"UG_P_L";"Sr";"µg/l";1
+"Strontium-F";"UG_P_L";"Sr-filt";"µg/l";1
+"Strømretning";"deg";"Strømretning";"deg";1
+"Strømretning";"10deg";"Strømretning";"deg";0,1
+"S-TS";"mg/l";"S-TS";"mg/l";1
+"S-TS";"mg/l";"S-TS";"mg/l";1
+"S-TS";"mg/l";"S-TS";"mg/l";1
+"S-TS";"mg/l";"S-TS";"mg/l";1
+"STS";"mg/l";"STS";"mg/l";1
+"STS";"mg/l";"STS";"mg/l";1
+"STS";"MG_P_L";"STS";"mg/l";1
+"STS";"mg/l";"STS";"mg/l";1
+"STS";"mg/l";"STS";"mg/l";1
+"STS";"mg/L";"STS";"mg/l";1
+"STS";"MG_P_L";"STS";"mg/l";1
+"STS";"MG_P_L";"STS";"mg/l";1
+"STS";"MG_P_L";"STS";"mg/l";1
+"STS";"mg/l";"STS";"mg/l";1
+"STS";"mg/l";"STS";"mg/l";1
+"STS";"mg/l";"STS";"mg/l";1
+"STS";"mg/l";"STS";"mg/l";1
+"STS";"mg/l";"STS";"mg/l";1
+"STS";"mg/l";"STS";"mg/l";1
+"STS/L";"mg/l";"STS";"mg/l";1
+"Sucralose";"ng/l";"Sucralose";"ng/l";1
+"Sulfat";"MG_P_L";"SO4";"mg/L";1
+"Sulfat";"UG_P_L";"SO4";"mg/L";0,001
+"Sulfat";"UG_P_L";"SO4";"mg/L";0,001
+"Sulfat";"mg SO4/l";"SO4";"mg/L";1
+"Sulfat";"MG_P_L";"SO4";"mg/L";1
+"Sulfat";"mg SO4/l";"SO4";"mg/L";1
+"Sulfat";"MG_P_L";"SO4";"mg/L";1
+"Sulfat";"MG_P_L";"SO4";"mg/L";1
+"Sulfat";"UG_P_L";"SO4";"mg/L";0,001
+"Sulfat";"MG_P_L";"SO4";"mg/L";1
+"Sulphate";"mg/l";"Sulphate";"mg/l";1
+"Sum EHMC (Etylheksylmetoksycinnamat)";"NG_P_L";"EHMC";"ng/L";1
+"Sum PAH 16";"UG_P_L";"Sum PAH16";"µg/L";1
+"Sum PAH 16";"UG_P_L";"Sum PAH16";"µg/L";1
+"Sum PBDEs";"pg/L";"Sum PBDEs";"pg/L";1
+"Sum PCB";"µg/kg t.v.";"SUM PCB";"µg/kg t.v.";1
+"Sum THC (>C5-C35)";"UG_P_L";"Sum THC";"µg/l";1
+"SumTCP";"ng/L";"SumTCP";"ng/l";1
+"Suspendert stoff, SS";"mg/L";"STS";"mg/l";1
+"Susp.stoff";"mg/l";"STS";"mg/l";1
+"Svovel";"MG_P_L";"S";"µg/l";1
+"Svovel";"MG_P_L";"S";"µg/l";1000
+"synDP";"pg/L";"synDP";"pg/L";1
+"Sølv";"UG_P_L";"Ag";"µg/L";1
+"Sølv";"UG_P_L";"Ag";"µg/L";1
+"Sølv";"UG_P_L";"Ag";"µg/L";1
+"Sølv";"UG_P_L";"Ag";"µg/L";1
+"Sølv";"UG_P_L";"Ag";"µg/L";1
+"Sølv-F";"UG_P_L";"Ag-filt";"µg/l";1
+"TA-ICP";"µg/l";"Ta";"µg/l";1
+"Ta/MS";"µg/l";"Ta";"µg/l";1
+"Tantal";"UG_P_L";"Ta";"µg/l";1
+"Tantal";"UG_P_L";"Ta";"µg/l";1
+"Tantal-F";"UG_P_L";"Ta-filt";"µg/l";1
+"TBEP";"ng/L";"TBEP";"ng/L";1
+"TBEP";"ng/L";"TBEP";"ng/L";1
+"Tb/HR-ICPM";"µg/l";"Tb";"µg/l";1
+"TB-ICP";"µg/l";"Tb";"µg/l";1
+"TBK";"antall/100ml";"Termotolerante koliforme bakterier";"ant/ 100ml";1
+"Tb/MS";"µg/l";"Tb";"µg/l";1
+"TBT-V";"ng/l";"TBT";"ng/l";1
+"TCEP";"ng/L";"TCEP";"ng/L";1
+"TCEP";"ng/L";"TCEP";"ng/L";1
+"TCPP";"ng/L";"TCPP";"ng/L";1
+"TCPP";"ng/L";"TCPP";"ng/L";1
+"TDCPP";"ng/L";"TDCPP";"ng/l";1
+"TEHP";"ng/L";"TEHP";"ng/L";1
+"TEHP";"ng/L";"TEHP";"ng/L";1
+"Te/HR-ICPM";"µg/l";"Te";"µg/l";1
+"Telleverk";"m3";"Telleverk";"m3";1
+"Tellur";"UG_P_L";"Te";"µg/l";1
+"Tellur";"UG_P_L";"Te";"µg/l";1
+"TEMP";"°C";"Temperatur";"C";1
+"TEMP";"°C";"Temperatur";"C";1
+"Temp";"C";"Temperatur";"C";1
+"Temp";"C";"Temperatur";"C";1
+"Temp";"C";"Temperatur";"C";1
+"Temp";"C";"Temperatur";"C";1
+"Temp";"°C";"Temperatur";"C";1
+"Temp";"C";"Temperatur";"C";1
+"Temp";"C";"Temperatur";"C";1
+"Temp";"oC";"Temperatur";"C";1
+"Temp";"oC";"Temperatur";"C";1
+"Temp";"C";"Temperatur";"C";1
+"Temp";"grader C";"Temperatur";"C";1
+"Temp";"grader C";"Temperatur";"C";1
+"Temp";"°C";"Temperatur";"C";1
+"Temp";"grader C";"Temperatur";"C";1
+"Temp";"C";"Temperatur";"C";1
+"Temp";"C";"Temperatur";"C";1
+"Temp";"C";"Temperatur";"C";1
+"Temp";"DEGREE_C";"Temperatur";"C";1
+"Temp";"C";"Temperatur";"C";1
+"temp";"C";"Temperatur";"C";1
+"Temperatur";"°C";"Temperatur";"C";1
+"Temperatur";"C";"Temperatur";"C";1
+"Temperatur";"C";"Temperatur";"C";1
+"Temperatur";"";"Temperatur";"C";1
+"Temperatur";"C";"Temperatur";"C";1
+"Temperatur";"°C";"Temperatur";"C";1
+"Temperatur";"°C";"Temperatur";"C";1
+"Temperatur";"°C";"Temperatur";"C";1
+"Temperatur";"°C";"Temperatur";"C";1
+"Temperatur";"°C";"Temperatur";"C";1
+"Temperatur";"°C";"Temperatur";"C";1
+"Temperatur";"C";"Temperatur";"C";1
+"Temperatur";"C";"Temperatur";"C";1
+"Temperatur";"C";"Temperatur";"C";1
+"Temperatur";"C";"Temperatur";"C";1
+"Temperatur";"grader Celsius";"Temperatur";"C";1
+"Temperatur";"grader Celsius";"Temperatur";"C";1
+"Temperatur";"grader Celsius";"Temperatur";"C";1
+"Temperatur";"grader Celsius";"Temperatur";"C";1
+"Temperatur";"grader Celsius";"Temperatur";"C";1
+"Temperatur";"C";"Temperatur";"C";1
+"Temperatur";"C";"Temperatur";"C";1
+"Temperatur";"C";"Temperatur";"C";1
+"Temperatur";"C";"Temperatur";"C";1
+"Temperatur";"C";"Temperatur";"C";1
+"Temperatur";"C";"Temperatur";"C";1
+"Temperatur";"C";"Temperatur";"C";1
+"Temperatur";"C";"Temperatur";"C";1
+"Temperatur";"C";"Temperatur";"C";1
+"Temperatur";"C";"Temperatur";"C";1
+"Temperatur";"C";"Temperatur";"C";1
+"Temperatur";"C";"Temperatur";"C";1
+"Temperatur";"C";"Temperatur";"C";1
+"Temperatur";"C";"Temperatur";"C";1
+"Temperatur";"grader Celsius";"Temperatur";"C";1
+"Temperatur";"°C";"Temperatur";"C";1
+"Temperatur";"°C";"Temperatur";"C";1
+"Temperatur";"°C";"Temperatur";"C";1
+"Temperatur";"°C";"Temperatur";"C";1
+"Temperatur";"oC";"Temperatur";"C";1
+"Temperatur";"°C";"Temperatur";"C";1
+"Temperatur";"C";"Temperatur";"C";1
+"Temperatur";"°C";"Temperatur";"C";1
+"Temperatur";"°C";"Temperatur";"C";1
+"Temperatur";"DEG_C";"Temperatur";"C";1
+"Temperatur";"°C";"Temperatur";"C";1
+"Temperatur";"DEG_C";"Temperatur";"C";1
+"Temperatur";"C";"Temperatur";"C";1
+"Temperatur";"°C";"Temperatur";"C";1
+"Temperature";"Degrees Celsius";"Temperatur";"C";1
+"Temperatur_Ferrybox";"°C";"Temperatur";"C";1
+"Temperatur_sonde";"°C";"Temperatur";"C";1
+"Temperatur_sonde";"°C";"Temperatur";"C";1
+"TEMPR";"°C";"Temperatur";"C";1
+"TEMPR";"°C";"Temperatur";"C";1
+"TEMPR";"°C";"Temperatur";"C";1
+"TEMPR";"°C";"Temperatur";"C";1
+"TEMPR";".";"Temperatur";"C";1
+"TEP";"ng/L";"TEP";"ng/l";1
+"TEP";"ng/L";"TEP";"ng/l";1
+"Term. koliforme bakterier";"ant/100ml";"TKIM";"ant/ml";1
+"Term. koliforme bakterier, 44.5°C";"ant/ 100ml";"Termotolerante koliforme bakterier";"ant/ 100ml";1
+"Tetrabutyltinn (TetraBT)";"NG_P_L";"TTBT";"ng/L";1
+"Tetrabutyltinn (TetraBT)";"NG_P_L";"TTBT";"ng/L";1
+"Tetthetsanomali";"kg/m3";"Tetthetsanomali";"kg/m3";1
+"Tetthetsanomali";"kg/m3";"Tetthetsanomali";"kg/m3";1
+"Tetthetsanomali";"kg/m3";"Tetthetsanomali";"kg/m3";1
+"Tetthetsanomali";"kg/m3";"Tetthetsanomali";"kg/m3";1
+"Tetthetsanomali";"kg/m3";"Tetthetsanomali";"kg/m3";1
+"Tetthetsanomali";"kg/m3";"Tetthetsanomali";"kg/m3";1
+"TGR";"mg/l";"TGR";"g/l";1
+"TGR-V";"g/l";"TGR";"g/l";1
+"Thallium";"UG_P_L";"Tl";"µg/l";1
+"Thallium";"UG_P_L";"Tl";"µg/l";1
+"Thallium";"UG_P_L";"Ta";"µg/l";1
+"Thallium";"UG_P_L";"Ta";"µg/l";1
+"Th/HR-ICPM";"µg/l";"Th";"µg/l";1
+"TH-ICP";"µg/l";"Th";"µg/l";1
+"Th/MS";"µg/l";"Th";"µg/l";1
+"Thorium";"UG_P_L";"Th";"µg/l";1
+"Thorium";"UG_P_L";"Th";"µg/l";1
+"Ti";"µg/l";"Ti";"µg/l";1
+"Ti";"mg/l";"Ti";"µg/l";1000
+"TiBP";"ng/L";"TIBP";"ng/L";1
+"TiBP";"ng/L";"TIBP";"ng/L";1
+"Ti-filt";"µg/l";"Ti-filt";"µg/l";1
+"TI-ICP";"µg/l";"Tl";"µg/l";1
+"Tinn";"UG_P_L";"Sn";"µg/L";1
+"Tinn";"UG_P_L";"Sn";"µg/L";1
+"Tinn";"UG_P_L";"Sn";"µg/L";1
+"Tinn-F";"UG_P_L";"Sn-filt";"µg/l";1
+"TIPPP";"ng/L";"TIPPP";"ng/l";1
+"Titan";"UG_P_L";"Ti";"µg/l";1
+"Titan";"UG_P_L";"Ti";"µg/l";1
+"Titan";"UG_P_L";"Ti";"µg/l";1
+"Titan-F";"UG_P_L";"Ti-filt";"µg/l";1
+"TKB";"ant/100 ml";"Termotolerante koliforme bakterier";"ant/ 100ml";1
+"TKB";"ant/100ml";"Termotolerante koliforme bakterier";"ant/ 100ml";1
+"TKB";"ant/100 ml";"Termotolerante koliforme bakterier";"ant/ 100ml";1
+"TKB";"antall/100 ml";"Termotolerante koliforme bakterier";"ant/ 100ml";1
+"TKIM";"ant/ml";"TKIM";"ant/ml";1
+"TKOL";"Ant/100 ml";"TKOLI";"n/100ml";1
+"T-KOLI";"ant/100";"TKOLI";"n/100ml";1
+"T-KOLI";"ant/100";"TKOLI";"n/100ml";1
+"TKOLI";"n/100ml";"TKOLI";"n/100ml";1
+"TKOLI44";"n/100ml";"TKOLI_44";"n/100ml";1
+"TKOLI44";"n/100ml";"TKOLI_44";"n/100ml";1
+"Tl/HR-ICPM";"µg/l";"Tl";"µg/l";1
+"TL-ICP";"µg/l";"Tl";"µg/l";1
+"Tl/MS";"µg/l";"Tl";"µg/l";1
+"TM-ICP";"µg/l";"Tm";"µg/l";1
+"Tm/MS";"µg/l";"Tm";"µg/l";1
+"TnBP";"ng/L";"TnBP";"ng/l";1
+"TN/GFF";"µg N/l";"PON";"µg/l N";1
+"TOC";"mg/l";"TOC";"mg/l";1
+"TOC";"mg C/l";"TOC";"mg/l";1
+"TOC";"mg C/l";"TOC-filt";"mg/l";1
+"TOC";"mg C/l";"TOC";"mg/l";1
+"TOC";"mg/l";"TOC";"mg/l";1
+"TOC";"mgC/l";"TOC";"mg/l";1
+"TOC";"mgC/l";"TOC";"mg/l";1
+"TOC";"mgC/l";"TOC";"mg/l";1
+"TOC";"mgC/l";"TOC";"mg/l";1
+"TOC";"mg C/l";"TOC";"mg/l";1
+"TOC";"mg/l";"TOC";"mg/l";1
+"TOC";"mg/L";"TOC";"mg/l";1
+"TOC";"mg/L";"TOC";"mg/l";1
+"TOC";"mg C/l";"TOC";"mg/l";1
+"TOC";"mg C/l";"TOC";"mg/l";1
+"TOC";"mg/l";"TOC";"mg/l";1
+"TOC";"mg/L Pt";"TOC";"mg/l";1
+"TOC";"mg C/l";"TOC";"mg/l";1
+"TOC";"mg/l";"TOC";"mg/l";1
+"TOC";"mg C/l";"TOC";"mg/l";1
+"TOC";"mg C/l";"TOC";"mg/l";1
+"TOC";"mg/l";"TOC";"mg/l";1
+"TOC";"mg/l";"TOC";"mg/l";1
+"TOC";"mg C/l";"TOC";"mg/l";1
+"TOC";"mg C/l";"TOC";"mg/l";1
+"TOC";"mg C/l";"TOC";"mg/l";1
+"TOC";"µM";"TOC";"mg/l";0,01201115
+"TOC";"mg/l";"TOC";"mg/l";1
+"TOC";"mg/l";"TOC";"mg/l";1
+"TOC";"mg/l";"TOC";"mg/l";1
+"TOC";"mg/l";"TOC";"mg/l";1
+"TOC";"mg C/l";"TOC";"mg/l";1
+"TOCF";"mg/l";"DOC";"mg/l";1
+"TOC/GFF";"µg C/l";"POC";"µg/l C";1
+"TOCP";"µg/l C";"POC";"µg/l C";1
+"TOH: Disse må sjekkes";"";"TOH: Disse må sjekkes";"";1
+"Tot. diss. Solids";"ppt";"Tot. diss. solids";"ppt";1
+"Tot N";"µg/l P";"TOTN";"µg/l";1
+"Tot P";"µg/l P";"TOTP";"µg/l";1
+"Tot S";"mg/l";"Total S";"mg/l";1
+"Tot-Al";"µg/l";"TOT-AL";"mg/l";0,001
+"Tot-Al";"mg/l";"TOT-AL";"mg/l";1
+"Total coliforms";"MPN/100ml";"Total coliforms";"MPN/100ml";1
+"Total cyanid";"MG_P_L";"Total cyanid";"µg/L";1000
+"Total cyanid";"UG_P_L";"Total cyanid";"µg/L";1
+"Total Fosfor";"µg/l";"P-TOT";"µg/l P";1
+"Total fosfor";"µg/l";"TOTP";"µg/l";1
+"Total fosfor";"UG_P_L";"TOTP";"µg/l";1
+"Total fosfor";"UG_P_P_L";"TOTP";"µg/l";1
+"Total fosfor";"UG_P_P_L";"TOTP";"µg/l";1
+"Total fosfor";"UG_P_L";"TOTP";"µg/l";1
+"Total fosfor";"UG_P_P_L";"TOTP";"µg/l";1
+"Total fosfor";"UG_P_P_L";"TOTP";"µg/l";1
+"Total fosfor";"UG_P_P_L";"TOTP";"µg/l";1
+"Total fosfor";"UG_P_L";"TOTP";"µg/l";1
+"Total fosfor";"mg/L";"TOTP";"µg/l";1000
+"Total fosfor, partikulært";"UG_P_P_L";"TOTP_P";"µg/l P";1
+"Total fosfor (Tot-P)";"µ mol/l";"TOTP";"µg/l";30,9738
+"Total fosfor-F";"UG_P_P_L";"TOTP/F";"µg/l P";1
+"Total fosfor-F";"UG_P_P_L";"TOTP/F";"µg/l P";1
+"Total fosfor-P";"UG_P_P_L";"TOTP_P";"µg/l P";1
+"Total fosfor-P";"UG_P_P_L";"TOTP_P";"µg/l P";1
+"Total fosfor-P";"UG_P_P_L";"TOTP_P";"µg/l P";1
+"Total fosfor-P";"UG_P_P_L";"TOTP_P";"µg/l P";1
+"Total Nitrogen";"µg/l";"N-TOT";"µg/l N";1
+"Total nitrogen";"UG_P_L";"TOTN (old EF)";"µg/l";1
+"Total nitrogen";"MG_N_P_L";"TOTN";"µg/l";1000
+"Total nitrogen";"UG_N_L";"TOTN";"µg/l";1
+"Total nitrogen";"UG_P_L";"TOTN";"µg/l";1
+"Total nitrogen";"UG_P_L";"TOTN (old EF)";"µg/l";1
+"Total nitrogen";"MG_P_L";"TOTN (old EF)";"µg/l";1000
+"Total nitrogen";"UG_N_L";"TOTN";"µg/l";1
+"Total nitrogen";"UG_P_L";"TOTN (old EF)";"µg/l";1
+"Total nitrogen";"UG_N_L";"TOTN";"µg/l";1
+"Total nitrogen";"UG_P_L";"TOTN";"µg/l";1
+"Total nitrogen";"UG_N_L";"TOTN";"µg/l";1
+"Total nitrogen";"mg/L";"TOTN";"µg/l";1000
+"Total nitrogen";"UG_N_L";"TOTN (old EF)";"µg/l";1
+"Total nitrogen";"UG_N_L";"TOTN";"µg/l";1
+"Total nitrogen";"MG_N_P_L";"TOTN";"µg/l";1000
+"Total nitrogen";"UG_N_P_L";"TOTN";"µg/l";1
+"Total nitrogen";"UG_P_L";"TOTN (old EF)";"µg/l";1
+"Total nitrogen";"UG_P_L";"TOTN";"µg/l";1
+"Total nitrogen";"UG_P_L";"TOTN (old EF)";"µg/l";1
+"Total nitrogen";"UG_P_L";"TOTN (old EF)";"µg/l";1
+"Total nitrogen";"UG_P_L";"TOTN";"µg/l";1
+"Total nitrogen";"µg/l";"TOTN";"µg/l";1
+"Total nitrogen";"UG_P_L";"TOTN";"µg/l";1
+"Total nitrogen";"UG_P_L";"TOTN";"µg/l";1
+"Total nitrogen";"UG_P_L";"TOTN";"µg/l";1
+"Total nitrogen";"UG_N_P_L";"TOTN";"µg/l";1
+"Total nitrogen";"mg/l";"TOTN";"µg/l";1000
+"Total nitrogen, høy";"MG_N_P_L";"TOTN";"µg/l";1000
+"Total nitrogen, høy";"MG_N_P_L";"TOTN";"µg/l";1000
+"Total nitrogen, høy";"MG_N_P_L";"TOTN";"µg/l";1000
+"Total nitrogen, høy";"MG_P_L";"TOTN";"µg/l";1000
+"Total nitrogen, høy";"MG_N_P_L";"TOTN";"µg/l";1000
+"Total nitrogen, høy-F";"MG_N_P_L";"TOTN_F";"µg/l N";1000
+"Total nitrogen (Tot-N)";"µ mol/l";"TOTN";"µg/l";14,0067
+"Total nitrogen-F";"UG_P_L";"TOTN_F";"µg/l N";1
+"Total nitrogen-F";"UG_P_L";"TOTN_F";"µg/l N";1
+"Total nitrogen-F";"UG_N_L";"TOTN_F";"µg/l N";1
+"Total organisk karbon (TOC)";"MG_C_L";"TOC";"mg/l";1
+"Total organisk karbon (TOC)";"MG_C_L";"TOC";"mg/l";1
+"Total organisk karbon (TOC)";"MG_C_L";"TOC";"mg/l";1
+"Total organisk karbon (TOC)";"MG_P_L";"TOC";"mg/l";1
+"Total organisk karbon (TOC)";"MG_C_L";"TOC";"mg/l";1
+"Total organisk karbon (TOC)";"MG_P_L";"TOC";"mg/l";1
+"Total organisk karbon (TOC)";"MG_C_L";"TOC";"mg/l";1
+"Total organisk karbon (TOC)";"MG_P_L";"TOC";"mg/l";1
+"Total organisk karbon (TOC)";"MG_P_L";"TOC";"mg/l";1
+"Total organisk karbon (TOC)";"MG_P_L";"TOC";"mg/l";1
+"Total organisk karbon (TOC)";"MG_C_L";"TOC";"mg/l";1
+"Totalt organisk karbon";"MG_C_L";"TOC";"mg/l";1
+"Totalt organisk karbon";"MG_C_L";"TOC";"mg/l";1
+"Totalt organisk karbon";"MG_P_L";"TOC";"mg/l";1
+"Totalt organisk karbon";"MG_C_L";"TOC";"mg/l";1
+"Totalt organisk karbon";"MG_P_L";"TOC";"mg/l";1
+"Totalt organisk karbon";"MG_C_L";"TOC";"mg/l";1
+"Totalt organisk karbon";"MG_C_L";"TOC";"mg/l";1
+"Totalt organisk karbon, høy USCG";"MG_C_L";"TOC";"mg/l";1
+"TOTBAKT";"ant/ml";"TOTBAKT";"ant/ml";1
+"TOTHARD";"mg/l Ca";"TOTHARD";"";1
+"TOT-N";"µg/l N";"TOTN";"µg/l";1
+"TOT-N";"µgN/l";"TOTN";"µg/l";1
+"TOT-N";"µgN/l";"TOTN";"µg/l";1
+"TOT-N";"µg/l N";"TOTN";"µg/l";1
+"TOTN";"µM";"TOTN";"µg/l";14,0067
+"TOTN";"µg/l N";"TOTN";"µg/l";1
+"TOTN";"µM";"TOTN";"µg/l";14,0067
+"TOTN";"µg/l N";"TOTN";"µg/l";1
+"TOTN";"µg/l N";"TOTN";"µg/l";1
+"TOTN";"µg/l";"TOTN";"µg/l";1
+"TOTN";"µg/l N";"TOTN";"µg/l";1
+"Tot-N";"µg/l";"TOTN";"µg/l";1
+"Tot-N";"µg/l";"TOTN";"µg/l";1
+"Tot-N";"µg N/l";"TOTN";"µg/l";1
+"Tot-N";"µg N/l";"TOTN";"µg/l";1
+"Tot-N";"µg/l";"TOTN";"µg/l";1
+"Tot-N";"µg/l";"TOTN";"µg/l";1
+"Tot-N";"µg/l";"TOTN";"µg/l";1
+"Tot-N";"µg/l";"TOTN";"µg/l";1
+"Tot-N";"mg/l";"TOTN";"µg/l";1000
+"Tot-N";"µg N/l";"TOTN";"µg/l";1
+"Tot-N";"µg/l N";"TOTN";"µg/l";1
+"Tot-N";"µg N/l";"TOTN";"µg/l";1
+"Tot-N";"µg N/l";"TOTN";"µg/l";1
+"Tot-N";"µg N/l";"TOTN";"µg/l";1
+"Tot-N";"µg N/l";"TOTN";"µg/l";1
+"Tot-N";"µg/l";"TOTN";"µg/l";1
+"Tot-N";"µg N/l";"TOTN";"µg/l";1
+"Tot-N";"µg N/l";"TOTN";"µg/l";1
+"Tot-N";"µg N/l";"TOTN_F";"µg/l N";1
+"Tot-N";"µg/l";"TOTN";"µg/l";1
+"Tot-N";"µg N/l";"TOTN";"µg/l";1
+"Tot-N";"µg N/l";"TOTN";"µg/l";1
+"Tot-N";"µg N/l";"TOTN";"µg/l";1
+"Tot_N";"µg/l";"TOTN";"µg/l";1
+"Tot_N";"µg/l N";"TOTN";"µg/l";1
+"TotN";"mg/L";"TOTN";"µg/l";1000
+"TOTNF";"µg/l N";"TOTN_F";"µg/l N";1
+"TOTNF";"µg/l N";"TOTN_F";"µg/l N";1
+"Tot-N/H";"mg N/l";"TOTN";"µg/l";1000
+"Tot-N/H";"mg/l N";"TOTN";"µg/l";1000
+"Tot-N/H,m";"mg N/l";"N-TOT";"µg/l N";1000
+"Tot-N/L";"µg N/l";"TOTN";"µg/l";1
+"Tot-N/L";"µg/l N";"TOTN";"µg/l";1
+"Tot-N/L,m";"µg N/l";"N-TOT";"µg/l N";1
+"TOTNP";"µg/l N";"TOTN_P";"µg/l N";1
+"TOT-P";"µg/l P";"TOTP";"µg/l";1
+"TOT-P";"µgP/l";"TOTP";"µg/l";1
+"TOT-P";"µgP/l";"TOTP";"µg/l";1
+"TOTP";"µg/l P";"TOTP";"µg/l";1
+"TOTP";"µg/l P";"TOTP";"µg/l";1
+"TOTP";"µg/l P";"TOTP";"µg/l";1
+"TOTP";"µM";"TOTP";"µg/l";30,9738
+"TOTP";"µM";"TOTP";"µg/l";30,9738
+"TOTP";"µg/l";"TOTP";"µg/l";1
+"TOTP";"µg /l P";"TOTP";"µg/l";1
+"TOTP";"µg/l P";"TOTP";"µg/l";1
+"TOTP";"µg /l P";"TOTP";"µg/l";1
+"TOTP";"µg/l P";"TOTP";"µg/l";1
+"Tot-P";"µg/l";"TOTP";"µg/l";1
+"Tot-P";"µg P/l";"TOTP";"µg/l";1
+"Tot-P";"µg/l";"TOTP";"µg/l";1
+"Tot-P";"µg P/l";"TOTP";"µg/l";1
+"Tot-P";"µg/l";"TOTP";"µg/l";1
+"Tot-P";"µg/l";"TOTP";"µg/l";1
+"Tot-P";"µg P/l";"TOTP";"µg/l";1
+"Tot-P";"µg P/l";"TOTP";"µg/l";1
+"Tot-P";"µg/l";"TOTP";"µg/l";1
+"Tot-P";"µg P/l";"TOTP/F";"µg/l P";1
+"Tot-P";"µg P/l";"TOTP";"µg/l";1
+"Tot-P";"µg P/l";"TOTP";"µg/l";1
+"Tot-P";"µg/l";"TOTP";"µg/l";1
+"Tot-P";"µg P/l";"TOTP";"µg/l";1
+"Tot-P";"µg P/l";"TOTP";"µg/l";1
+"Tot-P";"µg/l";"TOTP";"µg/l";1
+"Tot-P";"µg P/l";"TOTP";"µg/l";1
+"Tot-P";"µg P/l";"TOTP";"µg/l";1
+"Tot-P";"µg P//l";"TOTP";"µg/l";1
+"Tot-P";"µg/l P";"TOTP";"µg/l";1
+"Tot-P";"µg/l";"TOTP";"µg/l";1
+"Tot-P";"µg/l";"TOTP";"µg/l";1
+"Tot-P";"µg P/l";"TOTP";"µg/l";1
+"Tot-P";"µg P/l";"TOTP";"µg/l";1
+"Tot_P";"µg/l P";"TOTP";"µg/l";1
+"Tot_P";"µg/l";"TOTP";"µg/l";1
+"TotP";"mg/L";"TOTP";"µg/l";1000
+"TOTPF";"µg/l P";"TOTP/F";"µg/l P";1
+"TOTPF";"µg/l P";"TOTP/F";"µg/l P";1
+"Tot-P/H";"mg P/l";"TOTP";"µg/l";1000
+"Tot-P/L";"µg P/l";"TOTP";"µg/l";1
+"Tot-P/L,m";"µg P/l";"TOTP/F";"µg/l P";1
+"Tot-P/L-Sj";"µg P/l";"TOTP";"µg/l";1
+"TotP-løst";"mg/L";"TOTP/F";"µg/l P";1000
+"TOTPP";"µg/l";"POP";"µg/l P";1
+"Tot-P/P";"µg/l";"TOTP_P";"µg/l P";1
+"Tot-P/P";"µg P/l";"TOTP_P";"µg/l P";1
+"Tot-P/P";"µg P/l";"POP";"µg/l P";1
+"TOT-S";"mg/l";"TOT-S";"mg/l";1
+"TPhT-V";"ng/l";"TPhT";"ng/l";1
+"TPP";"ng/L";"TPP";"ng/l";1
+"TPrP";"ng/L";"TPrP";"ng/l";1
+"Tributyltinn (TBT)";"NG_P_L";"TBT";"ng/l";1
+"Tributyltinn (TBT)";"NG_P_L";"TBT";"ng/l";1
+"Triclosan";"ng/L";"Triclosan";"ng/L";1
+"Trifenyltinn (TPhT)";"NG_P_L";"TPhT";"ng/l";1
+"Trifenyltinn (TPhT)";"NG_P_L";"TPhT";"ng/l";1
+"Trisykloheksyltinn (TCHT)";"NG_P_L";"TCHT";"ng/L";1
+"Trisykloheksyltinn (TCHT)";"NG_P_L";"TCHT";"ng/L";1
+"TRP";"µg/l";"Totalt reaktivt fosfor";"µg/l";1
+"TRP";"µg/l";"Totalt reaktivt fosfor";"µg/l";1
+"TSM";"MG_P_L";"TSM";"mg/l";1
+"TSM";"mg/l";"TSM";"mg/l";1
+"TSM";"MG_P_L";"TSM";"mg/l";1
+"TSM";"mg/l";"TSM";"mg/l";1
+"TSM";"mg/l";"TSM";"mg/l";1
+"TSM";"mg/l";"TSM";"mg/l";1
+"TSM-F";"MG_P_L";"TSM";"mg/l";1
+"TTBPP";"ng/L";"TTBPP";"ng/l";1
+"TTS";"mg/l";"TSM";"mg/l";1
+"TURB";"NTU";"Turbiditet";"NTU";1
+"TURB";"FTU";"Turbiditet";"FNU";1
+"TURB";"FTU";"Turbiditet";"NTU";1
+"TURB";"FTU";"Turbiditet";"FNU";1
+"TURB";"FNU";"Turbiditet";"FNU";1
+"TURB";"FNU";"Turbiditet";"FNU";1
+"TURB";"FTU";"Turbiditet";"NTU";1
+"TURB";"FTU";"Turbiditet";"NTU";1
+"TURB";"FNU";"Turbiditet";"FNU";1
+"TURB";"FNU";"Turbiditet";"FNU";1
+"TURB";"mg/l SIO2";"Turbiditet";"FNU";1
+"TURB";"FTU";"Turbiditet";"FNU";1
+"TURB";"FTU";"Turbiditet";"FNU";1
+"TURB";"FTU";"Turbiditet";"NTU";1
+"TURB";"FTU";"Turbiditet";"FTU";1
+"TURB";"FTU";"Turbiditet";"FTU";1
+"TURB";"FTU";"Turbiditet";"FTU";1
+"TURB";"FTU";"Turbiditet";"FNU";1
+"TURB";"FTU";"Turbiditet";"FNU";1
+"TURB";"FTU";"Turbiditet";"FNU";1
+"TURB";"mg/l SIO2";"Turbiditet";"FNU";1
+"Turb";"FTU";"Turbiditet";"FTU";1
+"Turb";"FTU";"Turbiditet";"FTU";1
+"Turb";"NTU";"Turbiditet";"NTU";1
+"Turb";"FTU";"Turbiditet";"FTU";1
+"Turb";"FNU";"Turbiditet";"FNU";1
+"Turb";"FTU";"Turbiditet";"FTU";1
+"Turb";"FTU";"Turbiditet";"FTU";1
+"Turb";"FNU";"Turbiditet";"FNU";1
+"Turb";"FTU";"Turbiditet";"FTU";1
+"Turb";"FTU";"Turbiditet";"FTU";1
+"Turb";"NTU";"Turbiditet";"NTU";1
+"turb";"NTU";"Turbidity";"NTU";1
+"Turbid+";"NTU";"Turbiditet";"FNU";1
+"Turbid+";"NTU";"Turbiditet";"NTU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FTU";"Turbiditet";"FTU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FTU";"Turbiditet";"FTU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"NONE";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FTU";"Turbiditet";"FTU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet-filt";"FNU";1
+"Turbiditet";"NONE";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FTU";"Turbiditet";"FTU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FTU";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet";"FNU";"Turbiditet";"FNU";1
+"Turbiditet_Ferrybox";"FNU";"Turbiditet";"FNU";1
+"Turbiditiet";"FNU";"Turbiditet";"FNU";1
+"Turbidity";"NTU";"Turbidity";"NTU";1
+"Turbidity";"FNU";"Turbiditet";"FNU";1
+"Turbidity";"NTU";"Turbiditet";"NTU";1
+"Turbidity";"NTU";"Turbidity";"NTU";1
+"TURB_MT";"FNU";"Turbiditet";"FNU";1
+"TURB860";"FNU";"Turbiditet";"FNU";1
+"TXP";"ng/L";"TXP";"ng/l";1
+"U/HR-ICPM";"µg/l";"U";"µg/l";1
+"U-ICP";"µg/l";"U";"µg/l";1
+"U/MS";"µg/l";"U";"µg/l";1
+"UOC";"mg C/l";"UOC";"mg/l";1
+"UOC";"mg/l";"UOC";"mg/l";1
+"Uran";"UG_P_L";"U";"µg/l";1
+"Uran";"UG_P_L";"U";"µg/l";1
+"Uran";"UG_P_L";"U";"µg/l";1
+"Uran";"UG_P_L";"U";"µg/l";1
+"Uran-F";"UG_P_L";"U-filt";"µg/l";1
+"Uspes_fytoplankton";"mm3/m3";"Uspes_fytoplankton";"mm3/m3";1
+"UV absorbans";"ABS_P_CM";"UV absorbans";"Abs/cm";1
+"UV transmisjon";"PERCENT";"UV transmisjon";"%";1
+"UVABS";"Abs/cm";"UV absorbans";"Abs/cm";1
+"UVABS-U";"Abs/cm";"UV-Abs. 254nm";"Abs/cm";1
+"UVABS365-U";"Abs/cm";"UV-Abs. 365nm";"Abs/cm";1
+"UVABS410";"Abs/cm";"UV-Abs. 410nm";"Abs/cm";1
+"UVABS410-U";"Abs/cm";"UV-Abs. 410nm";"Abs/cm";1
+"UV_254_ABS";"Abs/cm";"UV-Abs. 254nm";"Abs/cm";1
+"UV_285_ABS";"Abs/cm";"UV-Abs. 285nm";"Abs/cm";1
+"UV-327";"ng/L";"UV-327";"ng/L";1
+"UV-327";"NG_P_L";"UV-327";"ng/L";1
+"UV-328";"ng/L";"UV-328";"ng/L";1
+"UV-328";"NG_P_L";"UV-328";"ng/L";1
+"UV-329";"ng/L";"UV-329";"ng/L";1
+"UV-329";"NG_P_L";"UV-329";"ng/L";1
+"UV_365_ABS";"Abs/cm";"UV-Abs. 365nm";"Abs/cm";1
+"UV_410_ABS";"Abs/cm";"UV-Abs. 410nm";"Abs/cm";1
+"U-238";"mBq/L";"U-238";"mBq/L";1
+"V";"µg/l";"V";"µg/L";1
+"V";"µg/l";"V";"µg/l";1
+"V";"µg/l";"V";"µg/l";1
+"V";"mg/l";"V";"µg/l";1000
+"Vanadium";"UG_P_L";"V";"µg/L";1
+"Vanadium";"UG_P_L";"V";"µg/L";1
+"Vanadium";"UG_P_L";"V";"µg/L";1
+"Vanadium-F";"UG_P_L";"V-filt";"µg/l";1
+"Vannføring";"l/s";"Vannføring";"l/s";1
+"Vannføring";"l/s";"Vannføring";"l/s";1
+"Vannføring";"l/s";"Vannføring";"l/s";1
+"Vannføring";"m3/s";"Vannføring";"m3/s";1
+"Vannlopper";"mg/m3";"Vannlopper";"mg/m3";1
+"Vannstand";"m";"Vannstand";"m";1
+"Vannstand";"cm";"Vannstand";"m";0,01
+"Vannstand";"m";"Vannstand";"m";1
+"Vannstand";"mm";"Vannstand";"m";0,001
+"Vannstand";"m";"Vannstand";"m";1
+"Vannstand";"NONE";"Vannstand";"m";1
+"Vannstand";"";"Vannstand";"m";1
+"Vannstand";"m";"Vannstand";"m";1
+"Vannstand";"m";"Vannstand";"m";1
+"Vanntemperatur CTD";"grader C";"Temperatur";"C";1
+"Vanntemperatur fra felt";"DEG_C";"Temperatur";"C";1
+"V-filt";"µg/l";"V-filt";"µg/l";1
+"V/HR-ICPM";"µg/l";"V";"µg/L";1
+"V-ICP";"µg/l";"V";"µg/l";1
+"V-ICP";"µg/l";"V";"µg/L";1
+"Vismut";"UG_P_L";"Bi";"µg/l";1
+"Vismut";"UG_P_L";"Bi";"µg/l";1
+"Vismut";"MG_P_L";"Bi";"µg/l";1
+"Vismut-F";"MG_P_L";"Bi-filt";"mg/l";1
+"Vismut-F";"MG_P_L";"Bi-filt";"mg/l";1
+"V/MS";"µg/l";"V";"µg/L";1
+"v_phen";"mg/l";"Volatile Phenol";"mg/l";1
+"w_cond";"µS/cm";"Conductivity";"µS/cm";1
+"w_cond";"µS/CM";"Konduktivitet";"mS/m";0,1
+"w_depth";"m";"Depth";"m";1
+"W-ICP";"µg/l";"W";"µg/l";1
+"W/MS";"µg/l";"W";"µg/l";1
+"Wolfram";"UG_P_L";"W";"µg/l";1
+"Wolfram";"UG_P_L";"W";"µg/l";1
+"w_ss";"mg/l";"SS";"mg/l";1
+"w_temp";"deg._C";"Temperatur";"C";1
+"XYLO-V";"µg/l";"o-xylen";"ng/l";1
+"YB-ICP";"µg/l";"Yb";"µg/l";1
+"Yb/MS";"µg/l";"Yb";"µg/l";1
+"y-HBCD";"ng/L";"y-HBCD";"ng/L";1
+"Y/HR-ICPM";"µg/l";"Y";"µg/l";1
+"Y-ICP";"µg/l";"Y";"µg/l";1
+"Y/MS";"µg/l";"Y";"µg/l";1
+"Zinc";"µg/l";"Zinc";"µg/l";1
+"Zinc";"µg/l";"Zn";"µg/l";1
+"Zinc (filtered)";"µg/l";"Zn-filt";"µg/l";1
+"Zirkonium";"UG_P_L";"Zr";"µg/l";1
+"Zirkonium";"UG_P_L";"Zr";"µg/l";1
+"ZN";"µg/l";"Zn";"µg/l";1
+"ZN";"µg/l";"Zn";"mg/l";0,001
+"ZN";"µg/l";"Zn";"µg/l";1
+"ZN";"µg/l";"Zn";"mg/l";0,001
+"ZN";"µg/l";"Zn";"mg/l";0,001
+"ZN";"µg/l";"Zn";"µg/l";1
+"ZN";"mg/l";"Zn";"mg/l";1
+"ZN";"mg/l";"Zn";"mg/l";1
+"ZN";"µg/l";"Zn";"mg/l";0,001
+"ZN";"µg/l";"Zn";"mg/l";0,001
+"ZN";"µg/l";"Zn";"mg/l";0,001
+"ZN";"mg/l";"Zn";"mg/l";1
+"ZN";"µg/l";"Zn";"mg/l";0,001
+"ZN";"µg/l";"Zn";"mg/l";0,001
+"Zn";"µg/l";"Zn";"mg/l";0,001
+"Zn";"µg/l";"Zn";"mg/l";0,001
+"Zn";"µg/l";"Zn";"µg/l";1
+"Zn";"µg/L";"Zn";"µg/l";1
+"Zn";"µg/l";"Zn";"mg/l";0,001
+"Zn";"µg/L";"Zn";"µg/l";1
+"Zn";"µg/L";"Zn";"µg/l";1
+"Zn";"ng/ml";"Zn";"µg/l";1
+"Zn";"ug/l";"Zn";"µg/l";1
+"Zn";"µg/l";"Zn";"mg/l";0,001
+"Zn";"mg/l";"Zn";"mg/l";1
+"Zn";"mg/l";"Zn";"mg/l";1
+"Zn";"µg/l";"Zn";"µg/l";1
+"Zn";"µg/l";"Zn";"mg/l";0,001
+"zn";"mg/l";"Zn";"mg/l";1
+"Zn filtrert";"µg/l";"Zn-filt";"µg/l";1
+"Zn oppsluttet";"µg/l";"Zn";"µg/l";1
+"ZN-filt";"µg/l";"Zn-filt";"µg/l";1
+"ZN-filt";"µg/l";"Zn-filt";"µg/l";1
+"ZN-filt";"mg/l";"Zn-filt";"mg/l";1
+"Zn/Fr-Sj";"µg/l";"Zn";"mg/l";0,001
+"Zn/Fr-Sj";"µg/l";"Zn";"mg/l";0,001
+"Zn/Fr-Sj";"µg/l";"Zn";"mg/l";0,001
+"Zn/HR-ICPM";"µg/l";"Zn";"mg/l";0,001
+"ZN-ICP";"µg/l";"Zn";"mg/l";0,001
+"ZN-ICP";"µg/l";"Zn";"mg/l";0,001
+"Zn/ICP";"mg/l";"Zn";"mg/l";1
+"Zn/ICP-Sj";"mg/l";"Zn";"mg/l";1
+"Zn/MS";"µg/l";"Zn";"mg/l";0,001
+"Zn/MSFr-Sj";"µg/l";"Zn";"mg/l";0,001
+"Zn/SPE-Sj";"µg/l";"Zn";"mg/l";0,001
+"Zooplankton total biomasse";"mg/m3";"Zooplankton total biomasse";"mg/m3";1
+"Zr/HR-ICPM";"µg/l";"Zr";"µg/l";1
+"ZR-ICP";"µg/l";"Zr";"µg/l";1
+"Zr/MS";"µg/l";"Zr";"µg/l";1
+"1H,2H-perfluordodekansulfonat (10:2 FTS)";"NG_P_L";"10:2 FTS";"ng/L";1
+"1H,2H-perfluorodecan sulfonate (8:2 FTS)";"NG_P_L";"8:2 FTS";"ng/L";1
+"1H,2H-perfluorohexan sulfonate (4:2 FTS)";"NG_P_L";"4:2 FTS";"ng/L";1
+"1-nitropiperazine";"ng/L";"1-nitropiperazine";"ng/L";1
+"10:2 FTS";"ng/L";"10:2 FTS";"ng/L";1
+"10:2 FTS";"ng/l";"10:2 FTS";"ng/L";1
+"12:2 FTS*";"ng/l";"12:2 FTS";"ng/L";1
+"1234678-HpCDD";"pg/L";"1234678-HpCDD  ";"pg/L";1
+"1234678-HpCDF";"pg/L";"1234678-HpCDF  ";"pg/L";1
+"123478-HxCDD";"pg/L";"123478-HxCDD  ";"pg/L";1
+"123478/123479-HxCDF";"pg/L";"123478/123479-HxCDF  ";"pg/L";1
+"1234789-HpCDF";"pg/L";"1234789-HpCDF  ";"pg/L";1
+"123678-HxCDD";"pg/L";"123678-HxCDD  ";"pg/L";1
+"123678-HxCDF";"pg/L";"123678-HxCDF  ";"pg/L";1
+"12378-PeCDD";"pg/L";"12378-PeCDD  ";"pg/L";1
+"12378/12348-PeCDF";"pg/L";"12378/12348-PeCDF  ";"pg/L";1
+"123789-HxCDD";"pg/L";"123789-HxCDD  ";"pg/L";1
+"123789-HxCDF";"pg/L";"123789-HxCDF  ";"pg/L";1
+"124TMB-V";"µg/l";"1,2,4-trimetylbenzen";"ng/l";1
+"135TMB-V";"µg/l";"1,3,5-trimetylbenzen";"ng/l";1
+"14:2 FTS*";"ng/l";"14:2 FTS";"ng/L";1
+"2-amino-2-methylpropanol";"ng/L";"2-amino-2-methylpropanol";"ng/L";1
+"2-methyl-2-(nitroamino)propan-1-ol";"ng/L";"2-methyl-2-(nitroamino)propan-1-ol";"ng/L";1
+"2-(N-ethylperfluoro-1-octanesulfonamido)-ethanol (N-EtFOSE)";"NG_P_L";"N-EtFOSE";"ng/l";1
+"2-(N-ethylperfluoro-1-octansulfonamido)acetic acid (N-EtFOSAA)";"NG_P_L";"N-EtFOSAA";"ng/l";1
+"2-(nitroamino)ethanol";"ng/L";"2-(nitroamino)ethanol";"ng/L";1
+"2-(N-methylperfluoro-1-octanesulfonamido)-ethanol (N-MeFOSE)";"NG_P_L";"N-MeFOSE";"ng/l";1
+"2-(N-methylperfluoro-1-octansulfonamido)acetic acid (N-MeFOSAA)";"NG_P_L";"N-MeFOSAA";"ng/l";1
+"2,2'-BPF";"ng/L";"2,2'-BPF";"ng/L";1
+"234678-HxCDF";"pg/L";"234678-HxCDF  ";"pg/L";1
+"23478-PeCDF";"pg/L";"23478-PeCDF  ";"pg/L";1
+"2378-TCDD";"pg/L";"2378-TCDD  ";"pg/L";1
+"2378-TCDF";"pg/L";"2378-TCDF  ";"pg/L";1
+"2,4'-BPA";"ng/L";"2,4'-BPA";"ng/L";1
+"2,4'-BPF";"ng/L";"2,4'-BPF";"ng/L";1
+"2,4'-BPS";"ng/L";"2,4'-BPS";"ng/L";1
+"4-tert-octylfenol";"ng/L";"4-tert-octylfenol";"ng/L";1
+"4:2 FTS";"ng/L";"4:2 FTS";"ng/L";1
+"4:2 FTS";"ng/L";"4:2 FTS";"ng/L";1
+"4:2 FTS";"ng/l";"4:2 FTS";"ng/L";1
+"4:2 F53B";"ng/l";"4:2 F53B";"ng/L";1
+"4:2 F53B";"ng/L";"4:2 F53B";"ng/L";1
+"4,4'-BPA";"ng/L";"4,4'-BPA";"ng/L";1
+"4,4'-BPF";"ng/L";"4,4'-BPF";"ng/L";1
+"4,4'-BPS";"ng/L";"4,4'-BPS";"ng/L";1
+"6:2 Fluortelomersulfonat (FTS, H4PFOS)";"NG_P_L";"6:2 FTS";"ng/L";1
+"6:2 FTS";"ng/L";"6:2 FTS";"ng/L";1
+"6:2 FTS";"ng/L";"6:2 FTS";"ng/L";1
+"6:2 FTS";"ng/l";"6:2 FTS";"ng/L";1
+"6:2 F53B";"ng/L";"6:2 F53B";"ng/L";1
+"8Cl-PFOS";"ng/l";"8Cl-PFOS";"ng/L";1
+"8Cl-PFOS";"ng/L";"8Cl-PFOS";"ng/L";1
+"8Cl-PFOS";"ng/L";"8Cl-PFOS";"ng/L";1
+"8:2 FTS";"ng/L";"8:2 FTS";"ng/L";1
+"8:2 FTS";"ng/L";"8:2 FTS";"ng/L";1
+"8:2 FTS";"ng/l";"8:2 FTS";"ng/L";1
+"8:2 F53B";"ng/l";"8:2 F53B";"ng/L";1
+"9NO3+NO2-N";"µg N/l";"NO3+NO2-N";"µg/l";1

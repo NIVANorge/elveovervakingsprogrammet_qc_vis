@@ -1,0 +1,7 @@
+status;description
+N;Not entered
+E;Entered
+M;Modified
+A;Authorised
+X;Canceled
+R;Rejected

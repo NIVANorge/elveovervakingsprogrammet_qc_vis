@@ -1,0 +1,2 @@
+sample_date,period,station_id,station_code,station_name,sample_code,status,depth1,depth2,parameter,flag,value,unit,parameter_unit,outlier
+2021-03-01,New,40356,ØSTEGLO,Glomma ved Sarpsfoss,NR-2021-01089,Entered,0.0,0.0,NH4-N,,48.0,µg/l,NH4-N_µg/l,1
