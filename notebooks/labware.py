@@ -37,6 +37,10 @@ def queryGraph(token, document):
         host + aqua_site + "lab/graphql", json=document, cookies=dict(aqua_key=token)
     )
 
+    if "errors" in resp.json():
+        message = resp.json()["errors"]
+        raise Exception(message)
+
     return resp.json()["data"]
 
 
@@ -59,7 +63,6 @@ def get_labware_projects(token, proj_code):
             "variables": {"nr": proj_code},
         },
     )
-
     return json_normalize(resp["projects"])
 
 
@@ -92,9 +95,8 @@ def get_labware_project_samples(token, proj_list):
         )
 
         resp = json_normalize(resp["samples"])
-
         df_list.append(resp)
-        
+
         if len(resp) > 0:
             for stn_id in resp["projectStationId"].unique():
                 try:
@@ -105,8 +107,10 @@ def get_labware_project_samples(token, proj_list):
                     name_list.append(stn_data["Name"])
                     type_list.append(stn_data["Type"]["_Text"])
 
-                except:
-                    print(f'Station with projectStationId {stn_id} is not in Aquamonitor.')
+                except Exception as e:
+                    print(f"Error identifying projectStationId {stn_id}:")
+                    print(e)
+                    print("###############################################")
                     pass
 
     samp_df = pd.concat(df_list, axis="rows", sort=True)
