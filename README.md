@@ -4,11 +4,21 @@ Comparing results from the new (2021 - 2025) programme with those from 2017 - 20
 
 ## Results
 
- * **[Distribution plots](https://nivanorge.github.io/elveovervakingsprogrammet_qc_vis/pages/distribution_plots.html)**
+### Rivers in the main programme
+
+ * **[Distribution plots](https://nivanorge.github.io/elveovervakingsprogrammet_qc_vis/pages/main_prog/distribution_plots.html)**
  
- * **[Time series outlier plots](https://nivanorge.github.io/elveovervakingsprogrammet_qc_vis/pages/timeseries_plots.html)**
+ * **[Time series outlier plots](https://nivanorge.github.io/elveovervakingsprogrammet_qc_vis/pages/main_prog/timeseries_plots.html)**
  
- * **[Time series outlier table](https://github.com/NIVANorge/elveovervakingsprogrammet_qc_vis/blob/main/output/timerseries_outliers.csv)** 
+ * **[Time series outlier table](https://github.com/NIVANorge/elveovervakingsprogrammet_qc_vis/blob/main/output)** 
+ 
+### "Option 3" rivers
+
+ * **[Distribution plots](https://nivanorge.github.io/elveovervakingsprogrammet_qc_vis/pages/option3/distribution_plots_option3.html)**
+ 
+ * **[Time series outlier plots](https://nivanorge.github.io/elveovervakingsprogrammet_qc_vis/pages/option3/timeseries_plots_option3.html)**
+ 
+ * **[Time series outlier table](https://github.com/NIVANorge/elveovervakingsprogrammet_qc_vis/blob/main/output)** 
 
 
 ## Notebooks
