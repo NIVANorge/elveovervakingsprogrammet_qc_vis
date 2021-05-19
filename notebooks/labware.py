@@ -4,8 +4,8 @@ import pandas as pd
 import requests
 from pandas import json_normalize
 
-host = "http://www.aquamonitor.no/"
-aqua_site = "AquaServices"
+host = "https://aquamonitor.niva.no/"
+aqua_site = "admin"
 archive_site = "AquaServices"
 cache_site = "AquaCache"
 
@@ -34,7 +34,7 @@ def getJson(token, path):
 def queryGraph(token, document):
     """Interface to GraphQL API."""
     resp = requests.post(
-        host + aqua_site + "lab/graphql", json=document, cookies=dict(aqua_key=token)
+        host + aqua_site + "/lab/graphql", json=document, cookies=dict(aqua_key=token)
     )
 
     if "errors" in resp.json():
@@ -100,7 +100,7 @@ def get_labware_project_samples(token, proj_list):
         if len(resp) > 0:
             for stn_id in resp["projectStationId"].unique():
                 try:
-                    stn_data = getJson(token, aqua_site + f"api/stations/{stn_id}")
+                    stn_data = getJson(token, aqua_site + f"/api/stations/{stn_id}")
 
                     lw_id_list.append(stn_id)
                     id_list.append(stn_data["Id"])
