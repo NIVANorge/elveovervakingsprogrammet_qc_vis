@@ -1,9 +1,11 @@
 sample_date,period,station_id,station_code,station_name,sample_code,status,depth1,depth2,parameter,flag,value,unit,parameter_unit,outlier
 2021-04-10,New,40378,NORERAN,Ranaelva,NR-2021-02373,Entered,0.0,0.0,Ca,,15.6,mg/L,Ca_mg/L,1
+2021-05-04,New,40378,NORERAN,Ranaelva,NR-2021-03901,Entered,0.0,0.0,Ca,,16.4,mg/L,Ca_mg/L,1
 2021-04-10,New,40378,NORERAN,Ranaelva,NR-2021-02373,Entered,0.0,0.0,Konduktivitet,,12.2,mS/m,Konduktivitet_mS/m,1
 2021-05-04,New,40378,NORERAN,Ranaelva,NR-2021-03901,Entered,0.0,0.0,Konduktivitet,,13.1,mS/m,Konduktivitet_mS/m,1
 2021-04-10,New,40378,NORERAN,Ranaelva,NR-2021-02373,Authorised,0.0,0.0,NO3-N,,160.0,µg/l,NO3-N_µg/l,1
 2021-04-10,New,40378,NORERAN,Ranaelva,NR-2021-02373,Entered,0.0,0.0,Si,,0.936,mg/l,Si_mg/l,1
+2021-05-04,New,40378,NORERAN,Ranaelva,NR-2021-03901,Entered,0.0,0.0,Si,,0.808,mg/l,Si_mg/l,1
 2021-04-10,New,40378,NORERAN,Ranaelva,NR-2021-02373,Entered,0.0,0.0,TOC,,1.4,mg/l,TOC_mg/l,1
 2021-04-10,New,40378,NORERAN,Ranaelva,NR-2021-02373,Entered,0.0,0.0,Turbiditet,,0.9,FNU,Turbiditet_FNU,1
 2021-05-04,New,40378,NORERAN,Ranaelva,NR-2021-03901,Entered,0.0,0.0,Turbiditet,,0.75,FNU,Turbiditet_FNU,1
@@ -69,8 +71,10 @@ sample_date,period,station_id,station_code,station_name,sample_code,status,depth
 2021-03-01,New,70612,MROESURX2,Surna v/Dønnem bru,NR-2021-01169,Authorised,0.0,0.0,Turbiditet,,4.2,FNU,Turbiditet_FNU,1
 2021-03-01,New,70612,MROESURX2,Surna v/Dønnem bru,NR-2021-01169,Rejected,0.0,0.0,pH,,6.47,None,pH_None,1
 2021-04-06,New,70613,STREORKX3,Orkla v/Tjønnan bru,NR-2021-02357,Authorised,0.0,0.0,NO3-N,,170.0,µg/l,NO3-N_µg/l,1
+2021-05-03,New,70613,STREORKX3,Orkla v/Tjønnan bru,NR-2021-03885,Entered,0.0,0.0,NO3-N,,140.0,µg/l,NO3-N_µg/l,1
 2021-03-01,New,70613,STREORKX3,Orkla v/Tjønnan bru,NR-2021-01171,Rejected,0.0,0.0,pH,,6.65,None,pH_None,1
 2021-04-06,New,70613,STREORKX3,Orkla v/Tjønnan bru,NR-2021-02357,Entered,0.0,0.0,pH,,7.33,None,pH_None,1
+2021-05-03,New,70613,STREORKX3,Orkla v/Tjønnan bru,NR-2021-03885,Entered,0.0,0.0,pH,,7.29,None,pH_None,1
 2021-03-01,New,70614,STREORKX2,Orkla v/Dombu,NR-2021-01172,Authorised,0.0,0.0,NO3-N,,290.0,µg/l,NO3-N_µg/l,1
 2021-03-01,New,70614,STREORKX2,Orkla v/Dombu,NR-2021-01172,Authorised,0.0,0.0,PO4-P,,7.0,µg/l,PO4-P_µg/l,1
 2021-03-01,New,70614,STREORKX2,Orkla v/Dombu,NR-2021-01172,Authorised,0.0,0.0,TOTP,,15.0,µg/l,TOTP_µg/l,1
@@ -97,6 +101,7 @@ sample_date,period,station_id,station_code,station_name,sample_code,status,depth
 2021-04-06,New,70617,STRENIDX3,Nidelva v/Svean bru,NR-2021-02360,Entered,0.0,0.0,Konduktivitet,,3.42,mS/m,Konduktivitet_mS/m,1
 2021-03-02,New,70617,STRENIDX3,Nidelva v/Svean bru,NR-2021-01176,Authorised,0.0,0.0,NO3-N,,100.0,µg/l,NO3-N_µg/l,1
 2021-04-06,New,70617,STRENIDX3,Nidelva v/Svean bru,NR-2021-02360,Entered,0.0,0.0,NO3-N,,120.0,µg/l,NO3-N_µg/l,1
+2021-05-03,New,70617,STRENIDX3,Nidelva v/Svean bru,NR-2021-03888,Entered,0.0,0.0,NO3-N,,100.0,µg/l,NO3-N_µg/l,1
 2021-02-17,New,70617,STRENIDX3,Nidelva v/Svean bru,NR-2021-01000,Authorised,0.0,0.0,PO4-P,,5.0,µg/l,PO4-P_µg/l,1
 2021-03-02,New,70617,STRENIDX3,Nidelva v/Svean bru,NR-2021-01176,Authorised,0.0,0.0,PO4-P,,2.0,µg/l,PO4-P_µg/l,1
 2021-03-02,New,70617,STRENIDX3,Nidelva v/Svean bru,NR-2021-01176,Authorised,0.0,0.0,Si,,1.06,mg/l,Si_mg/l,1
