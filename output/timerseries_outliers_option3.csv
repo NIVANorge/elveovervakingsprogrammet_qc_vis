@@ -4,6 +4,8 @@ sample_date,period,station_id,station_code,station_name,sample_code,status,depth
 2021-04-10,New,40378,NORERAN,Ranaelva,NR-2021-02373,Entered,0.0,0.0,Konduktivitet,,12.2,mS/m,Konduktivitet_mS/m,1
 2021-05-04,New,40378,NORERAN,Ranaelva,NR-2021-03901,Entered,0.0,0.0,Konduktivitet,,13.1,mS/m,Konduktivitet_mS/m,1
 2021-04-10,New,40378,NORERAN,Ranaelva,NR-2021-02373,Authorised,0.0,0.0,NO3-N,,160.0,µg/l,NO3-N_µg/l,1
+2021-05-04,New,40378,NORERAN,Ranaelva,NR-2021-03901,Entered,0.0,0.0,NO3-N,,140.0,µg/l,NO3-N_µg/l,1
+2021-05-04,New,40378,NORERAN,Ranaelva,NR-2021-03901,Entered,0.0,0.0,PO4-P,,3.0,µg/l,PO4-P_µg/l,1
 2021-04-10,New,40378,NORERAN,Ranaelva,NR-2021-02373,Entered,0.0,0.0,Si,,0.936,mg/l,Si_mg/l,1
 2021-05-04,New,40378,NORERAN,Ranaelva,NR-2021-03901,Entered,0.0,0.0,Si,,0.808,mg/l,Si_mg/l,1
 2021-04-10,New,40378,NORERAN,Ranaelva,NR-2021-02373,Entered,0.0,0.0,TOC,,1.4,mg/l,TOC_mg/l,1
@@ -74,7 +76,7 @@ sample_date,period,station_id,station_code,station_name,sample_code,status,depth
 2021-05-03,New,70613,STREORKX3,Orkla v/Tjønnan bru,NR-2021-03885,Entered,0.0,0.0,NO3-N,,140.0,µg/l,NO3-N_µg/l,1
 2021-03-01,New,70613,STREORKX3,Orkla v/Tjønnan bru,NR-2021-01171,Rejected,0.0,0.0,pH,,6.65,None,pH_None,1
 2021-04-06,New,70613,STREORKX3,Orkla v/Tjønnan bru,NR-2021-02357,Entered,0.0,0.0,pH,,7.33,None,pH_None,1
-2021-05-03,New,70613,STREORKX3,Orkla v/Tjønnan bru,NR-2021-03885,Entered,0.0,0.0,pH,,7.29,None,pH_None,1
+2021-05-03,New,70613,STREORKX3,Orkla v/Tjønnan bru,NR-2021-03885,Rejected,0.0,0.0,pH,,7.29,None,pH_None,1
 2021-03-01,New,70614,STREORKX2,Orkla v/Dombu,NR-2021-01172,Authorised,0.0,0.0,NO3-N,,290.0,µg/l,NO3-N_µg/l,1
 2021-03-01,New,70614,STREORKX2,Orkla v/Dombu,NR-2021-01172,Authorised,0.0,0.0,PO4-P,,7.0,µg/l,PO4-P_µg/l,1
 2021-03-01,New,70614,STREORKX2,Orkla v/Dombu,NR-2021-01172,Authorised,0.0,0.0,TOTP,,15.0,µg/l,TOTP_µg/l,1
@@ -136,6 +138,7 @@ sample_date,period,station_id,station_code,station_name,sample_code,status,depth
 2021-02-28,New,70620,NTRESTJX2,Stjørdalselva v/Hegramo,NR-2021-01003,Authorised,0.0,0.0,Si,,2.13,mg/l,Si_mg/l,1
 2021-03-08,New,70620,NTRESTJX2,Stjørdalselva v/Hegramo,NR-2021-01179,Authorised,0.0,0.0,Si,,1.34,mg/l,Si_mg/l,1
 2021-04-06,New,70620,NTRESTJX2,Stjørdalselva v/Hegramo,NR-2021-02362,Entered,0.0,0.0,Si,,1.29,mg/l,Si_mg/l,1
+2021-02-16,New,70620,NTRESTJX2,Stjørdalselva v/Hegramo,NR-2021-00633,Entered,0.0,0.0,TOTP,,85.0,µg/l,TOTP_µg/l,1
 2021-02-16,New,70620,NTRESTJX2,Stjørdalselva v/Hegramo,NR-2021-00633,Entered,0.0,0.0,TOTP,,27.0,µg/l,TOTP_µg/l,1
 2021-02-28,New,70620,NTRESTJX2,Stjørdalselva v/Hegramo,NR-2021-01003,Authorised,0.0,0.0,TOTP,,47.0,µg/l,TOTP_µg/l,1
 2021-02-16,New,70620,NTRESTJX2,Stjørdalselva v/Hegramo,NR-2021-00633,Entered,0.0,0.0,TSM,,44.7,mg/l,TSM_mg/l,1
@@ -165,15 +168,20 @@ sample_date,period,station_id,station_code,station_name,sample_code,status,depth
 2021-03-23,New,70624,NTREOGNX1,Ogna v/Midjo,NR-2021-01186,Authorised,0.0,0.0,Turbiditet,,36.0,FNU,Turbiditet_FNU,1
 2021-04-07,New,70624,NTREOGNX1,Ogna v/Midjo,NR-2021-02366,Entered,0.0,0.0,Turbiditet,,4.3,FNU,Turbiditet_FNU,1
 2021-04-27,New,70625,NTRENAMX3,Namsen v/Lassemoen,NR-2021-02367,Entered,0.0,0.0,PO4-P,,2.0,µg/l,PO4-P_µg/l,1
+2021-04-27,New,70625,NTRENAMX3,Namsen v/Lassemoen,NR-2021-02367,Entered,0.0,0.0,TOTP,,7.0,µg/l,TOTP_µg/l,1
 2021-04-27,New,70625,NTRENAMX3,Namsen v/Lassemoen,NR-2021-02367,Entered,0.0,0.0,TSM,,1.45,mg/l,TSM_mg/l,1
+2021-05-18,New,70625,NTRENAMX3,Namsen v/Lassemoen,NR-2021-03895,Entered,0.0,0.0,TSM,,1.03,mg/l,TSM_mg/l,1
 2021-04-27,New,70625,NTRENAMX3,Namsen v/Lassemoen,NR-2021-02367,Entered,0.0,0.0,Turbiditet,,0.63,FNU,Turbiditet_FNU,1
+2021-05-18,New,70625,NTRENAMX3,Namsen v/Lassemoen,NR-2021-03895,Modified,0.0,0.0,Turbiditet,,0.43,FNU,Turbiditet_FNU,1
 2021-01-01,New,70626,NTRENAMX2,Namsen v/Rosten,NR-2021-00643,Canceled,0.0,0.0,Ca,,0.0,mg/L,Ca_mg/L,1
 2021-01-01,New,70626,NTRENAMX2,Namsen v/Rosten,NR-2021-00643,Canceled,0.0,0.0,Konduktivitet,,0.0,mS/m,Konduktivitet_mS/m,1
 2021-03-09,New,70626,NTRENAMX2,Namsen v/Rosten,NR-2021-01013,Canceled,0.0,0.0,Konduktivitet,,0.0,mS/m,Konduktivitet_mS/m,1
 2021-03-29,New,70626,NTRENAMX2,Namsen v/Rosten,NR-2021-01189,Entered,0.0,0.0,PO4-P,,8.0,µg/l,PO4-P_µg/l,1
 2021-01-01,New,70626,NTRENAMX2,Namsen v/Rosten,NR-2021-00643,Canceled,0.0,0.0,Si,,0.0,mg/l,Si_mg/l,1
+2021-05-18,New,70626,NTRENAMX2,Namsen v/Rosten,NR-2021-03896,Entered,0.0,0.0,TSM,,33.0,mg/l,TSM_mg/l,1
 2021-01-01,New,70626,NTRENAMX2,Namsen v/Rosten,NR-2021-00643,Canceled,0.0,0.0,pH,,0.0,None,pH_None,1
 2021-03-09,New,70626,NTRENAMX2,Namsen v/Rosten,NR-2021-01013,Canceled,0.0,0.0,pH,,0.0,None,pH_None,1
+2021-05-18,New,70626,NTRENAMX2,Namsen v/Rosten,NR-2021-03896,Modified,0.0,0.0,pH,,6.66,None,pH_None,1
 2021-02-17,New,70627,NOREVEFX3,Vefsna v/Kløvimo,NR-2021-01014,Authorised,0.0,0.0,NO3-N,,230.0,µg/l,NO3-N_µg/l,1
 2021-03-01,New,70628,NOREVEFX2,Vefsna v/Finnsåsmoan,NR-2021-01191,Canceled,0.0,0.0,Si,,0.0,mg/l,Si_mg/l,1
 2021-03-01,New,70628,NOREVEFX2,Vefsna v/Finnsåsmoan,NR-2021-01191,Canceled,0.0,0.0,TOC,,0.0,mg/l,TOC_mg/l,1
@@ -199,7 +207,14 @@ sample_date,period,station_id,station_code,station_name,sample_code,status,depth
 2021-03-01,New,70632,NORERANX2,Ranelva v/Hommelberget,NR-2021-01196,Canceled,0.0,0.0,Turbiditet,,0.0,FNU,Turbiditet_FNU,1
 2021-03-09,New,70632,NORERANX2,Ranelva v/Hommelberget,NR-2021-01020,Authorised,0.0,0.0,Turbiditet,,1.4,FNU,Turbiditet_FNU,1
 2021-03-01,New,70632,NORERANX2,Ranelva v/Hommelberget,NR-2021-01196,Canceled,0.0,0.0,pH,,0.0,None,pH_None,1
-2021-04-26,New,70634,NORESALX2,Saltdalselva v/Potthus,NR-2021-01023,Entered,0.0,0.0,TOC,,2.3,mg/l,TOC_mg/l,1
+2021-05-18,New,70633,NORESALX3,Saltdalselva v/Tiegga,NR-2021-02374,Entered,0.0,0.0,TOC,,3.0,mg/l,TOC_mg/l,1
+2021-05-18,New,70633,NORESALX3,Saltdalselva v/Tiegga,NR-2021-02374,Entered,0.0,0.0,TSM,,21.9,mg/l,TSM_mg/l,1
+2021-05-18,New,70633,NORESALX3,Saltdalselva v/Tiegga,NR-2021-02374,Modified,0.0,0.0,Turbiditet,,2.2,FNU,Turbiditet_FNU,1
+2021-04-26,New,70634,NORESALX2,Saltdalselva v/Potthus,NR-2021-01023,Authorised,0.0,0.0,TOC,,2.3,mg/l,TOC_mg/l,1
+2021-05-18,New,70634,NORESALX2,Saltdalselva v/Potthus,NR-2021-02375,Entered,0.0,0.0,TOC,,3.0,mg/l,TOC_mg/l,1
+2021-05-18,New,70634,NORESALX2,Saltdalselva v/Potthus,NR-2021-02375,Entered,0.0,0.0,TSM,,37.1,mg/l,TSM_mg/l,1
+2021-05-18,New,70634,NORESALX2,Saltdalselva v/Potthus,NR-2021-02375,Modified,0.0,0.0,Turbiditet,,2.9,FNU,Turbiditet_FNU,1
+2021-05-18,New,70634,NORESALX2,Saltdalselva v/Potthus,NR-2021-02375,Modified,0.0,0.0,pH,,6.93,None,pH_None,1
 2021-02-15,New,71096,MROESURX1,Surna v/Høghammaren,NR-2021-00994,Authorised,0.0,0.0,PO4-P,,3.0,µg/l,PO4-P_µg/l,1
 2021-03-01,New,71096,MROESURX1,Surna v/Høghammaren,NR-2021-01170,Authorised,0.0,0.0,PO4-P,,5.0,µg/l,PO4-P_µg/l,1
 2021-03-01,New,71096,MROESURX1,Surna v/Høghammaren,NR-2021-01170,Authorised,0.0,0.0,TOTP,,11.0,µg/l,TOTP_µg/l,1
