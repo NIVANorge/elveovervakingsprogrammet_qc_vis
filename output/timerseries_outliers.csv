@@ -1,11 +1,12 @@
 sample_date,period,station_id,station_code,station_name,sample_code,status,depth1,depth2,parameter,flag,value,unit,parameter_unit,outlier
 2021-05-18,New,40352,BUSEDRA,Drammenselva,NR-2021-04226,Authorised,0.0,0.0,NO3-N,,470.0,µg/l,NO3-N_µg/l,1
-2021-05-25,New,40352,BUSEDRA,Drammenselva,NR-2021-04228,Entered,0.0,0.0,NO3-N,,490.0,µg/l,NO3-N_µg/l,1
-2021-05-25,New,40352,BUSEDRA,Drammenselva,NR-2021-04228,Entered,0.0,0.0,TOTP,,12.0,µg/l,TOTP_µg/l,1
-2021-05-03,New,40352,BUSEDRA,Drammenselva,NR-2021-03544,Entered,0.0,0.0,TSM,,4.37,mg/l,TSM_mg/l,1
+2021-05-25,New,40352,BUSEDRA,Drammenselva,NR-2021-04228,Authorised,0.0,0.0,NO3-N,,490.0,µg/l,NO3-N_µg/l,1
+2021-05-25,New,40352,BUSEDRA,Drammenselva,NR-2021-04228,Authorised,0.0,0.0,TOTP,,12.0,µg/l,TOTP_µg/l,1
+2021-05-03,New,40352,BUSEDRA,Drammenselva,NR-2021-03544,Authorised,0.0,0.0,TSM,,4.37,mg/l,TSM_mg/l,1
 2021-05-18,New,40352,BUSEDRA,Drammenselva,NR-2021-04226,Authorised,0.0,0.0,TSM,,6.51,mg/l,TSM_mg/l,1
-2021-05-25,New,40352,BUSEDRA,Drammenselva,NR-2021-04228,Entered,0.0,0.0,TSM,,6.69,mg/l,TSM_mg/l,1
+2021-05-25,New,40352,BUSEDRA,Drammenselva,NR-2021-04228,Authorised,0.0,0.0,TSM,,6.69,mg/l,TSM_mg/l,1
 2021-05-18,New,40352,BUSEDRA,Drammenselva,NR-2021-04226,Authorised,0.0,0.0,Turbiditet,,3.9,FNU,Turbiditet_FNU,1
-2021-05-25,New,40352,BUSEDRA,Drammenselva,NR-2021-04228,Entered,0.0,0.0,Turbiditet,,5.0,FNU,Turbiditet_FNU,1
-2021-05-25,New,40356,ØSTEGLO,Glomma ved Sarpsfoss,NR-2021-04229,Entered,0.0,0.0,Ca,,4.0,mg/L,Ca_mg/L,1
+2021-05-25,New,40352,BUSEDRA,Drammenselva,NR-2021-04228,Authorised,0.0,0.0,Turbiditet,,5.0,FNU,Turbiditet_FNU,1
+2021-07-05,New,40352,BUSEDRA,Drammenselva,NR-2021-07677,Canceled,0.0,0.0,pH,,0.0,None,pH_None,1
+2021-05-25,New,40356,ØSTEGLO,Glomma ved Sarpsfoss,NR-2021-04229,Authorised,0.0,0.0,Ca,,4.0,mg/L,Ca_mg/L,1
 2021-03-01,New,40356,ØSTEGLO,Glomma ved Sarpsfoss,NR-2021-01089,Authorised,0.0,0.0,NH4-N,,48.0,µg/l,NH4-N_µg/l,1
